@@ -1,0 +1,2037 @@
+[
+  {
+    "_id": "5e5f6c1617ac81673137da7c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements <br>(a) Some election laws have been made to ensure that every political party and candidates get a fair and equal chance to compete. <br>(b) According to codes of conduct of election campaign, any parties or candidate can use any place of worship for election propaganda. <br>(c) People who are eligible to vote can go to electoral office to vote. <br>(d) Elections are conducted by Election Commission. <br>Which of the above statements are correct ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "a, b and c"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "a and d"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "b and d"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "b, c and d"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "If the elections for electing the representative are not fair and impartial people will lose faith in the entire democratic system."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1438e75a65aa625f67",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "How many scats are reserved for Scheduled Castes in the Lok Sabha?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "59"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "69"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "79"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "84"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "For the purpose of constituting the Lok Sabha. the whole country has been divided into 543 Parliamentary Constituencies , each one of which elects one member. The members of the Lok Sabha are elected directly by the eligible voters. The President of India can nominate maximum of two members as representatives of the Anglo- lndian community . Some seats are reserved in Lok Sabha for the members of the Schedule Castes and Scheduled Tribes. As per the order issued by the Delimitation Commission in 2008, 412 are general, 84 seats are reserved for Scheduled Castes and 47 scats for the Scheduled Tribes .Earlier it was 79 and 41 for Scheduled Castes and Scheduled Tribes respectively."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1217ac81673137da73",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one among the following is the distinguishing factor between a pressure group and a political party?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Pressure groups are confined to a few, while political parties involve larger number of people"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Pressure groups do not seek active political power, political parties do"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Pressure groups do not politically motivate people, while political parties do"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Political parties take political stance, while pressure groups do not bother about political issues"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Pressure groups do not seek active political pow er, political parties do. Political parties exist to gain power over governmental policy by winning elections for political office. Interest groups do not necessarily have their members run for office and they vote in a nonpartisan way, supporting candidates who promote their point of view."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1338e75a65aa625f65",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A political party is recognized as a regional party, if"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "It gets 4% votes in the State either in Lok Sabha or the Assembly election"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "It gets 6% votes in the State either in Lok Sabha or the Assembly election"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "It gets 8% votes in the State either in Lok Sabha or the Assembly election"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "None of the above"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "A political party is entitled to be recognised as a state party only if it secures at least 6% of the valid votes polled in the State at a general election either to the Lok Sabha or to the Legislative Assembly of the State concerned and in addition wins at least 2 seats in the State Legislative Assembly of concerned state."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8a2c8f1436d3af2f0b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Growth of regional political parties in India is attributed to which of the following? </td> </tr> <tr> <td> 1. Diversified nature of Indian Society </td> </tr> <tr> <td> 2. Inability to accommodate demands of various sections of society </td> </tr> <tr> <td> 3. Regional imbalances in the development </td> </tr> <tr> <td> 4. Factional fight within the larger parties </td> </tr> </table> Select the correct answer by using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da872c8f1436d3af2efc",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following statements is not an explanation of the general characteristics of a pressure group?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A major objective of a pressure group is to acquire, consolidate and extend political power."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A pressure group aims at projecting and fulfilling specific interests."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A pressure group seeks to influence decision-makers in a manner favourable to its specific interests."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A pressure group is generally too limited in its organisation and goals to be mistaken for a bonfire political party."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da892c8f1436d3af2f05",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "On the basis of the criterion issued by the Election Commission of India, what is the minimum number of states in which a political party must be recognised to be termed as a 'national party' throughout the whole of India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "3 states"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "4 states"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "5 states"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "6 states"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1265e76d668691308a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements :<br> <b>Assertion (A)</b>:<br> The reservation of thirty-three percent of seats for women in parliament and state legislature docs not require constitutional Amendment. <br><b>Reason (R)</b>:<br> Political parties contesting elections can allocate thirty-three per cent of seats they contest to women candidates without any Constitutional Amendment <br>Which one of the following is correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are true and R is the correct explanation of A."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are true but R is not the correct explanation of A."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The 108th amendment bill or the women’s reservation bill, introduced in 2008, is a lapsed bill. The bill proposed to amend the Indian Constitution to reserve 33 percent of seats for women in the lower house of the Indian Parliament, in the Lok Sabha and in the state legislative assemblies."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1365e76d668691308c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements <br>1. The Anti-Defection Law bans an elected member from voting against the explicit mandate of his/her party. <br>2. The Anti-Defection provisions do not apply if one-third of the members of a party disobey the mandate of the party and constitute themselves as a separate party."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The grounds for disqualification under the Anti-Defection Law are as follows:<br> If he votes or abstains from voting in such House contrary to any direction issued by his political party or anyone authorised to do so. without obtaining prior permission. As a pre-condition for his disqualification, his abstention from voting should not be condoned by his party or the authorised person within 15 days of such incident. As per the 1985 Act, a ‘defection’ by one-third of the elected members of a political party was considered a ‘merger’. Finally, the 91st Constitutional Amendment Act. 2003. changed this. So now at least two-thirds of the members of a party have to be in favour of a “merger” for it to have validity in the eyes of the law."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1238e75a65aa625f61",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which party has advocated the coming together of all Left parties?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "CPI"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "CPI(M)"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "NCP"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "INC"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Communist party of India (CPI) has advocated to coming together of all left parties."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1665e76d6686913095",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The political party which believes in Marxism-Leninism is"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Nationalist Congress Party"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Communist Party of India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Dravida Munnetra Kazhagam"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Bahujan Samaj Party"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The CPI came into existence in 1964 as a result of the division of communist party of India. It is against capitalism and believes in socialism, democracy and secularism."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1317ac81673137da75",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Election Commission recognizes a political party as a national party if  <br>1. it secures at least six percent of the total valid votes polled in four or more States in a general election to the Lok Sabha or to the State Legislative Assemblies. <br>2. it wins at least four seats in a general election to the Lok Sabha from any State or States. <br>Select the correct answer using the code given below: 1 only"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1165e76d6686913087",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In India party less democracy was first advocated by"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Jai Prakash Narayan"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "M.N. Ray"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Vinoba Bhave"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Mahatma Gandhi"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "In India partyless democracy was first advocated by Jai Prakash Narayan. Jayaprakash Narayan (11 October 1902 - 8 October 1979). widely known as JP Narayan. Jayaprakash. or Lok Nayak (Hindi for The People's Hero)."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1017ac81673137da6d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The political parties got the Constitution recognition for the first time in the year"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1975"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1977"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1985"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1995"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Political parties got the constitutional recognition for the first time in 1985,"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1465e76d668691308e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "When did the Communist Party of India (Marxist) emerge as a separate political party?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1960"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1964"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1968"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1973"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The communist parly of India (Marxist) was bom in the struggle against revisionism and sectarianism in the communist movement at the international and national level, in order to defend the scientific and revolutionary tenets of Marxism - Leninism and its appropriate application in the concrete Indian conditions. It was emerged as a Separate Political party in 1964."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da882c8f1436d3af2eff",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following was the first country-wide pressure group of the organised Indian working class?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "All India Trade Union Congress"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Indian National Trade Union Congress"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "United Trade Union Congress"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Hind Mazdoor Sabha"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da89ca481156bffcbb80",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who among the following advocated party-less democracy in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Mahatma Gandhi"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "M.N. Roy"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Jayaprakash Narayan"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Acharya Vinoba Bhave"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1465e76d6686913090",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which section of the Scheduled Castes and Scheduled Tribes [Prevention of Atrocities] Act, 1989 is economic boycott defined ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Section 2[b]"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Section 2[b c]"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Section [b f]"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Section 2[b g]"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "In Scheduled Caste and Schedule Tribcs( Prevention of Atrocities) act - 1989, section 2( be) —economic boveottl means- <br>(i) A refusal to deal with, w ork for hire or do business with other person; or <br>(ii) To deny opportunities including access to services or contractual opportunities for rendering service for consideration; or <br>(iii) To refuse to do anything on the terms on which things would be commonly done in the ordinary course of business; or Scheduled Castes and Scheduled Tribes <br>(iv) To abstain from the professional or business relations that one would maintain with other person."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1117ac81673137da6f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Kamraj Plan proposed"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "priority to agriculture over industry"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "inducting senior leaders to party work"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "election to all party officers"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "an overhaul of the congress working committee"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Kamraj Plan proposed inducting senior leaders to party work. 1 le came up with a plan which was called the “Kamaraj Plan”. On 2 October 1963, he resigned from the post of Tamil Nadu Chief Minister. He proposed that all senior Congress leaders should resign from their posts and devote all their energy to the rc-vitalization of the party."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1338e75a65aa625f63",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one among the following statements about the functioning of political parties in a democracy is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Political parties give political education to the people"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Political parties serve as a link between the government and the people"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Political parties fight elections and try to get the maximum number of their candidates elected"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "None of the above"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "“Political parties give political education to the people” is not the function of political parties in a democracy."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1517ac81673137da79",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which one of the following Sections of the Scheduled Castes and Scheduled Tribes [Prevention of Atrocities] Acr. 1989 is anticipatory bail prohibited ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Section 22"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Section 20"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Section 18"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Section 16"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Under Scheduled Castes and Scheduled Tribes (prevention of atrocities) act 1989, section -18 is anticipatory bail prohibited. Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 protects marginalised communities against discrimination and atrocities.... It had stated that for persons accused of committing offence under Act. approval of Senior Superintendent of Police (SSP) will be required before an arrest is made."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da872c8f1436d3af2efd",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "To which one of the following major political parties is the Centre of Indian Trade Unions (CITU) attached?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Indian National Congress"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Communist Party of India (Marxist)"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Communist Party of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Bharatiya Janata Party"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da89ca481156bffcbb7f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following political parties of India: </td> </tr> <tr> <td> 1. DMK </td> </tr> <tr> <td> 2. CPI (M) </td> </tr> <tr> <td> 3. AGP </td> </tr> <tr> <td> 4. TDP </td> </tr> </table> Which one of the following is the correct chronology of their formation?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1-2-4-3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1-2-3-4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2-1-4-3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "4-3-2-1"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da872c8f1436d3af2efe",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is the primary purpose of a pressure group?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "To criticise the government"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "To contest the elections"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "To formulate policy"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "To bring pressure on government to influence policy decision"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da892c8f1436d3af2f09",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The basic problem in the working of parliamentary system in India arises out of:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Lack of a cohesive and viable party system"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The absence of an efficient and independent bureaucracy"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Lack of clear constitutional provisions"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Weak political executive on account of its dependence on the legislature"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da892c8f1436d3af2f0a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following statements is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Communist Party of India was formed in 1925"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Bharatiya Janata Party was formed in 1978"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Shiromani Akali Dal was formed in 1920"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "AIADMK was formed in 1972"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1165e76d6686913088",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which party provided two Prime Ministers in two years time?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "B.J.P."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Janata Party"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Janata Dal"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Samajwadi Janata Party"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Janata Dal provided two prime Ministers in two years. H. D. Deve Gowda - 1996 to 1997 (11th Prime Minister) <br>I. K. Gujral - 1997 to 1998 (12th Prime minister)"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da882c8f1436d3af2f04",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following currency indicates the features of regional political parties in India? </td> </tr> <tr> <td> 1. Regional political parties identify with region's culture. </td> </tr> <tr> <td> 2. Regional political parties use regional language for their electoral gains. </td> </tr> <tr> <td> 3. Regional political parties enter into electoral alliance with national parties. </td> </tr> <tr> <td> 4. Regional political parties are a post-independence political phenomenon. </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da89ca481156bffcbb7e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following functions pertains only to political party and not to pressure group?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Collecting money for the organisation"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Contesting political election with own symbol"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Organising public meetings and rallies"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Publishing pamphlets and leaflets"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da882c8f1436d3af2f01",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): Pressure groups involve themselves in politics and policy-making process in India through direct and indirect means. </td> </tr> <tr> <td> Reason (R): They aspire to come to power to achieve their goals. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da882c8f1436d3af2f03",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following scholars described the party system prevailing in India in the early years of independence as one-party-dominant system?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Bhikhu Parekh"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Paul Brass"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Granville Austin"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Rajni Kothari"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1638e75a65aa625f6c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statement about the pressure groups and political parties. Which of the statements given below are correct. N I SE <br>I. Pressure groups are the organised expression of interests and views of special social sections. <br>II. Pressure groups take positions on political issues. <br>III. All pressure groups are political parties. <br>IV. Pressure groups and political parties do not seek to mobilise people."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "I, II and III"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "III and II"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "I, II, III and IV"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "I and II"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Pressure groups are organisations that attempt to influence government policies. But unlike political parties pressure control or share political power. Pressure groups much more on spontaneous mass participation."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1517ac81673137da7b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "How many Sections are there Under the Scheduled Castes and Scheduled Tribes [Prevention of Atrocities] Act, 1989 ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "18"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "22"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "23"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "27"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Scheduled Castes and Tribes (Prevention of Atrocities) Act is popularly known as POA. the SC/ST Act, the Prevention of Atrocities Act, or simply the Atrocities Act. The SC/ST Act w'as enacted on September 9, 1989, The rules for the Act were notified on Mareh 31, 1995, The SC/ST Act lists 22 offences relating to various patterns or behaviours inflicting criminal offences and breaking the self-respect and esteem of the scheduled castes and tribes community. This includes denial of economic, democratic and social rights, discrimination, exploitation and abuse of the legal process."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1417ac81673137da77",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following has been recognised as National Party in 2016?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "INLD"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Akali Dal"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "TMC"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "AIADMK"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The All lndia Trinamool Congress is an Indian political party based in West Bengal. It was founded on 1st January 1998 and has been recognised as National Party in 2016."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1565e76d6686913092",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under the Scheduled Castes and Scheduled Tribe [Prevention of Atrocities] Act, 1989. whoever, not being a member of a Scheduled Caste or a Scheduled Tribe, causes physical harm or mental agony of a member of a Scheduled Caste or a Scheduled Tribe on the allegation of practicing witchcraft or being a witch shall be punishable"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "with imprisonment for a term which shall not be less than six months and with fine"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "with imprisonment for a term which shall be one year and with fine"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "with imprisonment for a term which shall be five years and with fine"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Under the scheduled castes and scheduled tribe (Prevention of Atrocities) Act 1989 whoever, not being a member of a scheduled caste or a scheduled tribe, casuses physical harm or mental agony of a member of a scheduled caste or a scheduled tribe on the allegation of practicing witchcraft or being a witch shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1538e75a65aa625f69",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which one of the following Sections of the Scheduled Castes and Scheduled Tribes Rules, 1995 has Material for Annual Report been provided ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Section 18"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Section 20"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Section 22"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Section 24"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Under section 18, Scheduled Castes and Scheduled Tribes Rules. 1995 has Material for Annual report been provided."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da882c8f1436d3af2f00",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A pressure group is distinct from a political party in as much as it does not directly:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Contest elections"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Finance a candidate"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Propagate a policy"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Resort to mobilisation of opinion"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e5f6c1117ac81673137da71",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who is the founder of the Bahujan Samaj Party (BSP)?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Jyoliba Phule"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Kanshi Ram"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "B.R. Ambedkar"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Sahu Maharaj"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "BSP uras founded in 1983 by Kanshi Ram. Due to his deteriorating health in the 1990s, former school teacher Mayawati became the party’s leader."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da88ca481156bffcbb7a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (parties) </td> <td> List-II (Trade Union) </td> </tr> <tr> <td> A. </td> <td> India National congress </td> <td> 1. </td> <td> C.I.T.U </td> </tr> <tr> <td> B. </td> <td> Bhartaiya Jannata party </td> <td> 2. </td> <td> A.I.I.U.C </td> </tr> <tr> <td> C. </td> <td> Commiunist party of India </td> <td> 3. </td> <td> B.M.S </td> </tr> <tr> <td> D. </td> <td> Communist party of India (Marxist) </td> <td> 4. </td> <td> I.N.T.U.C </td> </tr> <tr> <td> </td> <td> 5. </td> <td> B.K.S </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-4 C-2 D-1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-4 B-3 C-1 D-5"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-4 C-1 D-5"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-4 B-3 C-2 D-1"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e4",
+    "__v": 0,
+    "disabled": false
+  }
+]

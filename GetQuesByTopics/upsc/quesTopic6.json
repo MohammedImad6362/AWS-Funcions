@@ -1,0 +1,5561 @@
+[
+  {
+    "_id": "5f93da5cca481156bffcbade",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. In an urban area where municipal services are being provided by an industrial establishment, it is still mandatory to constitute a Municipality under the 74th Constitutional Amendment Act. </td> </tr> <tr> <td> 2. It is obligatory to constitute Ward Committees for one or more wards within the territorial area of a Municipality having a population of 3 lakhs or more. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5cca481156bffcbae0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following: </td> </tr> <tr> <td> 1. District Board </td> </tr> <tr> <td> 2. Municipal Corporation </td> </tr> <tr> <td> 3. Notified Area Authority and Town Area Committee </td> </tr> <tr> <td> 4. Township Committee and Port Trust </td> </tr> </table> Which of these is/are urban local body /bodies in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5d2c8f1436d3af2e6a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "As per the Constitution (74th Amendment) Act, Legislatures of States have not been conferred the power to empower municipalities with the responsibility of:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Preparation of plans for economic development and social justice"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Management of law and order"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Implementation of schemes as may be entrusted to them"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Levy, collection and appropriation of taxes, duties, tolls, etc."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5d2c8f1436d3af2e6d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> 'A transitional area', 'a smaller urban area' or 'a larger urban area' in the context of a Nagar Panchayat, a Municipal Council or a Municipal Corporation, are specified by the Governor after considering which of the following: </td> </tr> <tr> <td> 1. Density of population </td> </tr> <tr> <td> 2. Percentage of employment in non-agricultural activities </td> </tr> <tr> <td> 3. Number of hospitals in the area </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 2, only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 3, only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 3, only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5eca481156bffcbaea",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In 1989, the 64th and 65th Amendment Bills were not passed and the Amendment Acts could not come in force at that time because:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Lok Sabha was dissolved in November, 1989."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Lok Sabha could not pass the Bills for lack of required majority."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Rajya Sabha could not pass the Bills due to lack of required majority."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The President sent the Bills for reconsideration."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5fca481156bffcbaec",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following statements with regard to Finance Commission in States is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The 74th Amendment of the Constitution of India provides for the establishment of a Finance Commission by a State to review the financial position of the municipalities."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Chief Minister of the State decides the composition of the Finance Commission and nominates the Chairman."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Finance Commission is expected to recommend the division of resources between the State and the municipalities within the State."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The Finance Commission is authorised to make recommendations with regard to grants-in- aid to the Panchayats from the Consolidated Fund of a State."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5fca481156bffcbaee",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Municipal Area means the territorial area of a Municipality as is notified by the:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Governor"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Municipal Commissioner"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Municipal Council"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Council of Ministers"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5eca481156bffcbae8",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "According to the Constitution of India, it is obligatory to constitute Ward Committees' in the area of a municipality. The population of such municipality should be:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "One lacs or more"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Two lacs or more"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Three lacs or more"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Five lacs or more"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5f2c8f1436d3af2e7a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Nagar Palika bill was first introduced in Parliament during the prime minister ship of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "V.P. Singh"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Chandrasekhar"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Rajiv Gandhi"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Narasimha Rao"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da612c8f1436d3af2e81",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "An election to constitute a municipality has to be completed:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Immediately on completion of its term of five years"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Before the expiry of its fixed tenure"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Before the expiry of a period of six months from the date of its dissolution"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Before the expiry of a period of three months from the date of its dissolution"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da612c8f1436d3af2e82",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> To which of the following, the 74th Constitutional Amendment has not paid attention? </td> </tr> <tr> <td> 1. Municipal personnel system </td> </tr> <tr> <td> 2. Constitution and composition of municipality </td> </tr> <tr> <td> 3. Relations between elected executive and bureaucracy </td> </tr> <tr> <td> 4. Disqualifications for membership of municipality </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 4 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5dca481156bffcbae5",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following functions is not the concern of the Local Government in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Public health"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Sanitation"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Public utility services"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Maintenance of public order"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da61ca481156bffcbafb",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The first municipal corporation that was established in India is at"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Madras"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Delhi"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Bombay"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Hyderabad"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5cca481156bffcbadd",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The Chairperson of every District Planning Committee shall forward the development plan as recommended by such Committee to the Governor of the State. </td> </tr> <tr> <td> 2. Not less than two-thirds of the total number of members of the District Planning Committee shall be elected, from amongst, the elected members of the Panchayat at the district level and the Municipalities in the district. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5eca481156bffcbae6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following Constitution (Amendment) Acts provided for the formation of the Metropolitan Planning Committee?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "42nd Constitution (Amendment) Act"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "44th Constitution (Amendment) Act"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "73rd Constitution (Amendment) Act"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "74th Constitution (Amendment) Act"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5e2c8f1436d3af2e70",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following statements is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A Metropolitan area is specified by the Governor through a public notification."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Metropolitan area means an area having a population of 8 lakhs or more."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Metropolitan area may be comprised in more than one district."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Metropolitan area may consist of more than two Municipalities or Panchayats or other contiguous areas."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5d2c8f1436d3af2e6c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> The sources of revenue of urban local bodies in India are: </td> </tr> <tr> <td> 1. Taxes </td> </tr> <tr> <td> 2. Fees and fines </td> </tr> <tr> <td> 3. Grants </td> </tr> <tr> <td> 4. Loans </td> </tr> </table> Select the correct answer from the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5eca481156bffcbae9",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following objectives: </td> </tr> <tr> <td> 1. Bringing about uniformity in the structure of local governments throughout the country </td> </tr> <tr> <td> 2. Ensuring regular and rational flow of funds from the State's revenue </td> </tr> <tr> <td> 3. Having properly elected governments at regular intervals </td> </tr> <tr> <td> 4. Having single unified authority for the city's management and development </td> </tr> </table> Which of these did the 74th Amendment to the Constitution of India, try to inject into the working of urban local bodies?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da60ca481156bffcbaf2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following is correct in respect of financial powers of local governments in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Local Governments have constitutionally earmarked taxation powers."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Local Governments are empowered to levy such taxes as are permitted under the law."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Local Governments are empowered to levy charges on all items within their sphere of activities."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Local Governments are empowered to levy taxes with the permission of the department concerned."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da60ca481156bffcbaf3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which Article of the Constitution of India, did the District Planning Committee come into existence?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 243 ZD"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 243 ZE"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 244 ZD"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 242 ZD"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da60ca481156bffcbaf4",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following functions have been laid down in the 12th Schedule of the Constitution of India for the municipalities? </td> </tr> <tr> <td> 1. Urban poverty alleviation </td> </tr> <tr> <td> 2. Planning for economic and social development </td> </tr> <tr> <td> 3. Regulation for tanneries </td> </tr> <tr> <td> 4. Urban forestry </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5fca481156bffcbaf0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> The Constitution (74th Amendment) Act, 1992 provides for which of the following? </td> </tr> <tr> <td> 1. Municipal Committees </td> </tr> <tr> <td> 2. Ward Committees </td> </tr> <tr> <td> 3. Committee for District Planning </td> </tr> <tr> <td> 4. Committee for Metropolitan Planning </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da60ca481156bffcbaf6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "73rd and 74th Amendments to the Constitution of India provide for elections to the local bodies:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Every year"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "After every three years"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "After every five years"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "After every two years"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da60ca481156bffcbaf5",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following units of urban local self-government does not have a constitutional foundation?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Cantonment Boards"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Municipal Councils"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Municipal Corporations"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Nagar Panchayats"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da61ca481156bffcbafd",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following pairs: <table> <tr> <td> 1. </td> <td> Cantonment </td> <td> Administered centrally by Defence Ministry </td> </tr> <tr> <td> 2. </td> <td> Notified area committee </td> <td> Administers newly developing towns </td> </tr> <tr> <td> 3. </td> <td> Municipal council </td> <td> Administers big cities with complex problems </td> </tr> <tr> <td> 4. </td> <td> Municipal corporation </td> <td> Headed by and elected Mayor </td> </tr> </table> Which of these pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da62ca481156bffcbafe",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The Constitution (Seventy-third Amendment) Act, 1992 has added 16 Articles and a new Schedule in the Constitution of India. </td> </tr> <tr> <td> 2. The Constitution (Seventy-fourth Amendment) Act, 1992 has added 18 Articles but no new Schedule in the Constitution of India. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da61ca481156bffcbafc",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> The Metropolitan Planning Committee while preparing the draft plan has to give due regard to: </td> </tr> <tr> <td> 1. Matters of common interest between Municipalities and Panchayats </td> </tr> <tr> <td> 2. Overall objectives and priorities set by the Union Government </td> </tr> <tr> <td> 3. Plans prepared by Panchayats in Metropolitan area </td> </tr> <tr> <td> 4. Contingent circumstances emerging out of natural calamities </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5cca481156bffcbadf",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following statements regarding the Seventy-Fourth Amendment to the Constitution of India are correct? </td> </tr> <tr> <td> 1. It provides for the insertion of a new Schedule to the Constitution. </td> </tr> <tr> <td> 2. It restructures the working of the municipalities. </td> </tr> <tr> <td> 3. It provides for the reservation of seats for women and Scheduled Castes in the municipalities. </td> </tr> <tr> <td> 4. It is applicable only to some specified states. </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5dca481156bffcbae2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not correct? Part IX-A of the Constitution of India pertaining to the Municipalities provides"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "That grants-in-aid be made to the Municipalities from the Consolidated Fund of the State"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "For setting up a separate Finance Commission for the Municipalities"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "For setting up Committee for District Planning"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "For setting up Committee for Metropolitan Planning"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5eca481156bffcbaeb",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (Items) </td> <td> List-II (Articles) </td> </tr> <tr> <td> A. </td> <td> Constitution of Municipalities </td> <td> 1. </td> <td> Article 243Q </td> </tr> <tr> <td> B. </td> <td> Reservation of seats in Municipal bodies </td> <td> 2. </td> <td> Article 243T </td> </tr> <tr> <td> C. </td> <td> State Finance commission </td> <td> 3. </td> <td> Article 243Y </td> </tr> <tr> <td> D. </td> <td> Duration of municipalities </td> <td> 4. </td> <td> Article 243U </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-4 C-1 D-2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-1 B-2 C-3 D-4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-1 C-1 D-4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-1 B-4 C-3 D-2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da622c8f1436d3af2e89",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> The following are associated with well known local government policies: </td> </tr> <tr> <td> 1. Balwant Rai Mehta </td> </tr> <tr> <td> 2. Lord Mayo </td> </tr> <tr> <td> 3. Lord Ripon </td> </tr> <tr> <td> 4. Ashok Mehta </td> </tr> </table> Which is the correct chronological sequence of the above? Choose the correct answer from the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3, 1 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3, 2, 4 and 1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "4, 1, 3 and 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5fca481156bffcbaef",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "To whom does the Chairperson of every Metropolitan Planning Committee forward the development plan, as recommended by such a Committee?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The Planning Commission"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Finance Minister, Government of India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Urban Development Minister, Government of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The Government of the State"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da602c8f1436d3af2e80",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (Functionary) </td> <td> List-II (Institution) </td> </tr> <tr> <td> A. </td> <td> Sarpanch </td> <td> 1. </td> <td> Municipal cor </td> </tr> <tr> <td> B. </td> <td> Chairman </td> <td> 2. </td> <td> Village panchyat </td> </tr> <tr> <td> C. </td> <td> Mayor </td> <td> 3. </td> <td> Municipality </td> </tr> <tr> <td> D. </td> <td> Counsellor </td> <td> 4. </td> <td> Cantonment board </td> </tr> <tr> <td> </td> <td> 5. </td> <td> War </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-4 C-1 D-5"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-4 B-3 C-2 D-1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-2 B-3 C-1 D-5"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-2 B-5 C-4 D-3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da62ca481156bffcbaff",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (Urban Bodes) </td> <td> List-II (Features) </td> </tr> <tr> <td> A. </td> <td> Town Area committee </td> <td> 1. </td> <td> No elected members </td> </tr> <tr> <td> B. </td> <td> Port Trust </td> <td> 2. </td> <td> Semi- municipal authority </td> </tr> <tr> <td> C. </td> <td> Township </td> <td> 3. </td> <td> Created by an Act of parliament </td> </tr> <tr> <td> D. </td> <td> Tow Improvement Trust </td> <td> 4. </td> <td> Special purpose Agency </td> </tr> <tr> <td> </td> <td> 5. </td> <td> Works under defence Ministry </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-1 B-5 C-2 D-4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-2 B-3 C-1 D-4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-1 B-5 C-4 D-3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-2 B-1 C-5 D-3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da622c8f1436d3af2e8a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following are the sources of revenue of urban local bodies? </td> </tr> <tr> <td> 1. Property tax </td> </tr> <tr> <td> 2. Octroi </td> </tr> <tr> <td> 3. Sales tax </td> </tr> <tr> <td> 4. Animal tax </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da62ca481156bffcbb02",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The State Finance Commissions receive grants directly from the Finance Commission set up by the Union Government. </td> </tr> <tr> <td> 2. The State France Commissions review the economic conditions of the various Panchayati Raj Institutions and Municipal Bodies in the States. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da61ca481156bffcbafa",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who consolidates the plans prepared by the Panchayats and Municipalities in the district?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "State Planning Commission"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Public Accounts Committee"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "District Planning Committee"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "District Planning and Development Council"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da672c8f1436d3af2e9e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who makes provisions with respect to the maintenance of accounts by the Panchayats and the auditing of such accounts?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Finance Commission of the concern State"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Legislature of the State"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Comptroller and Auditor General of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "District Collector"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da68b18bd6516a69dca5",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> In the post 73nd Amendment era, there has to be decentralisation of: </td> </tr> <tr> <td> 1. Decision-making powers </td> </tr> <tr> <td> 2. System as a whole </td> </tr> <tr> <td> 3. Judicial powers </td> </tr> <tr> <td> 4. Administrative powers </td> </tr> </table> Which of these statements are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da622c8f1436d3af2e8c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Statement I: The Directorates of Local Bodies in States supervise the working of Municipal Corporations. </td> </tr> <tr> <td> Statement II: The State governments need to exercise control over all the local bodies. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both the statements are individually true but Statement II is not the correct explanation of Statement I."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Statement I is true but Statement II is false."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Statement I is false but Statement II is true."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da63ca481156bffcbb04",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which pair of Schedules of the Constitution, the functions of Panchayats and Municipalities are incorporated?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "8th and 9th"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "9th and 10th"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "10th and 11th"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "11th and 12th"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da63ca481156bffcbb05",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Chairperson of a District Planning Committee forwards the development plan recommended by the Committee to which one of the following?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The State Government"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The District Development Officer"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The District Collector"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Chairperson, Zilla Parishad"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da632c8f1436d3af2e8f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. Local government including self-government institutions in both urban and rural areas is a subject under the Concurrent List of the Seventh Schedule of the Constitution of India. </td> </tr> <tr> <td> 2. Provisions inserted in the Constitution of India by article 243-243ZG are in the nature of basic provisions. </td> </tr> <tr> <td> 3. These provisions have to be supplemented by laws made by the respective State Legislatures. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Only 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da632c8f1436d3af2e90",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "When was the first municipal corporation in India at Madras set up?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1587"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1687"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1787"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1887"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da632c8f1436d3af2e91",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Regarding the Municipalities, who makes the provisions with respect to the composition and the territorial area of a Wards Committee?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Municipal Commissioner"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "District Collector"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "State Legislature by law"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "State Election Commissioner"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da63ca481156bffcbb09",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not correct for the Local Government?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A constitutional obligation for the Village Panchayats to function as units of self-government"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Constitution places the subject of local self-government as a responsibility of the states"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A constitutional obligation for the states to constitute Finance Commission to ensure financial viability of Municipalities"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A constitutional obligation for the Municipalities to carry out schemes related to public distribution system"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da64ca481156bffcbb0a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which one of the following Schedules of the Constitution of India, is Urban Local Self-Government mentioned?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Seventh Schedule"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Eighth Schedule"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Eleventh Schedule"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Twelfth Schedule"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da652c8f1436d3af2e95",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following has the authority to constitute an area into a municipality or a municipal corporation or a panchayat?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Central Government"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Divisional Commissioner"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "District Collector"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "State Government"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da65ca481156bffcbb0d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A metropolitan committee can be set up in an area having a population of:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "3 lac-4.99 lac"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "5 lac - 9.99 lac"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Up to 10 lac"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Above 10 lac"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da652c8f1436d3af2e97",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements with respect to the Constitutional (Seventy-fourth Amendment) Act, 1992: </td> </tr> <tr> <td> It provided for: </td> </tr> <tr> <td> 1. Three-tier municipalities </td> </tr> <tr> <td> 2. Ward committees </td> </tr> <tr> <td> 3. District Planning Committees </td> </tr> <tr> <td> 4. Direct election of chairperson of a municipality7 </td> </tr> </table> Which of these is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da66ca481156bffcbb0f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Statement I: Multiplicity of authorities in urban areas has added to the problems of citizens. </td> </tr> <tr> <td> Statement II: New special purpose agencies have been created for urban functions. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both the statements are individually true but Statement II is not the correct explanation of Statement I."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Statement I is true but Statement II is false."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Statement I is false but Statement II is true."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da5fca481156bffcbaed",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who among the following is hailed as the father of local self-government in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Lord Mayo"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Lord Ripon"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Jawaharlal Nehru"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Mahatma Gandhi"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da662c8f1436d3af2e99",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The State Government's administrative control over municipalities does not include power:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Of inspection"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Of approving bye-laws and rules"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "To decide over-borrowings"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Of dissolution and supersession"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da662c8f1436d3af2e9a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The Constitution (74th Amendment) Act introduced a new part IX-A in the Constitution of India. </td> </tr> <tr> <td> 2. The provisions of the Constitution (74th Amendment) Act also apply to the Scheduled Areas and Tribal Areas. </td> </tr> <tr> <td> 3. The Constitution (74th Amendment) Act specifies the manner and procedure of election of the Chairperson of a Municipal Corporation. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "3 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da662c8f1436d3af2e9b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. A Panchayat elected in the place of a dissolved one, does not enjoy the full period but remains in office for the remaining period after the dissolution. </td> </tr> <tr> <td> 2. In Panchayats, seats are reserved for the Scheduled Castes, Scheduled Tribes and women but not for Backward Classes of citizens. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da66b18bd6516a69dca1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. Courts have no jurisdiction to examine the validity of a law relating to delimitation of constituencies or allotment of seats in respect of Panchayats. </td> </tr> <tr> <td> 2. An election to a Panchayat can be called in question only by an election petition, which should be presented to such authority and in such manner as may be prescribed by the State Election Commission. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da66ca481156bffcbb13",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The Eleventh Schedule was inserted in the Constitution of India by the Constitution (Seventy Third Amendment) Act, 1992. </td> </tr> <tr> <td> 2. The Eleventh Schedule of the Constitution of India corresponds to Article 243-W of the Constitution of India. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da67b18bd6516a69dca2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. According to Article 243D, one-third of the seats are reserved for the Scheduled Castes and Scheduled Tribes in every Panchayat. </td> </tr> <tr> <td> 2. Not less than one-third of the total number of seats reserved for the SCs and STs in every </td> </tr> <tr> <td> Panchayat are reserved for women belonging to the Scheduled Castes, or as the case may be, the Scheduled Tribes. </td> </tr> <tr> <td> 3. Not less than one-third of the total number of offices of chairpersons in Panchayats at each level are reserved for women. </td> </tr> </table> Which of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da67bb0aa1233ca20a88",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> On which of the following subjects, does the Finance Commission of a State constituted under the Part IX of the Constitution of India make recommendations to the Governor? </td> </tr> <tr> <td> 1. Distribution between the State and the Panchayats of the net proceeds of the taxes by the State. </td> </tr> <tr> <td> 2. Determination of the taxes which may be assigned to or appropriated by the Panchayats. </td> </tr> <tr> <td> 3. Grants-in-aid to the Panchayats from the Consolidated Fund of the State. </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 2 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 3 only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da672c8f1436d3af2e9d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Part IX of the Constitution of India pertaining to the Panchayats provided for setting up of a Finance Commission."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Part IX of the Constitution of India pertaining to the Panchayats provided for vesting all elections to the Panchayats in a State Election Commission."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Part IX of the Constitution of India pertaining to the Panchayats provided for reservation of posts of chairpersons at the village level or any other level for the Scheduled Castes, Scheduled Tribes and women."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Organisation of Village Panchayats is not included in the Directive Principles of State Policy."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da67ca481156bffcbb15",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "73rd Amendment to the Constitution of India provides for:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Two tiers of Panchayati Raj institutions at the village and district levels"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Two tiers of Panchayati Raj institutions at the village and block levels"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Two tiers of Panchayati Raj institutions at the block and district levels"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Three tiers of Panchayati Raj institutions at the village, block and district levels."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da67bb0aa1233ca20a8a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The State Election Commissioner can be removed:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "By the Governor of the State"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "By the State Assembly"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Through an order issued by the Chief Minister"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Through a procedure similar to that for removal of the judge of a High Court"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da692c8f1436d3af2ea2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements with respect to the 73rd Constitutional Amendment: </td> </tr> <tr> <td> 1. It envisages the Gram Sabha as the foundation of the Panchayati Raj System. </td> </tr> <tr> <td> 2. It provides that Panchayat bodies will have a duration of five years. </td> </tr> <tr> <td> 3. It stipulates that the Chairperson of a Panchayat shall be elected by and from amongst the elected members thereof. </td> </tr> <tr> <td> 4. It has reserved 33 per cent of the seats to Other Backward Classes in Panchayati Raj Institutions. </td> </tr> </table> Which of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6aca481156bffcbb1f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Constitution (Seventy-third Amendment) Act that provided for the establishment of Panchayats also made which of the following provisions? </td> </tr> <tr> <td> 1. Addition of a new Schedule (XI) to the Constitution listing 29 subjects which are to be handled by the Panchayats. </td> </tr> <tr> <td> 2. Addition of a new Schedule (XI) to the Constitution listing 18 subjects which are to be handled by the Panchayats. </td> </tr> <tr> <td> 3. Bar on the courts to question the validity of laws relating to delimitation of constituencies. </td> </tr> <tr> <td> 4. Reservation of not less than one-third of the total number of seats in Panchayats for women (excluding the number of seats reserved for women belonging to the Scheduled Castes and Scheduled Tribes). </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6b2c8f1436d3af2ea9",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following features: </td> </tr> <tr> <td> 1. Panchayats have now been brought under the direct supervision of the Governor. </td> </tr> <tr> <td> 2. Finance Commission of the State now determines the distribution of taxes and duties between the State and Panchayats. </td> </tr> <tr> <td> 3. Panchayats are now entitled to receive grants-in-aid directly from the Central Government. </td> </tr> <tr> <td> 4. 1 /3 of the seats in the Panchayats are now reserved for women. </td> </tr> </table> According to the 73rd Amendment of the Constitution, which of these are correct features of Panchayats?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6cb18bd6516a69dcb5",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under Article 243-D, which one of the following categories enjoys reservation for Panchayat membership in proportion to their population?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Scheduled Castes and Scheduled Tribes"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Women"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Backward Classes"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Physically handicapped persons"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6cb18bd6516a69dcb7",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following is not a feature of Ashok Mehta Committee recommendations on Pan- chayati Raj Institutions (PRIs)?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Constitutional recognition to the PRIs"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Non-involvement of political parties in elections to the PRIs"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Reservation of seats for SCs and STs"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A minister-in-charge of Panchayati Raj"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6db18bd6516a69dcb8",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> The 73rd Constitutional Amendment Act provided: </td> </tr> <tr> <td> 1. For 27% reservation of seats in the Panchayats for the Other Backward Castes (OBCs). </td> </tr> <tr> <td> 2. That the Chairpersons of the Panchayats at intermediate or district level, shall be elected by, and from amongst the elected members thereof. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6dbb0aa1233ca20aa1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following government documents first suggested for having elections of Pan- chayati Raj Institutions on political party basis?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Report of the Administrative Reforms Commission"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Ashok Mehta Committee Report"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Balwant Rai Mehta Committee Report"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Diwakar Committee Report"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6fb18bd6516a69dcc3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following are provided for in the 73rd Constitutional Amendment? </td> </tr> <tr> <td> 1. Elections through the Chief Election Commissioner. </td> </tr> <tr> <td> 2. Devolution of functions by the state government. </td> </tr> <tr> <td> 3. Creation of the State Finance Commission. </td> </tr> <tr> <td> 4. Setting up a three-tiered Indian Federation. </td> </tr> </table> Select the correct answer from the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6fb18bd6516a69dcc7",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "As per Article 243-H of 73rd Constitutional Amendment Act, the Legislature of a State, may by law, provide for making grants-in-aid to the Panchayats from:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Contingency Fund of the President"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Contingency Fund of the Governor"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Consolidated Fund of the State"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Consolidated Fund of India"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da68ca481156bffcbb18",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The Chairperson of a Panchayat at district level is elected in such manner as the Legislature of the State may provide. </td> </tr> <tr> <td> 2. Legislature of a State may provide for representation of members of the Legislative Assembly of the State representing constituencies which comprise wholly or partly a Panchayat area at a level other than the village level, in such Panchayat. </td> </tr> <tr> <td> 3. The Lok Sabha may provide for the representation of its members representing constituencies which comprise wholly or partly a Panchayat area at a level other than the village level, in such Panchayat. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Only 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da69ca481156bffcbb1a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which one of the following provisions is reservation for the Scheduled Castes and the Scheduled Tribes in every Panchayat made?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 243 (Q) of the Constitution of India"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 243 (V) of the Constitution of India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 243 (S) of the Constitution of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 243 of the Constitution of India"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da69bb0aa1233ca20a8f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "What is the minimum population below which Panchayats at the intermediate level are not constituted as per provision of the Constitution (Seventy-third Amendment) Act?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "20 lakhs"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "25 lakhs"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "30 lakhs"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "35 lakhs"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da69b18bd6516a69dcaa",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "State Finance Commission is appointed by a State Government every five years to determine:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Financial resources of the State for placing State's requirement before the Union Government"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Development requirements of the State for formulating State Five Year Plan"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Budgetary requirements of various departments of the State Government"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Pattern of distribution of State's tax revenue between the State Government and local bodies (both rural and urban) and the pattern of grants-in-aid to local bodies"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da69b18bd6516a69dca9",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following provisions can be made by law by a State Legislature? </td> </tr> <tr> <td> 1. Representation of the members of the House of People in Panchayats subject to fulfilling certain conditions </td> </tr> <tr> <td> 2. Reservation of seats in any Panchayat in favour of backward class of citizens </td> </tr> <tr> <td> 3. Authorising a Panchayat to levy, collect and appropriate taxes </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 2, only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 3, only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 3, only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da69ca481156bffcbb1c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following is/are correct with respect to the 73rd Amendment to the Constitution of India? </td> </tr> <tr> <td> 1. Constitutional status to Panchayats </td> </tr> <tr> <td> 2. Reservation of seats for women belonging to the Scheduled Castes or the Scheduled Tribes </td> </tr> <tr> <td> 3. Providing permanent structures for district planning </td> </tr> </table> Select the correct answer from the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Only 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6a2c8f1436d3af2ea5",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which of the following Articles of the Constitution of India, the State Legislatures delegate powers and functions to the Panchayats?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "243 and 243 A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "243 A and 243 B"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "243 G and 243 H"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "243 D and 243 F"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6aca481156bffcbb1d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (state) </td> <td> List-II (intermediate panchayats) </td> </tr> <tr> <td> A. </td> <td> Madhya Pradesh </td> <td> 1. </td> <td> Panchayat Samiti </td> </tr> <tr> <td> B. </td> <td> West Bengal </td> <td> 2. </td> <td> Block panchayat </td> </tr> <tr> <td> C. </td> <td> Uttar Pradesh </td> <td> 3. </td> <td> Taluka panchayat </td> </tr> <tr> <td> D. </td> <td> Gujarat </td> <td> 4. </td> <td> Kshetra panchayat </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-1 B-2 C-3 D-4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-1 B-2 C-4 D-3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-2 B-1 C-4 D-3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-2 B-1 C-3 D-4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6abb0aa1233ca20a92",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following statements are correct? </td> </tr> <tr> <td> 1. Village Panchayats are responsible for: </td> </tr> <tr> <td> 2. Agricultural production </td> </tr> <tr> <td> 3. Rural industrial development </td> </tr> <tr> <td> 4. Maternity and child welfare </td> </tr> <tr> <td> 5. Higher vocational education </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6ab18bd6516a69dcad",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following States was the first to introduce the Panchayati Raj system?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Tamil Nadu"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "West Bengal"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Rajasthan"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Uttar Pradesh"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6bb18bd6516a69dcb0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Panchayad Raj is included in the:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Union List"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "State List"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Concurrent List"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Residuary List"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6bbb0aa1233ca20a95",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The 73rd Amendment Act emanates from the:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 38"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 40"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 44"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 52"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6cbb0aa1233ca20a96",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Who among the following are among those who comprise the Zila Parishad? </td> </tr> <tr> <td> 1. Chairmen / Presidents of the Panchayat Samities within the jurisdiction of the district </td> </tr> <tr> <td> 2. MPs, MLAs and MLCs whose constituencies are in the district </td> </tr> <tr> <td> 3. Representatives of co-operative societies, municipalities, notified area committees, etc. </td> </tr> <tr> <td> 4. Health care specialists </td> </tr> </table> Choose the correct answer from the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6cb18bd6516a69dcb3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (Features) </td> <td> List-II (Related to) </td> </tr> <tr> <td> A. </td> <td> Democratic decentralization </td> <td> 1. </td> <td> 73rd amendment </td> </tr> <tr> <td> B. </td> <td> Nager panchayats </td> <td> 2. </td> <td> 74th Amendment </td> </tr> <tr> <td> C. </td> <td> Panchayat Raj Elections </td> <td> 3. </td> <td> B.R Mehta committee </td> </tr> <tr> <td> D. </td> <td> Two Tier system </td> <td> 4. </td> <td> Ashok Mehta committee </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-1 C-2 D-4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-4 B-2 C-2 D-3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-4 B-2 C-1 D-3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-3 B-2 C-1 D-4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6cbb0aa1233ca20a9a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The members of a Panchayat Samiti are:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Directly elected by the people"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Indirectly elected by the members of the Village Panchayat"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Nominated by the Block Development Officer"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Nominated by the president / chairman of the Panchayat Samiti"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6db18bd6516a69dcba",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following committees had recommended people's participation in community development programmes?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Ashok Mehta Committee"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Balwant Rai Mehta Committee"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Rural-urban Relationship Committee"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "L.M. Singhvi Committee"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6db18bd6516a69dcbb",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Statement I: The 73rd Constitutional Amendment Act is the culmination of the process of democratic decentralisation. </td> </tr> <tr> <td> Statement II: The state should take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both the statements are individually true but Statement II is not the correct explanation of Statement I."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Statement I is true but Statement II is false."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Statement I is false but Statement II is true."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6ebb0aa1233ca20aa7",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who recommends to the Governor the principles which should govern the distribution between the State and the Panchayats of the net proceeds of the taxes, tolls and fees leviable by the state which may be divided between them?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Zilla Parishad"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Chief Minister"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Finance Minister of the State"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "State Finance Commission"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6fbb0aa1233ca20aad",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following provisions has been left to the will of the State Governments in the 73rd Constitutional Amendment Act?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Providing reservation to the Backward Classes"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "All posts at all levels to be filled by direct elections"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Reservation of seats for SC/ST in proportion to their population"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Reservation up to 1 /3 seats for women in panchayats"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da70bb0aa1233ca20aae",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following Committees set up to study the structure, powers and functions to be as- signed to Panchayati Raj Institutions: </td> </tr> <tr> <td> 1. Santhanam Committee </td> </tr> <tr> <td> 2. Ashok Mehta Committee </td> </tr> <tr> <td> 3. Balwantrai Mehta Committee G.V.K. Rao Committee </td> </tr> </table> Which one of the following is their correct chronological order?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "3-4-2-1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2-1-3-4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3-1-2-4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2-4-3-1"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da682c8f1436d3af2ea0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following about Article 243 (G) is correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Panchayats should be enabled by law to function as agents of the State Government."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Panchayats should be enabled by law to function as institutions of self-government."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Panchayats will act as the implementing agencies for centrally sponsored schemes."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Gram Panchayats will be answerable to District Panchayats."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da68bb0aa1233ca20a8b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List-I (Amendments / committees) </td> <td> List-II (provisions) </td> </tr> <tr> <td> A. </td> <td> 73nd constitutional </td> <td> 1. </td> <td> Administrative arrangement for rural development </td> </tr> <tr> <td> B. </td> <td> 74nd constitutional amendment </td> <td> 2. </td> <td> State finance commission </td> </tr> <tr> <td> C. </td> <td> G.V.K Rao committee </td> <td> 3. </td> <td> Municipal councils </td> </tr> <tr> <td> D. </td> <td> L.M singhvi committee </td> <td> 4. </td> <td> Constitutional state to panchayati Raj </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-2 B-3 C-4 D-1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-2 B-3 C-1 D-4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-2 C-1 D-4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-3 B-2 C-4 D-1"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da682c8f1436d3af2ea1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "73rd Constitutional Amendment does not apply to which of the following states?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Meghalaya"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Goa"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Sikkim"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Himachal Pradesh"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da68ca481156bffcbb19",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): The Constitution of India now provides a mechanism for regular flow of funds to Panchayati Raj institutions. </td> </tr> <tr> <td> Reason (R): The Panchayati Raj institutions have been greatly handicapped in the performance of their assigned duties by paucity of funds. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6a2c8f1436d3af2ea6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In 1977, under whose chairmanship, the Panchayati Raj Committee was formed?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Ashok Mehta"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Sardar Swaran Singh"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Balwant Rai Mehta"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Madhu Dandawate"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6bb18bd6516a69dcae",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following Articles of the Indian Constitution lays down that the State shall take steps to organise Village Panchayats?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 40"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 26"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 39"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 38"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6bca481156bffcbb20",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): Reservation of seats for women in Panchayati Raj bodies will pave the way for their political empowerment. </td> </tr> <tr> <td> Reason (R): Empowerment of women is essential for the achievement of democracy and development. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6cb18bd6516a69dcb4",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following are within the mandate of the 73rd Amendment to the Constitution of India? </td> </tr> <tr> <td> 1. Disqualification provision for Panchayat membership </td> </tr> <tr> <td> 2. Setting up of a State Finance Commission </td> </tr> <tr> <td> 3. Empowering the State Election Commission to hold periodic local government elections </td> </tr> <tr> <td> 4. Constitution of a District Planning Committee </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6db18bd6516a69dcb9",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements in reference to the Constitution (73rd Amendment) Act </td> </tr> <tr> <td> 1. The Governor of a State shall constitute a Finance Commission every fifth year to review the financial position of the Panchayats. </td> </tr> <tr> <td> 2. The superintendence, direction and control of all elections to the Panchayats are vested in a State Election Commission. </td> </tr> </table> Which of the statements given above is / are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6db18bd6516a69dcbc",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following with reference to 73rd Constitutional Amendment in respect of Panchayati Raj: </td> </tr> <tr> <td> 1. Direct elections of members at all levels </td> </tr> <tr> <td> 2. Direct elections of chairpersons at the village level </td> </tr> <tr> <td> 3. Indirect election of chairpersons at the intermediate levels and district levels </td> </tr> <tr> <td> 4. Mandatory provision for holding elections </td> </tr> </table> Which of the above are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6eb18bd6516a69dcbe",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under which provision does the Governor of a State constitute a State Finance Commission to review the financial position of Panchayats?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Under the discretionary powers of the Governor"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "By a resolution passed in the Legislative Assembly"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "In accordance with the Article 243-1 of the Constitution of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "In accordance with a resolution passed in the Rajya Sabha"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6eb18bd6516a69dcbf",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 73rd Amendment of the Constitution has provided constitutional sanction for: </td> </tr> <tr> <td> 1. Building a three-tier structure of Panchayati Raj </td> </tr> <tr> <td> 2. Reservation of seats for women </td> </tr> <tr> <td> 3. Withdrawal of the right of governments to hold elections to Panchayats </td> </tr> <tr> <td> 4. Taking away the right of State Governments to give grants to Panchayats </td> </tr> </table> Which of these statements are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6eb18bd6516a69dcbd",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following with respect to the revolutionary features of the 73rd Constitutional Amendment: </td> </tr> <tr> <td> 1. Bestowal of Constitutional status on Panchayati Raj Institutions (PRIs). </td> </tr> <tr> <td> 2. Mandatory elections to PRIs. </td> </tr> <tr> <td> 3. Introduction of third tier of Government with powers in rural India. </td> </tr> <tr> <td> 4. 33% reservation of seats and chairpersonships for women in the Panchayats at each level. </td> </tr> </table> Which of these are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6eb18bd6516a69dcc1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following committees recommended the separation of regulatory and development functions at the district level?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Dantwallah Committee"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Hanumantha Rao Committee"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Kothari Committee"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "G.V.K. Rao Committee"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6fb18bd6516a69dcc6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements with respect to the 73rd Constitutional Amendment: </td> </tr> <tr> <td> 1. For 27% reservation to the Other Backward Classes. </td> </tr> <tr> <td> 2. That the chairperson of the panchayat at intermediate/district level shall be elected by, and from amongst the elected members thereof. </td> </tr> <tr> <td> 3. For reservation for SCs/STs. </td> </tr> <tr> <td> 4. For uniform five-year term for local bodies. </td> </tr> </table> Which of these is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6fb18bd6516a69dcc4",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Ashok Mehta Committee (1977) was recommended for the establishment of:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Mandal Panchayat"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Nagar Panchayat"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Panchayat Samiti"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Gram Panchayat"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6eb18bd6516a69dcc0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which part of the Indian Constitution, has the provision for panchayats been made?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Part IX"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Part IV"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Part III"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Part IX-A"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da6fb18bd6516a69dcc5",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Eleventh Schedule of the Constitution relating to the Panchayats contains:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "18 items"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "28 items"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "19 items"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "29 items"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e7",
+    "__v": 0,
+    "disabled": false
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "5e6368e4a607fa6b44593d7c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "PAN card issued by the Income Tax Department can't be used for which of the following purpose?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "proof of address"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "proof of identity"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "proof of registered tax payer"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "proof of date of birth"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Permanent Account Number (PAN)card is unique alphanumeric combination. It is issued by the Indian Income Tax Department. It serves as an important ID proof, date of birth proof and proof of tax payer. However it can't be used for the purpose of address proof."
+    },
+    "comprehension": "",
+    "topicId": "5de8f311f2109b7c7646f6e8",
+    "subTopicId": null,
+    "__v": 0,
+    "disabled": false
+  }
+]

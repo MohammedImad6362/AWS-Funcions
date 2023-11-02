@@ -1,0 +1,4351 @@
+[
+    {
+      "_id": "5e2ec148bbe3856e886f9320",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "With reference to the election of the President of lndia, consider the following statements:<br>1. The value of the vote of each MLA varies from State to State. <br>2. The value of the vote of MPs of the Lok Sabha is more than the value of the vote of MPs of the Rajya Sabha <br><br>Which of the statements given above is/are Correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 or 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "Both 1 and 2 <br>• Statement 1- Correct. Value of 1 MLA’s vote is based on total population of state to be divided by the total MLAs. Hence it ought to vary from state to state. <br>• While the value of an MLA’s vote depends on the population of the state he or she belongs to, the value of an"
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13d26223a6ea564c778",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The electronic voting machines are developed jointly with   <br>1. Bharat Heavy Electricals Limitcd <br>2. Bharat Electronics Limitcd <br>3. Electronics Corporation of India Limited <br>4. Bharat Sanchar Nigam Limitcd <br>Select the correct answer using the code given below."
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "3 and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Bharat Electronics Limited (BEL) and Electronics Corporation of India Limited both jointly developed EVM (Electronic voting Machine). It was implemented partly in 1999 election and totally in 2004 election."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13826223a6ea564c773",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Right to vote is a"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Social right"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Personal right"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Political right"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Legal right"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "Right to vote is a legal right."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec145bbe3856e886f931d",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "For election to the Lok Sabha, a nomination paper can be filed by"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "anyone residing in India."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "a resident of the constituency from which the election is to be contested."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "any citizen of India whose name appears in the electoral roll of a constituency."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "any citizen of India."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "Let’s go by elimination. <br>• To contest any election, person has to be CITIZEN of India. I bis eliminates A and B. <br>• Any citizen of India, then could be a minor (below 18 years also) then he can't contests election. So, “D” also wrong. I fence we are left with answer “C”."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec14abbe3856e886f9322",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The mobile app ‘Cvigil' is helpful in"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "conducting free and fair e-tendering process in government offices"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "fighting against corruption in public services"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "removing garbage from the municipal areas"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "reporting violation of model code of conduct in election-bound States"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "The Election Commission launched a mobile app. called ‘Cvigil, ’ on July 3, 2018, for citizens to report any violation of the model code of conduct during elections."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca1d8aa1a2446cd40fc",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "3",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. Among the many innovative provisions adopted by the Forty-second Amendment of the Constitution (1976), a measure of far-reaching importance was the provision for the setting up of administrative Tribunals. <br>2. Part XIV-A which consists of two Articles 323A and 323B deals with these tribunals. <br>3. Section (1) of Article 323-A provides for the adjudication or trial by administrative tribunals of disputes and complaints with respect to recruitment and conditions of service of persons appointed to public services and posts in connection with the affairs of the union or of any state or of any local or other authority within the territory of India. <br>4. The power to constitute such tribunals is vested exclusively in Parliament.  1 73 <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 3 and 4"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "3 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "Section (2) of the same Article provides that a law made by Parliament under section (1) may provide for the establishment of an administrative tribunal for the union and a separate administrative tribunal for each State or for two or more states; Specify the jurisdiction, powers and authority which may be exercised by such tribunals; provide for the procedure to be followed by these tribunals; and exclude the jurisdiction of all courts except the special jurisdiction of the Supreme Court under Article 136."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13626223a6ea564c771",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Voting right by the youth at the age of 18 years was exercised for the first time in the general election of"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1987"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1988"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1989"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1990"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "61th amendment. 1989 on amending article 326 reduced age for voting rights from 21 to 18."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb352bbe3856e886f92a6",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following functions of State Election Commission and select correct answer by using code given below <br>1. Prepares the electoral rolls for Panchayats and Municipalities elections in the State. <br>2. Conducts elections for Panchayat and Municipalities of the State. <br>3. Conducts elections to various bodies except Panchayats and Municipalities as directed by the Governor. <br>4. Prepares the electoral rolls and conducts elections as assigned by Election Commission of India."
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "3 and 4"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 2 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Only 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec140bbe3856e886f9319",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following statements is/are correct? <br>1. A registered voter in lndia can contest an election to Lok Sabha from any constituency in India. <br>2. As per the Representation of the People Act. 1951, if a person is convicted of any offence and sentenced to an imprisonment of 2 years or more, he will be disqualified to contest election. <br>Select the correct answer using the codes given below"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only 1"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "A registered voter in lndia can contest an election to Lok Sabha from any constituency in India except autonomous Districts of Assam, Lakshadweep and Sikkim. According to Section 8 of Representation of Peoples Act 1951 , a person convicted of any offence and sentenced to imprisonment for not less than two years [other than any offence referred to in sub-section (a) or sub-section (b)J shall be disqualified from the date of such conviction and shall continue to be disqualified for a further period of six years since his release."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9f7aae84262a9c2699",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: Relations between the Union and States can be studied under the following categories: <br>1. The constitution divides legislative authority between the Union and the States in three lists the Union list, the State list and the Concurrent list. <br>2. The Union list consists of 79 items. <br>3. The Union Parliament has exclusive authority to frame laws on subjects enumerated in the list. <br>4. These include foreign affairs, defence, armed forces, communications, posts and telegraph, foreign trade, etc. <br>5. The State list consists of 51 subjects on which ordinarily the States alone can make laws. <br>6. These include public order, police, administration of justice, prison, local governments, agriculture, etc. <br>7. The Concurrent list comprises of 99 items including criminal and civil procedures, marriage and divorce, economic and special planning trade unions, electricity, newspapers, books, education, population control and family planning, etc. <br>Select the incorrect answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 3, 4 and 6"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 5 and 7"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2, 4, 5 and 7"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "None"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Both the Parliament and the state legislatures can make laws on subjects given in the Concurrent list, but the centre has a prior and supreme claim to legislate on current subjects. In case of conflict between the law of the state and union law on a subject in the Concurrent list, the law of the Parliament prevails. Residuary powers rest with the Union government. Parliament can also legislate on subjects in the State list, if the Rajya Sabha passes a resolution by two-thirds majority that it is necessary to do so in the national interest. During times of emergency, Parliament can make laws on subjects in the State list. Under Article 356 relating to the failure of constitutional machinery in the state, Parliament can take over the legislative authority of the state. Likewise, for the implementation of international treaties or agreements, Parliament can legislate on state subjects. Finally, Parliament can make laws on subjects in the State list if two or more states make a joint request to it to do so. Thus, the centre enjoys more extensive powers than the states."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca27aae84262a9c269c",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following The matters to be covered by administrative tribunals are as follows: <br>1. Levy, assessment, collection and enforcement of any tax; <br>2. Foreign exchange, import and export across customs frontiers; <br>3. Industrial and labour disputes; <br>4. Matters connected with land reforms covered by Article 31-A; <br>5. Ceiling on urban property; <br>6. Elections to either house of parliament only and <br>7. Production, procurement, supply and distribution of food-stuffs or other essential goods. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 3, 4, 6 and 7"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4, 5 and 7"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2, 4, 5 and 7"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4, 5, 6 and 7"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Article 323-B empowers Parliament or state legislatures to set up tribunals for matters other than those covered by clause (2) of Article 323-A. The scheme of administrative tribunals envisaged by Part XIV-A of the Constitution as several other provisions of the Forty-second Amendment of the Constitution were looked upon with suspicion and misgivings by certain sections of political and public opinion in the country and that was reflected in the attempt of the Janata Government (1977-79) to abolish these provisions."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9fd8aa1a2446cd40f9",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The Constitution provides a federal system of government in the country even though it describes India as ‘a Union of States'. <br>2. The term implies that firstly, the Indian federation is not the result of an agreement between independent units, and secondly, the units of Indian federation cannot leave the federation. <br>3. The Indian Constitution cont <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "The federal features of the Constitution include: A written constitution which defines the structure, organization and powers of the central as well as state governments. A rigid constitution can be amended only with the consent of the states. An independent judiciary acts as the guardian of the constitution. A clear division of powers is there between the center and the states through three lists - Union list, State list and Concurrent list. The Constitution also contains a number of unitary features: The creation of a very strong centre."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca1dce20326fbfb30b0",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. Pursuant to the powers conferred by Article 262 of the Constitution, Parliament enacted the Inter-State Water Disputes Act, 1956 (Act 33 of 1956) to provide for adjudication of disputes relating to waters of interstate river and river valleys. <br>2. The Union Government has constituted several tribunals under the aforesaid Act. Section 4(1) of the Inter-States Water Disputes Act, 1956 empowers the central government to constitute a water disputes tribunal for adjudication of a water dispute when a request from any state government in respect of such water dispute is received by it and it is of opinion that the water dispute cannot be negotiated. <br>3. The process under the Act from the stage of constitution of the tribunal to the giving of the award by it normally takes 7 to 10 years. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "The inordinate delay caused in constituting the Tribunals, delay in passing awards, framing of schemes or plans for giving effect to the decisions, and judicial review by the Supreme Court at times have been contributing factors in developing bitterness and friction between the states involved in the disputes."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7b2c8f1436d3af2ecb",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Consider the following statements with respect to the Model Code of Conduct Relating to Elections: </td> </tr> <tr> <td> 1. Ministers shall not sanction grants/payments out of discretionary funds from the time elections are announced by the Election Commission. </td> </tr> <tr> <td> 2. Ministers shall not enter any polling station or place of counting except in their capacity as a candidate or voter or authorized agent. </td> </tr> </table> Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7cb18bd6516a69dcee",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Disqualification on the ground of defection for a Member of Parliament will not apply:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "If he goes out of his party as a result of a merger of the party with another party."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "If he has voluntarily given up his membership of the political party."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "If he abstains from voting in the house contrary to the direction of the political party."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "If a nominated member of a House joins a political party after six months."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7cbb0aa1233ca20ad4",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The anti-defection law is intended to strengthen the fabric of Indian Parliamentary democracy. </td> </tr> <tr> <td> 2. The anti-defection law was enacted during the Prime Minister ship of P.V. Narasimha Rao. </td> </tr> </table> Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only 1"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7dca481156bffcbb49",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "What was the subject of the Vohra Committee?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Reform of the electoral laws"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Nexus between crime and politics"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Registration of political parties"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Judicial interference in electoral matters"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7eb18bd6516a69dcf7",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Which of the following are the true functions of the electoral process in a democracy like India? </td> </tr> <tr> <td> 1. To keep the government responsive to the popular will </td> </tr> <tr> <td> 2. To bring together citizens to choose public decision makers </td> </tr> <tr> <td> 3. To change the government periodically if necessary </td> </tr> <tr> <td> 4. To support a competitive party system </td> </tr> </table> Select the correct answer from the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 3 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "2, 3 and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7e2c8f1436d3af2ed5",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The 'first-past-the-post' electoral system, prevalent in India, refers to:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "A system of proportional representation of weighted voting in a multi-member constituency"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Single ballot, plural member majority voting system"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "An electoral system in which the person winning the most votes of the votes cast in a constituency (single ballot, single member) is declared elected"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "A system in which the winning candidate has to secure a plurality as well as majority of the votes cast"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb356bbe3856e886f92ab",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The power to decide the date of an election to a State Legislative Assembly rests with the"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "President of lndia"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Chief Minister and his/her Cabinet"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Election Commission of lndia"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Parliament"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "The power to decide the date of an election a state legislative assembly rests with the election commission of India."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb358bbe3856e886f92af",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Constitutionally the registration and recognition of political parties is the function performed by"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "The State Election Commission of respective States"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "The Law Ministry of Government of India"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "The Election Commission of India"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Election Department of the Slate Governments"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "Constitutionally the registration and recognition of political parties is the function performed by Election Commission of India."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13526223a6ea564c770",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Who among the following are mentioned in the Constitution of India, as the part of the Electoral College to elect the members of the Legislative Council of a State? <br>1. Members of local bodies in the state <br>2. Members of chambers of commerce in the slate. <br>3. Graduates of three years and residing within the state <br>4. All the teachers of three years in the state. <br><br>Select the correct answer using the codes given below: "
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 3 and 4 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Of the total number of members of the Legislative council consists of—Member of local bodies in the state. Graduates of three years and residing within the state.<br><br> Nearly 1/12th of its memebers shall be elected by the persons who have been for at least three years engaged in teaching in such educational institutions within the State, not lower in standard than that of a secondary school."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca0d8aa1a2446cd40fa",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. Both the union government and the states have been provided with independent sources of revenue by the Constitution. <br>2. Parliament can levy taxes on the subjects included in the Union list. <br>3. The states can levy taxes on the subjects in the state list. Ordinarily, there are no taxes on the subjects in the Concurrent list. <br>Select the correct answer using the codes given below: Political System"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "In the financial sphere also, the states are greatly dependent on the centre for finances. The centre can exercise control over state finances through the Comptroller and Auditor General of India and grants. But during financial emergency, the President has the power to suspend the provision regarding division of taxes between the centre and the states."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec14bbbe3856e886f9323",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Electoral disputes arising out of Presidential and Vice-Presidential Elections are settled by:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Election Commission of lndia"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Joint Committee of Parliament"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Supreme Court of India"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Central Election Tribunal"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "According to Article 71 ofthe Constitution, all doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb350bbe3856e886f92a3",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which one among the following commissions was set up in pursuance of a definite provision under an Article of the Constitution of India?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "University Grants Commission"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "National Human Rights Commission"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Election Commission"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Central Vigilance Commission"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "University Grants commission, N.H.R.C. and C.V.C are nonconstitutional bodies, whereas election commission is a constitutional body under Article 324."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca37aae84262a9c269d",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. To investigate and monitor all matters relating to the safeguards provided for the scheduled castes under this Constitution or under any other law for the time being in force or under any order of the government and to evaluate the working of such safeguards; <br>2. To inquire into specific complaints with respect to the deprivation of rights and safeguards of the scheduled castes; <br>3. To participate and advise on the planning process of socio-economic development of the scheduled castes and Political System <br>4. to evaluate the progress of their development under the union and any state; <br>5. To present to the President, annually and at such other times as the commission may deem fit, reports upon the working of those safeguards; <br>6. To make in such reports recommendations as to the measures that should be taken by the union or any state for the effective implementation of those safeguards and other measures for the protection, welfare and socio-economic development of the scheduled castes; and <br>7. To discharge such other functions in relation to the protection, welfare and development and advancement of the scheduled castes as the President may, subject to the provisions of any law made by Parliament, by rule specify. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 3, 4, 6 and 7"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 5 and 6"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2, 4, 5 and 7"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4, 5, 6 and 7"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "National Commission for scheduled castes is an Indian constitutional body established with a view to provide safeguards against the exploitation of scheduled castes and to promote and protect their social, educational, economic and cultural interests, special provisions were made in the Constitution. The first Commission for SC and ST was set up in August, 1978 with Shri Bhola Paswan Shastri as Chairman and other four members. In 1990, the Commission was renamed as the National Commission for scheduled castes and scheduled tribes and it was set up as a national level advisory body to advise the government on broad policy issues and levels of development of scheduled castes and scheduled tribes."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9fdce20326fbfb30ae",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The Indian Constitution is based on the principle that the executive power is co-extensive with legislative power, which means that the union executive/the state executive can deal with all matters on which Parliament/state legislature can legislate. <br>2. The executive power over subjects in the Concurrent list is also exercised by the states unless the union government decides to do so. <br>3. The centre can issue directives to the state to ensure compliance with the laws made by Parliament for construction and maintenance of the means of communications declared to be of national or military importance, on the measures to be adopted for protection of the railways, for the welfare of the scheduled tribes and for providing facilities for instruction in mother tongue at primary stage to linguistic minorities. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "The centre acquires control over states through all India services, grants-in-aid and the fact that the Parliament can alone adjudicate in inter-state river disputes. During a proclamation of national emergency as well as emergency due to the failure of constitutional machinery in a state, the union government assumes all the executive powers of the state."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7bca481156bffcbb41",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Statement I: During the conduct of elections the Election Commission appoints Observers. </td> </tr> <tr> <td> Statement II: If the candidates or their agents have any specific complaint or problem regarding the conduct of elections they may bring the same to the notice of the Observer. </td> </tr> </table> Codes:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Both the statements are individually true but Statement II is not the correct explanation of Statement I."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Statement I is true but Statement II is false."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Statement I is false but Statement II is true."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7cca481156bffcbb44",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which one of the following Schedules of the Constitution of India includes the disqualification of a Legislator on grounds of defection?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "8th Schedule"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "7th Schedule"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "9th Schedule"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "10th Schedule"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7dca481156bffcbb47",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Indrajit Gupta Committee is related to:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Registration of political parties"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Criminalisation of politics"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "State funding of elections"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Anti-defection law"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7dca481156bffcbb48",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The Electronic Voting Machines (EVMs) were used for the first time in 1999 in the general elections (entire state) to the Legislative Assembly of:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Goa"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Rajasthan"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Madhya Pradesh"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Kerala"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7d2c8f1436d3af2ed2",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Which of the following are included in booth capturing? </td> </tr> <tr> <td> 1. Seizure of a polling station and making polling authorities surrender ballot papers or voting\" machines. </td> </tr> <tr> <td> 2. Taking possession of polling station and allowing only one's own supporters to exercise their franchise. </td> </tr> <tr> <td> 3. Threatening and preventing any elector from going to polling station. </td> </tr> <tr> <td> 4. Seizure of the place being used for counting of votes. </td> </tr> </table> Select the correct answer by using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "3 and 4 only"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7e2c8f1436d3af2ed4",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The area of a Lok Sabha constituency for the purpose of general election is determined by the:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Delimitation Commission"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Election Commission of India"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Census Commission"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "President"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb34fbbe3856e886f92a2",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following is not a constitutional authority?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "State Election Commission"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "State Finance Commission"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Zila Panchayat"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "State Electoral Officer"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "State Electoral officer is not a constitutional authority."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb353bbe3856e886f92a8",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The Chief Election Commissioner of India holds office for a period of"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "six years"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "during the pleasure of the President"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "for 6 years or till the age of 65 years, whichever is earlier"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "for 5 years or till the age of 60 years, whichever is earlier"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "The Chief Election Commissioner holds office for a term of six years or until they attain the age of 65 years, whichever is earlier."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13c26223a6ea564c777",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which one of the following statements about Electoral Government in India is not correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "The superintendence, direction and control of elections are vested in the Election Commission of India."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "There is one general electoral roll for every territorial constituency."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "The Parliament has the power to make laws relating to the delimitation of constituencies."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "Under Article 82 of the constitution, after every census, the delimitation commission demareates the boundary of parliamentary constituency on the basis of Delimitation Act."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb353bbe3856e886f92a7",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Who among the following determines the authority who shall readjust the allocation of seats in the Lok Sabha to the states and division of each State into territorial constituencies?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "The President of India"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "The Parliament of lndia"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "The Chief Election Commissioner of India"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "The Lok Sabha alone"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "According to article 82 of Indian Constitution, the parliament of India shall readjust the allocation of seats in the Lok Sabha to the states and division of each state into territorial constituencies."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb359bbe3856e886f92b0",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "In a democracy, the will of the people is supreme. Which of the following statement concerning democracy in India best reflects this?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "The President appoints the Prime Minister who is the leader of the political party possessing a majority in the Lok Sabha."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "An assembly of elected representatives excercises political authority on behalf of the people."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "In case of a difference between the two Houses of Parliament, the final decision is taken in a joint session of the two Houses."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "The permanent executive has more powers than the political executive."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "In all democracies an assembly of elected representatives exercises political authority on behalf of the people. Parliament has the authority to make new laws for the country and abolish existing laws. Parliament control all the money related issues of government. All the bills have to be presented to Lok Sabha before they become laws. Since Lok Sabha consists of elected representative of the people, it exercises authority over the government."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec147bbe3856e886f931f",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Right to vote and to be elected in India is a"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Fundamental Right"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Natural Right"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Constitutional Right"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Legal Right"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "<br> Right to vote in elections is an important constitutional right. <br><br>one of the important decisions of the framers of India Constitution was to guarantee every adult citizen in India, the right to vote. [Article 326]<br><br> Combining the interpretation  “C” is the answer."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec141bbe3856e886f931a",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following condition/conditions must be fulfilled by the NRIs to be eligible to vote in elections in India?  <br>1. They must be physically present in their place of origin to exercise their franchise. <br>2. NRIs whether they have acquired citizenship of other countries or not are eligible to vote. <br>3. Eligible NRIs have to register by filling up form 6-A with electoral registration office. <br><br>Select the correct answer using the codes given below"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1 and 3"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Only 3"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "All statements are correct."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13fbbe3856e886f9318",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The core of political democracy lies in the basic axiom of electoral democracy which is based on"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Right to education"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Freedom of speech"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Right to equality"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Universal adult franchise"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "The core of political democracy is based on Universal adult Franchise, pertaining to civil matters in India."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca17aae84262a9c269b",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. Sarkaria Commission was set up in May 1993 by the central government of India. <br>2. The Sarkaria Commission's charter was to examine the relationship and balance of power between state and central governments in the country and suggest changes within the framework of Constitution of India. <br>3. The Commission was so named as it was headed by Justice Rajinder Singh Sarkaria, a retired judge of the Supreme Court of India. <br>4. It made the strong suggestion that Article 370 was not a transitory provision. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 3 and 4"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2, 3 and 4 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "This commission was set up in June 1983. On administrative relations, Sarkaria made the following observation: “Federalism is more a functional arrangement for cooperative action, than a static institutional concept. Article 258 (power of the Union to confer powers etc on states in certain cases) provides a tool by the liberal use of which cooperative federalism can be substantially realised in the working of the system. A more generous use of this tool should be made than has hitherto been done, for progressive decentralisation of powers to the governments of the states.”On Article 356, it was recommended that it be used “very sparingly, in extreme cases, as a measure of last resort, when all other alternatives fail to prevent or rectify a breakdown of constitutional machinery in the state."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9ed8aa1a2446cd40f8",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The civil services of India refer to the civil service and the permanent bureaucracy of the Government of India. <br>2. The civil service system is the backbone of the administrative machinery of the country. <br>3. In the parliamentary democracy of India, the ultimate responsibility for running the administration rests with the elected representatives of the people which are the ministers. <br>4. The executive decisions are implemented by the Indian civil servants. <br>5. The members of civil service serve at the pleasure of the President of India and Article 311 of the constitution protects them from politically motivated or vindictive action. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 3, 4 and 5"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4 and 5"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "Civil servants are employees of the Government of India; however, not all employees of the Government are civil servants. As of 2010, there are total 6.4 million civil servants in India. Civil servants in a personal capacity are paid from the Civil List. Senior civil servants may be called to account by Parliament. The system of cadre based civil services was virtually introduced by the British East India Company when they began to rule India."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13a26223a6ea564c775",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Proportional representation is NOT necessary in a country where?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "There are no reserved constituencies."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "A two-party system has developed"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "The first past-post system prevails"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "There is a fusion of presidential and parliamentary form of government."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "In proportional representation, a candidate requires 50% + I vote to get elected. In a bi-party system, one automatically secures it. Proportional representation (PR) is a concept in voting systems used to elect an assembly or council. PR means that the number of seats won by a party or group of candidates is proportionate to the number of votes received."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb351bbe3856e886f92a5",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements regarding state election commission <br>1. The state election commission is appointed by the Governors of the respective states. <br>2. State election commission conducts election to the panchayats only <br>Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "The state Election Commission is the constitutional body responsible for conducting and supervising elections to the local bodies in the state."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13b26223a6ea564c776",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "A college student desires to get elected to the municipal council of his city. The validity of his nomination would depend on the important condition, among others, that?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "He obtains permission from the principal of his college."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "He is a member of a political party."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "His name figures in the voter’s list."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "He files a declaration owing allegiance to the constitution of lndia."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "The validity of nomination of a person to get elected to the municipal council would depend on the condition that his name should be figured in the voter’s list."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13926223a6ea564c774",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "If in an election to a state Legislative Assembly, the candidate who is declared elected loses his deposit, it means that?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "The polling was very poor."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "The election was for a multi-member constituency."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "The elected candidate’s victory over his nearest rival was very marginal."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "A very huge number of candidates contested the election."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "A candidate loses his deposit only when he is polled less than 1 /6th of votes. It can only be possible when a very large number of candidates contested the elections."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9fdce20326fbfb30ad",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The responsibility of the civil services is to run the administration of India. <br>2. The country is managed through a number of Central Government agencies in accordance with the policy directions given by the ministries. <br>3. Civil servants are employed to various agencies of India and can also be appointed as advisors or special duty officers or private secretaries to ministers of the Union only. <br>4. All appointments in the rank of Joint Secretary to Government of India and above, other major appointments, empanelment and extension of tenure are done by the President. <br>5. However, all appointments in the rank below Joint secretary in the federal government are done by the Civil Services Board. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2 and 5"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 3, 4 and 5"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4 and 5"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "The members of the civil services represent as administrators in the central government and state government; emissaries in the foreign missions/embassies; as tax collectors and revenue commissioners; as civil service commissioned police officers; as permanent respresentative(s) and employees in the United Nations and its agencies and as Chairman, Managing Director, full-time functional Director/ Member of the Board of Management of various public Sector undertakings/ enterprises, corporations, banks and financial institutions."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9e7aae84262a9c2698",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The constitution provides for more All India Civil Services branches to be set up by giving the power to the Rajya Sabha (upper house of the Parliament of India) to resolve by a two-thirds majority to establish new all-India services. <br>2. The Indian Forest Service (IFS), Indian Administrative Service (IAS) and Indian Police Service (IPS) are the three services set up under this constitutional provision. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "None"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "The special characteristics of the Civil Service during British period were that firstly, it was a close well-knit administrative service; secondly, it was designed to maintain stability and continuity of the British power. The present civil services of India are mainly based on the pattern of the Imperial Civil Service of the British India. It was formed after the Independence of India in 1947. The values of integrity, impartiality and merit remain the guiding principles of Indian civil services."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca1d8aa1a2446cd40fb",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. It recommended that the residuary powers of legislation in regard to taxation matters should remain exclusively in the competence of Parliament while the residuary field other than that of taxation should be placed on the concurrent list. <br>2. That the enforcement of union laws, particularly those relating to the concurrent sphere, is secured through the machinery of the states. <br>3. To ensure uniformity on the basic issues of national policy, with respect to the subject of a proposed legislation, consultations may be carried out with the state governments individually and collectively at the forum of the proposed Inter-Governmental Council. <br>4. It was not recommended that the consultation be a constitutional obligation. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2, 3, and 4"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 3 and 4"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "3 and 4 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "During times of emergency, Parliament can make laws on subjects in the State list. Under Article 356 relating to the failure of constitutional machinery in the state, Parliament can take over the legislative authority of the state. Likewise, for the implementation of international treaties or agreements, Parliament can legislate on state subjects. Finally, Parliament can make laws on subjects in the State list if two or more states make a joint request to it to do so."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7bb18bd6516a69dced",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following formulates the \"Model Code of Conduct for the Guidance of Political Parties and Candidates \"?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Parliament"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Law Ministry"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Supreme Court"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Election Commission"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7b2c8f1436d3af2ecc",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Consider the following statements with respect to the Model Code of Conduct Relating to Elections: </td> </tr> <tr> <td> 1. The Ministers shall not combine their official visit with electioneering work. </td> </tr> <tr> <td> 2. The Ministers shall not make use of official machinery or personnel during the electioneering work. </td> </tr> </table> Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only 1"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7c2c8f1436d3af2ecd",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which one of the following Amendments to the Constitution of India sought to curb the political defection?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "42nd Amendment"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "52nd Amendment"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "62nd Amendment"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "70th Amendment"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7dbb0aa1233ca20ad5",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The Representation of the People (Amendment) Act, 2003, passed by the Parliament of India sought to:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Provide the facility to opt to vote through proxy to the service voters belonging to armed forces"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Introduce open ballot system for elections to the Council of States"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Insert provision regarding supply of copies of electoral rolls to candidates of recognized political parties"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Make it mandatory for political parties to report all cases of contributions received above Rs.20, 000 to Election Commission"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7ebb0aa1233ca20ad8",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Dinesh Goswami Committee on electoral reforms was appointed by the:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "United Front Government"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "BJP-led coalition Government"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "United Progressive Alliance Government"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "National Front Government"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7eb18bd6516a69dcf5",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The party system and the elections in India are based on single member constituencies, first- past-the-post system and a bicameral legislature. </td> </tr> <tr> <td> 2. The first general elections (Parliamentary Elections) were held in India in the year 1950 following the ratification of the Constitution. </td> </tr> </table> Which of the statements given above is / are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only 1"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7eb18bd6516a69dcf6",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The registration of political parties is done as per the provisions/decision of:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Article 324 of the Constitution"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "The Representation of the People Act, 1951"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "The Election Commission by itself"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "The Election Commission in consultation with cabinet committee on political affairs"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca3dce20326fbfb30b2",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The Constitution of India under Article 158 provides for an independent office to the CAG of India. <br>2. He/she is the head of Indian Audit and Accounts Department. His/her duty is to uphold the Constitution of India and laws of the Parliament in the field of financial administration. <br>3. The CAG is empowered to audit all expenditure from Consolidated Fund of the Union government only. <br>4. The reports of the CAG are taken into consideration by the public accounts committees, which are special committees in the Parliament of India and the state legislatures. <br>5. The CAG is also the head of the Indian Audit and Accounts Service, which has over 58,000 employees across the country. <br>6. The CAG is not eligible for further office either under Government of India or under the Government of any state after he has ceased to hold his office. <br>7. There shall be a Comptroller and Auditor-General of India who shall be appointed by the President by warrant under his hand and seal and shall only be removed from office in like manner and on like grounds as a Judge of the Supreme Court. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 3, 4, 6 and 7"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 5 and 6 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2, 4, 5 and 7"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4, 5, 6 and 7"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "The Comptroller and Auditor General (CAG) of India is an authority, established by the Constitution of India under Chapter V, who audits all receipts and expenditure of the Government of India and the state governments, including those of bodies and authorities substantially financed by the government. Every person appointed to be the Comptroller and Auditor-General of India shall, make and subscribe an oath or affirmation according to the form set out for the purpose in the Third Schedule."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca2dce20326fbfb30b1",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. Administrative tribunals are not an original invention of the Indian political system. <br>2. Such tribunals are now well established in all democratic countries of Europe as well as the United States of America. <br>3. The experience of India during the past two decades and more has demonstrated that administrative tribunals have an effective role to play in a country which has embarked upon a programme of rapid socioeconomic change. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "The enactment of Administrative Tribunals Act in 1985 opened a new chapter in the sphere of administering justice to the aggrieved government servants. Administrative Tribunals Act owes its origin to Article 323-A of the Constitution which empowers central government to set-up by an Act of Parliament, administrative tribunals for adjudication of disputes and complaints with respect to recruitment and conditions of service of persons appointed to the public service and posts in connection with the affairs of the union and the states."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13726223a6ea564c772",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The system of proportion of Representation as an electoral mechanism ensures"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Representation of minorities"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Rule of majority"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Stability in government"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Common political thinking"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec149bbe3856e886f9321",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following is not under the powers and functions of the Election Commission of India?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Superintendence, control of the electoral rolls direction preparation and of"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Conduct of elections to the Parliament and to the Legislature of each State"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Conduct of election to the office of the President and the Vice President"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Appointment of the Regional Commissioners to ssist the Election Commission in the performance of the functions conferred on the Commission"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "The President appoints Regional Commissioners after consultation with the election commission to assist the election Commissioner."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb354bbe3856e886f92a9",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Delimitation of constituencies and determination of constituencies reserved for Scheduled Castes and Scheduled Tribes are done by"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Election Commission"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Delimitation Commission"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Planning Commission"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Election Commission with the assistance of Delimitation Commission"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "elimitation commission of India is a Commission established by Government of India under the provisions of the Delimitation Commission Act. In India, such Delimitation Commissions have been constituted 4 times - in 1952 under the Delimitation Commission Act, 1952, in 1963 under Delimitation Commission Act, 1962, in 1973 under Delimitation Act, 1972 and in 2002 under Delimitation Act, 2002. The main task of the commission is to redraw the boundaries of the various assembly and Lok Sabha constituencies based on a recent census. The representation from each state is not changed during this exercise. However, the number of SC and ST seats in a state is changed in accordance with the census."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec14cbbe3856e886f9324",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following sentiments about the reason for conducting elections are incorrect. —  <br>I. Elections enable the people to judge the performance of the government. <br>II. People cannot indicate the policies they prefer. <br>III. People select the representatives of their in an election. <br>IV. Elections enable the people to evaluate the performance of the judiciary."
+      },
+      "options": [
+        {
+          "d": {
+            "text": "I and IV"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "I and III"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "I, II and III"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "II and IV"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Elections do not enable people to evaluate the performance of judiciary. People can indicate which policies they prefer. Judiciary is independent."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb356bbe3856e886f92ac",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "The Election Commissioner can be removed by the"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Chief Election Commissioner"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Prime Minister"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "President on the recommendation of the chief Election Commissioner"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Chief Justice of India"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "Election Commissioner/s can be removed by the President of India on the recommendation of the Chief Election Commissioner"
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec146bbe3856e886f931e",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements:<br>1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 per cent of the votes polled, to be declared elected. <br>2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker’s post goes to the majority party and the Deputy Speaker’s to the Opposition. <br><br>Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "<br> India has first past the post system wherein a candidate who wins the election may not (need to) get majority (50%+l) votes. Statement #1 is wrong.<br><br> Upto the 10th Lok Sabha. both the Speaker and the Deputy Speaker were usually from the ruling party. Since the 11th Lok Sabha, there has been a consensus that the Speaker comes from the ruling party (or ruling alliance) and the post of Deputy Speaker goes to the main opposition party.Meaning it’s an ’informal consensus’ among political parties, and not Constitutional provision. Hence #2 also wrong."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7cbb0aa1233ca20ad3",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "What is the subject of the 91st Constitutional Amendment Act, 2003?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Right to Information"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Limiting the size of Council of Ministers"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Right to Education"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Elimination of Corruption at all Levels"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca3dce20326fbfb30b3",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. National Commission for Scheduled Tribes is an Indian constitutional body was established through Constitution (89th Amendment) Act, 2003. <br>2. On the 89th Amendment of the Constitution coming into force on 19 February 2004, the National Commission for Scheduled Tribes has been setup under Article 328 on bifurcation of erstwhile National Commission for Scheduled Castes and Scheduled Tribes to oversee the implementation of various safeguards provided to scheduled tribes under the Constitution. <br>3. By this amendment, the erstwhile National Commission for Scheduled Castes and Scheduled Tribes was replaced by two separate commissions. <br>Select the incorrect answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "The National Commission for Scheduled Tribes (NCST) has been set up under Article 338A."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec142bbe3856e886f931b",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which one among the following is not an attribute of sustainability of Indian democratic model?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Unity in diversity in socio-cultural patterns"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Sustained economic growth specially after the 1990s"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Regular elections in the centre and states since !950s"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "A strong industrial base with a vibrant federal structure"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Sustained economic growth specially after the 1990s, is not an attribute of sustainability of Indian democratic model."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec143bbe3856e886f931c",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which among the following is not a part of the electoral reforms?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Installation of electronic voting machines"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Appointment of election Commissioner"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Registration of Political parties"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Disqualifying the offenders"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "Electoral reforms is change in electoral systems to improve how public desires are expressed in election results. Installation of electronic voting machines is not the parts of such reforms."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb358bbe3856e886f92ae",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements:<br>1. The Election Commission of India is a five-member body. <br>2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and by-elections. <br>3. Election Commission resolves the disputes relating to splits/mergers of recognized political parties. <br>Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "3 only"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "Election Commission has three election Commissioners. So first statement is wrong. <br>Election Commission decides the election schedule for the conduct of both general elections and bye-elections. So second statement is wrong. It also decides the disputes relating to splits/mergers of recognized political parties. So third statement is right. Hence answer “D” only 3."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca07aae84262a9c269a",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The Finance Commission of India came into existence in 1951. <br>2. It was established under Article 280 of the Indian Constitution by the President of India. <br>3. It was formed to define the financial relations between the centre and the state. <br>4. The Finance Commission Act of 1951 states the terms of qualification, appointment and disqualification, the term, eligibility and powers of the Finance Commission. <br>5. As per the Constitution, the commission is appointed every five years and consists of a chairman and four other members. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 3, 4 and 5"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "1, 2, 3 and 4"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2, 3, 4 and 5"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 3,
+      "solution": {
+        "text": "Since the institution of the first finance commission, stark changes have occurred in the Indian economy causing changes in the macroeconomic scenario. This has led to major changes in the Finance Commission’s recommendations over the years. Till date, thirteen finance commissions have submitted their reports."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bc9edce20326fbfb30ab",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. The Second Administrative Reforms Commission (ARC) was setup in 2005 under the Chairmanship of Shri Veerappa Moily to prepare a detailed blueprint for revamping the public administrative system. <br>2. The commission set up to suggest measures to achieve a proactive, responsive, accountable, sustainable and efficient administration for the country at all levels of the government has finished its term on April 30, 2009. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1 and 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "None"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "In all, the Commission has presented the following 15 reports to the government:<br>1. Right to Information - Master Key to Good Governance (09.06.2006)<br>2. Unlocking Human Capital - Entitlements and Governance - a Case Study (31.07.2006)<br>3. Crisis Management - From Despair to Hope (31.10.2006)<br>4. Ethics in Governance (12.02.2007)<br>5. Public Order - Justice for each peace for all.<br>(25.06.2007)<br>6. Local Governance (27.11.2007)<br>7. Capacity Building for Conflict Resolution - Friction to<br>Fusion (17.3.2008)<br>8. Combating Terrorism (17.9.2008)<br>9. Social Capital - A Shared Destiny (8.10.2008)<br>10. Refurbishing of Personnel Administration - Scaling New Heights (27.11.2008)<br>11. Promoting e-Governance - The Smart Way Forward (20.01.2009)<br>12. Citizen Centric Administration - The Heart of Governance (30.3.2009)<br>13. Organisational Structure of Government of India<br>(19.5.2009)<br>14. Strengthening Financial Management Systems<br>(26.5.2009)<br>15. State & District Administration (29.5.2009)"
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb355bbe3856e886f92aa",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements about State Election Commission?  <br>1. The State Election Commissioner shall be appointed by the Governor of the State. <br>2. The State Election Commission shall have the power of even preparing the electoral rolls besides the power of superintendence, direction and control of election to the panchayats. <br>3. The State Election Commissioner cannot be removed in any manner from his office until he demits himself or completes his tenure. <br>Which of the above statements is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2 and 3"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1 only"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Three Election Commissioners in the each State shall be appointed by the Governor of the respective State from a penal of five names for each office forwarded by the Election Commission of Bharatto the provision of the Constitution (Seventy-third Amendment) Act, 1992 and the Constitution (Seventy-fourth Amendment) Act, 1992, whereunder the constitution of State Election Commissions and appointment of State Election Commissioners are contemplated to superintend, direct and control the preparation of the electoral rolls for. and the conduct of elections to Panchayats and Municipalities. Election Commissioner of a State can be removed by the Full Bench of State Judicial Commission on the basis of enquiry and investigation made by a judicial committee constituted for the purpose, consisting of two Chief Justices and one Judge from different High Courts."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb351bbe3856e886f92a4",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "What is the tenure of the Chief Election Commissioner of India?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Five years"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "During the 'pleasure' of the President"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Six years or till the age of 65 years whichever is earlier"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Five years or till the age of 65 years whichever is earlier"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": "The tenure of the Chief Election Commissioner of India is six years or till the age of 65 year whichever is earlier."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2eb357bbe3856e886f92ad",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Who recognises the political parties in India?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "President of lndia"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Election Commission of India"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Ministry of Law and Justice"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Speaker of the Lok Sabha"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "Election Commission of India recognises the political parties in the India."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e2ec13e26223a6ea564c779",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Under which of the following conditions security deposits of a candidate contesting for a Lok Sabha seat is returned to him/her?  <br>1. The nomination made by the candidate if found to be invalid. <br>2. The candidate has withdrawn his/her nomination even though it is found valid. <br>3. The candidate lost the polls but secured l/6th of the total number of valid votes polled in that election. <br>Select the correct answer using the codes given below"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 2"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 3"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2 and 3"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "All of these"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": "The deposit made by a candidate shall be returned if the following conditions are satisfied:<br>- <br>(i) the candidate is not shown in the list of contesting candidates, that is to say, either his nomination was rejected or after his nomination was accepted, he withdrew his candidature; or <br>(ii) he dies before the commencement of the poll; or <br>(iii) he is elected; or <br>(iv) he is not elected but gets more than 1 /6th of the total number of valid votes polled by all the candidates at the election."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca0dce20326fbfb30af",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. Functions of the Finance Commission can be explicitly stated as: <br>2. Distribution of net proceeds of taxes between centre and the states, to be divided as per their respective contributions to the taxes. <br>3. Determine factors governing grants-in aid to the states and the magnitude of the same. <br>4. To make recommendations to president as to the measures needed to augment the consolidated fund of a state to supplement the resources of the Panchayats and municipalities in the state on the basis of the recommendations made by the Finance Commission of the state. <br>Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1, 2, 3, and 4"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "2, 3 and 4"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "3 and 4 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "1, 2 and 4"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "With the objective of giving a structured format to the Finance Commission of India and to bring it at par with world standards, The Finance Commission (Miscellaneous Provisions) Act, 1951 was passed. It lays down rules regarding qualification and disqualification of members of the Commission, their appointment, term, eligibility and powers."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5e60bca2d8aa1a2446cd40fd",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [
+        "English"
+      ],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Consider the following statements: <br>1. In pursuance of the provisions contained in the administrative tribunals Act, 1955, the administrative tribunals set-up under it exercise original jurisdiction in respect of service matters of employees covered by it. <br>2. The administrative tribunals exercise jurisdiction only in relation to the service matters of the litigants covered by the Act. <br>3. The procedural simplicity of the Act can be appreciated from the fact that the aggrieved person can also appear before it personally. <br>4. The government can present its case through its departmental officers or legal practitioners. <br>5. The Act provides for establish <br>Select the incorrect answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "1 and 5 only"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "1 and 2 only"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "2 and 3 only"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "3 and 5 only"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": "As a result of the judgement dated 18 March 1997 of the Supreme Court, the appeals against the orders of an administrative tribunal shall lie before the division bench of the concerned High Court. Thus, the objective of the tribunal is to provide for speedy and inexpensive justice to the litigants. The Act provides for establishment of Central Administrative Tribunal (CAT) and the state administrative tribunals. The CAT was set-up on 1 November 1985. Today, it has 17 regular benches, 15 of which operate at the principal seats of High Courts and the remaining two at Jaipur and Lucknow. These Benches also hold circuit sittings at other seats of High Courts."
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7bbb0aa1233ca20acf",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. According to the Model Code of Conduct Relating to Elections, all political parties and candidates shall: Refrain from serving or distributing liquor on polling day and during the twenty-eight hours preceding it. </td> </tr> <tr> <td> 2. Supply to their authorized workers suitable badges or identity cards. </td> </tr> </table> Which of the statements given above is/are correct?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only 1"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 1,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7cca481156bffcbb45",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Who/Which of the following decides the question of disqualification of a member of the Parliament, arising on the ground of defection?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "President of India"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Supreme Court"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Presiding Officer of the House"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Election Commission"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7cca481156bffcbb46",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> Statement I: The provision of the Tenth Schedule pertaining to exemption from disqualification in case of split by one-third members of legislature party has been deleted by the 91st Amendment. </td> </tr> <tr> <td> Statement II: The Dinesh Goswami Committee, the Law Commission of India and the Constitutional Review Commission recommended commission of the provision of the Tenth Schedule pertaining to exemption from disqualification in case of splits. </td> </tr> </table> Codes:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Both the statements are individually true but Statement II is not the correct explanation of Statement I."
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Statement I is true but Statement II is false."
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Statement I is false but Statement II is true."
+          },
+          "v": 3
+        }
+      ],
+      "answer": 0,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7d2c8f1436d3af2ed1",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": null,
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "Which of the following Constitutional Amendment Acts reduced the voting age from 21 years to 18 years for the Lok Sabha as well as the assembly elections?"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "56th Amendment"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "59th Amendment"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "61st Amendment"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "63rd Amendment"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    },
+    {
+      "_id": "5f93da7ebb0aa1233ca20ad9",
+      "matrixSize": {
+        "rows": 0,
+        "columns": 0
+      },
+      "tags": [],
+      "difficulty": "2",
+      "assets": [],
+      "type": "mcq",
+      "partialMarking": false,
+      "hasRelatedQuestions": false,
+      "childQuestions": [],
+      "question": {
+        "text": "<table> <tr> <td> In which of the following circumstances, are the courts debarred from interfering in electoral matters? </td> </tr> <tr> <td> 1. Delimitation of constituencies </td> </tr> <tr> <td> 2. Allotment of seats to the constituencies </td> </tr> </table> Select the correct answer using the codes given below:"
+      },
+      "options": [
+        {
+          "d": {
+            "text": "Only 1"
+          },
+          "v": 0
+        },
+        {
+          "d": {
+            "text": "Only 2"
+          },
+          "v": 1
+        },
+        {
+          "d": {
+            "text": "Both 1 and 2"
+          },
+          "v": 2
+        },
+        {
+          "d": {
+            "text": "Neither 1 nor 2"
+          },
+          "v": 3
+        }
+      ],
+      "answer": 2,
+      "solution": {
+        "text": ""
+      },
+      "comprehension": "",
+      "topicId": "5de8f30ff2109b7c7646f6e2",
+      "__v": 0,
+      "disabled": false
+    }
+  ]

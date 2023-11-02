@@ -1,0 +1,461 @@
+[
+  {
+    "_id": "5f93d9932c8f1436d3af2c15",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Parliament passed the Administrative Tribunals Act in:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1985"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1975"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1982"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1987"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9932c8f1436d3af2c13",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Central Administrative Tribunal adjudicates disputes and complaints with respect to the service of persons who are:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Appointed to public services and posts in connection with the affairs of the Union except members of the Defence services"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Officials and servants of the Supreme Court or High Courts"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Members of the Secretarial staff of the Parliament or State Legislatures"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Members of the Defence Services"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9937268f93ba6f629c0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Part XIV-A of the Constitution of India deals with which of the following: </td> </tr> <tr> <td> 1. Administrative tribunals </td> </tr> <tr> <td> 2. Adjudication or trial by tribunals in respect of enforcement of any tax </td> </tr> <tr> <td> 3. Adjudication or trial by tribunals in respect of ceiling on urban property </td> </tr> <tr> <td> 4. Adjudication or trial by tribunals in respect of industrial and labour disputes </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9942c8f1436d3af2c16",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which Article of the Constitution of India deals with administrative tribunals?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 322"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 323"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 323-A"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 323-B"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9947268f93ba6f629c4",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following Constitutional Amendment Acts included Part XIV-A (entitled as 'Tribunals') in the Constitution of India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "42nd Amendment Act"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "44th Amendment Act"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "47th Amendment Act"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "49th Amendment Act"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9937268f93ba6f629c3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The chairman of a State Administrative Tribunal is appointed by the"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Governor of the State"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Chief Justice of the State High Court"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Speaker of the State Legislative Assembly"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "President of India"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9937268f93ba6f629c1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is a Quasi-judicial authority?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Central Vigilance Commission"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "National Commission for Women"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Comptroller and Auditor-General of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Administrative Tribunal"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9932c8f1436d3af2c14",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Central Administrative Tribunal was set up on the recommendation of:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The Ministry of Law and Justice"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Administrative Reforms Commission"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Law Commission"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The Sarkaria Commission"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93d9937268f93ba6f629c2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which one of the following cases, did the Supreme Court rule that the power of judicial review vested in the High Courts in respect of the decisions given by the Service Tribunals, cannot be ousted or excluded even by a Constitutional Amendment?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "High Court of Judicature at Bombay v Shirish Kumar"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Sampath Kumar v. Union of India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Chandra Kumar v Union of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "All India Judges Association v Union of India"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5f5f7ba51fc1ca208e100fee",
+    "__v": 0,
+    "disabled": false
+  }
+]

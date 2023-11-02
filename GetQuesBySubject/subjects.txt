@@ -1,0 +1,10 @@
+const subjectCollectionMap: [
+            "5de8f2a41359ef7c70c6ea88",
+"5de8f43b1359ef7c70c6eacc",
+ "5de8f2401359ef7c70c6ea87",
+"5de8f4e91359ef7c70c6ead7",
+"5de8f39b1359ef7c70c6eaba",
+"5de8f3fc1359ef7c70c6eacb",
+"5de8f4c6f2109b7c7646f707",
+"5de8f1721359ef7c70c6ea86",
+"5de8f47dc525977c9da0b13d"]

@@ -1,0 +1,2699 @@
+[
+  {
+    "_id": "5f93dabfbb0aa1233ca20b4c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following duties have been prescribed by the Indian Constitution as Fundamental Duties? </td> </tr> <tr> <td> 1. To defend the country </td> </tr> <tr> <td> 2. To pay income tax </td> </tr> <tr> <td> 3. To preserve the rich heritage of our composite culture </td> </tr> <tr> <td> 4. To safeguard public property </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac0b18bd6516a69dd67",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following has not been enumerated in the Constitution of India as be in amongst the fundamental duties of the citizens?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "To value and preserve the rich heritage of our composite culture"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "To safeguard public property and to abjure violence"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "To develop the scientific temper, humanism and the spirit of inquiry and reform"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "To secure a social order for the promotion of welfare of the people"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac12c8f1436d3af2fa3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not a fundamental duty?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "To respect the National Anthem"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "To safeguard public property"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "To protect monuments and places of national importance"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "To protect and improve the natural environment"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac1b18bd6516a69dd69",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Following duties have been prescribed for the State and the citizens: </td> </tr> <tr> <td> 1. To develop scientific temper </td> </tr> <tr> <td> 2. To promote common broodier hood </td> </tr> <tr> <td> 3. To organise village panchayats </td> </tr> <tr> <td> 4. To minimizse the inequalities in income </td> </tr> <tr> <td> 5. To secure a uniform civil code </td> </tr> <tr> <td> 6. To defend the country </td> </tr> </table> Among these, the fundamental duties of the citizens would include:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "3, 4 and 5"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 6"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 5 and 6"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac2bb0aa1233ca20b54",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> In view of Article 20 of the Constitution of India, no person accused of an offence can be com- palled to: </td> </tr> <tr> <td> 1. Give his signature or thumb impression for identification. </td> </tr> <tr> <td> 2. Give oral testimony either in or out of the court. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac2bb0aa1233ca20b56",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following pairs is not correct matched?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Freedom of speech and expression - Include the freedom of Press"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Freedom of conscience - Include the right to wear and carry kirpans by Sikhs"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Right to personal liberty - Include the right to carry on any trade or business"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to equality - Include the principle of natural justice"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac7bb0aa1233ca20b5f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Right to Education is a fundamental right emanating from right to:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Freedom of speech and expression under Article 19"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Culture and education under Articles 29 and 30"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Life and personal liberty under Article 21"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Equality before law and equal protection of the laws under Article 14"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac3ca481156bffcbc18",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List- I (Writs) </td> <td> List- II (Ground) </td> </tr> <tr> <td> 1. </td> <td> Habeas Corpus </td> <td> 1. </td> <td> Non-performance of public duties </td> </tr> <tr> <td> 2. </td> <td> Mandamus </td> <td> 2. </td> <td> Unlawful detention </td> </tr> <tr> <td> 3. </td> <td> Quo-Warranto </td> <td> 3. </td> <td> Correctional directions to subordinate courts </td> </tr> <tr> <td> 4. </td> <td> Certiorari </td> <td> 4. </td> <td> Unlawful occupation of public office </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-4 C-1 D-2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-2 B-1 C-4 D-2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-1 C-4 D-2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-2 B-4 C-1 D-3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac32c8f1436d3af2faa",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "As far as the Armed Forces are concerned, the Fundamental Rights granted under Articles 14 and 19 of Constitution are:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Not available at all"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Available to the Armed Forces but not to other forces"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Available only at the discretion of the Chief of the Army staff"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Available only according to law made by Parliament"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac42c8f1436d3af2fab",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following rights is not explicitly mentioned in the Fundamental Rights but has been upheld to be so by several pronouncements of the Supreme Court?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Equity before law"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Right to non-discrimination in public employment"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Right to form associations or unions"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to freedom of Press"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac5bb0aa1233ca20b59",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List- I (provisions) </td> <td> List- II (contained In) </td> </tr> <tr> <td> A. </td> <td> Liberty of thought and expression </td> <td> Right to freedom </td> </tr> <tr> <td> B. </td> <td> Freedom of speech and expression </td> <td> Cultural and educations rights </td> </tr> <tr> <td> C. </td> <td> Making special provision for women and children </td> <td> Preamble </td> </tr> <tr> <td> D. </td> <td> Protection of interest of minorities </td> <td> Protection of life and liberty </td> </tr> <tr> <td> </td> <td> Right to equality </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-1 C-5 D-2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-2 B-5 C-4 D-1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-5 C-4 D-2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-2 B-4 C-5 D-1"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac6bb0aa1233ca20b5d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): One of the fundamental principles of the Indian Constitution is the Rule of Law. </td> </tr> <tr> <td> Reason (R): The Constitution of India has guaranteed to every citizen the equality before law and has recognized the judiciary as the unfailing guardian of the rights of people. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac6b18bd6516a69dd75",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List- I (cases) </td> <td> List- II </td> </tr> <tr> <td> A. </td> <td> Indra sawhney case </td> <td> 1. </td> <td> Power of parliament to amend part III of the constitution upheld </td> </tr> <tr> <td> B. </td> <td> Minerva case </td> <td> 2. </td> <td> Procedure Established by law </td> </tr> <tr> <td> C. </td> <td> Gopalan case </td> <td> 3. </td> <td> Reservation for backward classes </td> </tr> <tr> <td> D. </td> <td> Shankari Prasad case </td> <td> 4. </td> <td> Revival of judicial review </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-3 B-1 C-2 D-4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-2 B-4 C-3 D-1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-4 C-2 D-1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-2 B-1 C-3 D-4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac6bb0aa1233ca20b5e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is the correct statement? Right to privacy as a Fundamental Right is implicit in:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The Right to Freedom"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Right to Personal Liberty"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Right to Equality"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The Right Against Exploitation"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac7b18bd6516a69dd79",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Right to Property was converted into a legal right from a Fundamental Right, because it:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Tied the hands of the government to prevent corruption"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Gave rise to litigations that made judiciary overburden"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Led to severe conflict between judiciary and the Parliament"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Increased public resentment"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac8b18bd6516a69dd7a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under Article 22 of the Constitution of India, with the exception of certain provisions stated therein, what is the maximum period for detention of a person under preventive detention?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2 months"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "3 months"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "4 months"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "6 months"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac8bb0aa1233ca20b62",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below: <table> <tr> <td> List- I (writ) </td> <td> List- II (purpose) </td> </tr> <tr> <td> A. </td> <td> Writ of mandamus </td> <td> 1. </td> <td> Prohibition of an action </td> </tr> <tr> <td> B. </td> <td> Writ of injunction </td> <td> 2. </td> <td> Direction to the official for the performance of a duty </td> </tr> <tr> <td> C. </td> <td> Writ of certiorari </td> <td> 3. </td> <td> Trial of the right to title or elective office </td> </tr> <tr> <td> D. </td> <td> Writ of quo- warrant </td> <td> 4. </td> <td> Transferring of a case from lower court to a court of higher jurisdiction </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A-2 B-1 C-4 D-3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A-1 B-2 C-3 D-4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A-3 B-4 C-2 D-1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A-4 B-3 C-1 D-2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac8bb0aa1233ca20b64",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In accordance with the text of the Constitution, a reasonable restriction in the interest of 'sover- eignty and integrity' of India can be imposed on the right to:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Freedom of speech and expression"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Move freely throughout the territory of India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Reside and settle in any part of the territory of India"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Carry on any occupation, trade or business"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac9bb0aa1233ca20b65",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is the best justification for the affirmative action policies in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The principle of non-discrimination"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The principle of equal opportunity"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The principle of group disadvantage"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The principle of radical redistribution"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac9b18bd6516a69dd7c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): The Indian Constitution recognizes the supremacy of judiciary. </td> </tr> <tr> <td> Reason (R): The question as to what constitutes a reasonable restriction on fundamental rights is to be determined by the courts of law. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac8bb0aa1233ca20b63",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of me following Fundamental Rights is guaranteed only to the citizens of India and not to the foreigners living in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Equably before law and equal protection of laws"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Freedom of speech and expression"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Right to life and liberty"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to the freedom of religion"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dac9b18bd6516a69dd7d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Reservation of seats in educational institutions in favour of Scheduled Castes and Scheduled Tribes is governed by:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 15 of the Constitution"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 16 of the Constitution"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 29 of the Constitution"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 14 of the Constitution"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dacab18bd6516a69dd80",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Through which provisions does the Constitution of India explicitly prohibits racial discrimination in India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Articles 14 and 17"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Articles 17 and 23"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Articles 15 and 16"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 17 only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dacabb0aa1233ca20b6a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following rights cannot be inferred from Article 21 of the Constitution?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Right against inhuman treatment"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Right against delayed execution"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Right against solitary confinement"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to form association"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dacbb18bd6516a69dd81",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following pairs is correctly matched?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Writ of habeas corpus - Available against private individuals as well"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Writ of Quo - warranto - Available against subordinate courts only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Writ of certiorari - Available against autonomous bodies only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Writ of prohibition - Available against public servants only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dacab18bd6516a69dd7f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): Speaking on Article 32 in the Constituent Assembly, Dr. Ambedkar described the Article as the very soul of the Constitution. </td> </tr> <tr> <td> Reason (R): Article 32 provides effective remedies against violation of fundamental rights. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93daccb18bd6516a69dd85",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Assertion (A): An accused person has been guaranteed the right to be informed of the nature and cause of accusation. </td> </tr> <tr> <td> Reason (R): The accused person can get his conviction quashed upon vague and obscure charges. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dacdbb0aa1233ca20b70",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following Article (s) of the Constitution of India is/are exceptions to the Funda- mental Rights enumerated in Article 14 or Article 19?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 31 A only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 31 C only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 31 A and Article 31 C both"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither Article 31 A nor Article 31 C"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93daceb18bd6516a69dd8a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following writs examines the procedures of inferior Courts or Tribunals?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Quo-warranto"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Mandamus"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Prohibition"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Certiorari"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dacfbb0aa1233ca20b76",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Untouchability has been abolished by the Constitution of India under:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 14"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 15"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 16"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 17"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad0b18bd6516a69dd8f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "According to the Constitution of India, which one of the following rights cannot be taken away during emergency?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Right to speak"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Right to freedom of movement"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Right to life"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to organize"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad0b18bd6516a69dd91",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Article 30 of the Indian Constitution deals with the:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Freedom of conscience"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Right to propagate religion"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Right of minorities to establish and manage educational institutions"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Cultural and educational rights of the majority community"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad1b18bd6516a69dd94",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Annie Besant sought some rights but she did not insist on the following individual rights in her Home Rule Movement (1916)?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Right to Property"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Right to Constitutional Remedies"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Equality before Law"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Inviolability of one?s privacy"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Right to Constitutional Remedied was not included in Annie Besant?s list of rights in her 1916 home-rule campaign."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad2bb0aa1233ca20b80",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A memorandum circulated by Mahatma Gandhi at the second round table conference sought that any future Act should include"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Freedom of Press"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Equality of Law"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Protection of Minorities and their Cultures"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to Life"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Gandhi ji sought protection of the interests and cultures of minorities."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad3ca481156bffcbc24",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The liberal school relating to rights discussed in the Constituent Assembly were led by"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "K. T. Shah"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Damodar Swaroop"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "V. P. Tripathi"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Thakurdas Bhargava"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Thakurdas Bhargava belonged to the liberal school propagating rights."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad32c8f1436d3af2fb6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements and choose the correct code: <table> <tr> <td> 1. The democratic left school of fundamental rights sought the provision of socioeconomic rights. </td> </tr> <tr> <td> 2. The liberal school of fundamental rights sought the provision of negative rights, though made non justifiable. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 is true but 2 is false,"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 is true but 1 is false."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are true."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are false."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Thirst statement is true but second is false."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad32c8f1436d3af2fb8",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Any law which is inconsistent with the fundamental rights"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Stands void"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Stands constitutional"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Stands void till the Parliament declares it so"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Stands void till the President declares it so"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Stands void (Article 13)"
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad3ca481156bffcbc27",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Parliaments constituent powers are"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Limited"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Abolute"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Unlimited"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Legislative"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "It is limited within the framework of basic structure."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad42c8f1436d3af2fba",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Untouchability has been abolished by the Constitution of India under"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Article 14"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Article 15"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Article 16"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Article 17"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Abolition of Untouchability relates to Article 17."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad4ca481156bffcbc29",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following pairs is not correctly matched?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Equality before Law: Guaranteed to both citizens and non-citizens"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Altering the name of a state: Power of a state legislature"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Creating a new state: Power of Parliament"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Equality of Opportunity: Guaranteed only to Indian Citizens"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Altering the name is initiated by the concerned state legislature."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad42c8f1436d3af2fbb",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements and choose the correct code: <table> <tr> <td> 1. Equality before laws means that there should be equality of treatment under equal circumstances. </td> </tr> <tr> <td> 2. Right to equality means that equal should be equals, and unequals be unequals. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 is true but 2 is false,"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 is true but 1 is false."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are true."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are false."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Both the statements are true."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad5ca481156bffcbc2b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following does not constitute part of our fundamental rights? Choose the correct code. <table> <tr> <td> 1. Right to life, liberty and security of person </td> </tr> <tr> <td> 2. Everyone has the right to own property. </td> </tr> <tr> <td> 3. Equal pay for equal work </td> </tr> <tr> <td> 4. Free education at the elementary stage </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Equal pay for equal work and free education at the elementary stage are part of the Directive Principles of State Policy."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad52c8f1436d3af2fbe",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements with regard to the doctrine of severability and choose the correct code. <table> <tr> <td> 1. It relates to the whole statute and not merely to the offending provisions of the Act. </td> </tr> <tr> <td> 2. It relates to offending provision of the statute and not to the whole of it. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1 is true."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2 is true."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are true."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are false."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Doctrine of severability is related to the offending provisions of the statute and not to the whole if it."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad6ca481156bffcbc2f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements with regard to the Indecent Representation of Women (Prohibition) Act, 1986 and choose the correct code. <table> <tr> <td> 1. The Act extends to the whole country. </td> </tr> <tr> <td> 2. Indecent representation means, in addition to others, being derogatory to women. </td> </tr> </table> Codes:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 is true but 2 is false,"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 is true but 1 is false."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are true."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are false."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Indecent Representation of Women (Prohibition) Act, 1986 indicates at something which is derogatory to women."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad72c8f1436d3af2fc3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider these statements with regard to Fundamental Rights incorporated in Part III of the Constitution. Choose the correct code. <table> <tr> <td> 1. Fundamental Rights constitute part of the basic structure. </td> </tr> <tr> <td> 2. What constitutes the basic structure is something which cannot be amended by the Parliament. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 is true but 2 is false,"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 is true but 1 is false."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are false."
+        },
+        "v": 2
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Both the statements are true. 1 and 2 both are true."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad8ca481156bffcbc34",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider these statements with regard to the National Commission on Backward Classes (NCBC) and choose the correct code. <table> <tr> <td> 1. The President appoints the chairman of NCBC. </td> </tr> <tr> <td> 2. The NCBC gives its report to the Central Government. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 both are true."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 is true but 2 is false."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 both are false,"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 is true but 1 is false."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Both the statements are true."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dad9ca481156bffcbc37",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following comes within the category of the rarest of the rare crimes?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Killing"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Stealing"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Honour killing"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Suicide"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Honour killing cames within the rarest of the rare crime."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dadaca481156bffcbc38",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under Article 25(1), which of the following is not a reason for which restriction can be imposed on religion?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Public order"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Morality"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Health"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "All of the above"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "All of the above constitute reasons for restrictions on religion under article 25(1)."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dada2c8f1436d3af2fca",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Freedom to manage religious affairs includes <table> <tr> <td> 1. To establish religions institutions </td> </tr> <tr> <td> 2. To manage their affairs </td> </tr> <tr> <td> 3. To own and acquire their property </td> </tr> <tr> <td> 4. To administer such property in accordance with law </td> </tr> </table> Choose the code with the correct options."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2, 2003"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "All the option came under managing the religions affairs."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dadbca481156bffcbc3b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The constitution of India is divided into certain parts. Which of the following forms part of the Fundamental Duties?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "IVA"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "IX A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "XIV A"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "None of the above"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Article IV A forms part of the fundamental duties."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dadc2c8f1436d3af2fd0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements with regard to secularism. Choose the correct one with the codes given. <table> <tr> <td> 1. Secularism promotes religions doctrines. </td> </tr> <tr> <td> 2. It separates religion and politics. </td> </tr> <tr> <td> 3. It denies state support to religious organizations. </td> </tr> <tr> <td> 4. It opposes religious ideas and ideology. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Only Option 2 is true."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dadd2c8f1436d3af2fd2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements and choose the correct code: <table> <tr> <td> 1. No religions instructions is to be given in an educational institution wholly maintained by the State. </td> </tr> <tr> <td> 2. Comparative study of all religions does not amount to going against Article 28. </td> </tr> </table>"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 is true but 2 is false,"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 is true but 1 is false."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are true."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 2 both are false."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Both the statements are true."
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93dae82c8f1436d3af2ff2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The finance commission is constituted to recommend criteria for"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Framing a finance bill"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "preparing the annual budget of union government"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Distribution of financial resources between union and the states"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Auditing the receipts and expenditures of the union government"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f309f2109b7c7646f6d2",
+    "__v": 0,
+    "disabled": false
+  }
+]

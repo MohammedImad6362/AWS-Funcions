@@ -1,0 +1,6538 @@
+[
+  {
+    "_id": "5e355f3cfeec59769d02a341",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following States has granted Sanskrit language the status of the second official language of the state?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Bihar"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Chhattisgarh"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Uttar Pradesh"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Uttarakhand"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Uttarakhand has given to Sanskrit as the status of second official language of the state in January 2010,"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560abd1f9a076a3827d29",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who has the power of annulment or suspension of Acts and Resolutions of the Autonomous District and Regional Councils?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The Governor"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The President"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Chief Minister of the State"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The Prime Minister"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Article 370 of the Indian constitution is an article that gives autonomous status to the state of Jammu and Kashmir. The article is drafted in Part XXI of the Constitution:<br> Temporary, Transitional and Special Provisions."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604ffeec59769d02a34f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Democracy’s superior virtue lies in the fact that it calls into activity"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "the intelligence and character of ordinary men and women."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "the methods for strengthening executive leadership."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "a superior individual with dynamism and vision."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "a band of dedicated party workers."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "NEW NCERT Class 8 Civics, Chapter 3, page 32 The take-off point for a democracy is the idea of consent, i.e. the desire, approval and participation of people. It is the decision of people that creates a democratic government and decides about its functioning. So, since democracy requires voters’ decision making- hence intelligence and character are called in. hence answer “A*’"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356050751c3e76d30369ea",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which year did the State Jharkhand come into existence?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1998"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1999"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2000"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2001"
+        },
+        "v": 3
+      },
+      {
+        "d": {
+          "text": "None of the above/More than one of the above"
+        },
+        "v": 4
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The 28th state of the Indian Union was brought into existence by the Bihar reorganization Act on November 15, 2000, The birth anniversary of the legendary Bhagwan Birsa Munda. Jharkhand is famous for its rich mineral resources like Uranium, Mica, Bauxite, Granite, Gold, Silver, Graphite, Magnetite, Dolomite, Fireclay, Quartz, Fieldspar. Coal (32% of India), Iron, Copper (25%of India) etc. Forests and woodlands occupy more than 29?/« of the state which is amongst the highest in India."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb6d1f9a076a3827d10",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one among the following statements is correct? The press in democracy must -"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "be free and impartial"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "be committed to the policies of the government"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "highlight the achievement of the government without criticizing its policies"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Criticize the policies of the government"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The press in democracy must be free and impartial."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca9b6f73c4838ca3530",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below:<br> List-I List-II (Forms of Government) (Essential Features) A. Cabinet 1. Separation of powers Government B. Presidential 2. Collective responsibility Government C. Federal Government 3. Concentration of powers D. Unitary Government 4. Division of powers <br>5. Administrative law"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "3 4 2 5"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 1 4 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3 5 1 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "4 1 2 5"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560ab751c3e76d30369f1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following regarding the procedure and conduct of business in the Parliament is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "To discuss State matters"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "To discuss issues of the use of police force in suppressing the Scheduled Caste and Scheduled Tribe communities"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "To discuss issues in dealing with violent disturbances in an Undertaking under the control of the Union Government"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "To discuss issues for putting down the demands of the industrial labour"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The reports of the Comptroller and Auditor-General of India relating to the accounts of the Union shall be submitted to the president, who shall cause them to be laid before each House of Parliament."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e3751c3e76d30369fa",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following is not a feature of a democratic form of government?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Majority rule"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Rights of minorities"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Universal adult franchise"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Majoritarianism"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Majoritarianism is not a feature of a democratic form of government. It is a traditional political philosophy or agenda which asserts that a majority of the population is entitled to a certain degree of primacy in society, and has the right to make decisions that affect the society."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e3feec59769d02a35f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following institutions have reserved seats for women?  <br>A. Lok Sabha <br>B. Rajya Sabha <br>C. Legislative Assemblies <br>D. Municipalities <br>E. Panchayats"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A, C, D, E"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "B, C, D, E"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "D and E"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "E only"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "73rd Amendment Act of 1992 provides for the reservation of not less than one third of the total number of seats for women (including the number of seats reserved for women belonging to SCs and STs) in panchayat. 74th Amendment Act of 1992 provides for the reservation of not less than one third of the total number of seats for women (including the number of seats reserved for women belonging to SCs and STs) in municipality. Women's Reservation Bill (108th Amendment) Bill is a pending bill in India which proposes to amend the Constitution of lndia to reserve 33 per cent of all aeats in the Lower house of Parliament of lndia, the Lok Sabha. and in all state legislative assemblies for women."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e3feec59769d02a35e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following international institutions has a more democratic way of decision -making on matters of global importance ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "General Assembly of the united Nations"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "International Monetary fund"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Security Council of the United Nations"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "World Bank"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The General Assembly of the United Nations has a more democratic way of decision-making on the matters of global importance."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cabb6f73c4838ca3533",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Despite being a Republican State, India is a member of the Commonwealth of Nations whose head is the British Monareh. This is because"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "this membership docs not affect the sovereign nature of the Indian Republic"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "this membership only shows that the British ruled over lndia"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "members of the association are sovereign and independent"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "it is a symbol of the unity among the members of the association"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Commonwealth of Nations is an intergovernmental organisation of 53 member states that were mostly territories of the former British Empire. The membership only shows that the British ruled over India."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355caa0acffc48639cd807",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not a component of the Realist Theory?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The State is the preeminent actor"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "State sovereignty is important for the affirmation of juridical authority over territory"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The primary objective of all States is survival"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Survival can be assured in cooperation with international organizations"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Realists believe in self assistance. They think that no other country may be trusted for the survival."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cacb6f73c4838ca3535",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Parliament Democracy is one where  <br>1. a balance of popular participation and elite rule takes place <br>2. the government is responsible not to the public but to the elected representatives. <br>3. the parliamentarians are delegated the responsibility of thinking and acting on behalf of their constituents. <br>Select the correct answer using the code given below: 1, 2 and 3"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2 and 3 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 only"
+        },
+        "v": 2
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Popular participation is unmediated; the people are the government, there is no separate elite or ruling-class between the government and their people. This is an indirect and limited form of democracy where the people choose who shall make decisions on their behalf. In the responsible democracy, the government is responsible first to the parliament’s lower house, which is more numerous, directly elected and thus more representative than the upper house. The people vote for their representative who speaks on behalf of their constituents."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cadb6f73c4838ca3537",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is the correct sequence of persons who occupied the office of the President of India right from beginning?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "C. Rajagopalachari, Rajendra Prasad. Zakir Hussian. V. V. giri"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Rajendra Prasad, S. Radhakrishna. V. V. giri, Zakir Hussian"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "C. Rajagopalachari. Rajendra Prasad, S. Radhakrishna, Fakhruddin Ali Ahmad"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Rajendra Prasad, S. Radhakrishna, Zakir Hussian,  V. V. Giri"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560aafeec59769d02a354",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following is the first State in lndia formed on the basis of languages?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Kerala"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Madhya Pradesh"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Andhra Pradesh"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Uttar Pradesh"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The congress in its Jaipur session appointed a three member committee also popularly known as JVP committee after the name of its leaders - Jawaharlal Nehru, Vallabh Bhai Patel and Pattabhai Sitaramaya.The committee rejected language as the basis of reorganization of states.. Potti Sreeramulu. one of the activists demanding the formation of a Telugu-majority state, died on 16 December 1952 after undertaking a fast-unto-death. This resulted in the creation of the first state on linguistic basis for Telugu speaking people called Andhra State on October 1, 1953, lt was later renamed Andhra Pradesh."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560aafeec59769d02a355",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "After how many days of absence from Parliament without permission can a M.P. be disqualified ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "90 days"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "120 days"
+        },
+        "v": 1
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Constitution provides for disqualification of a Member of Parliament"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3d751c3e76d30369db",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one the following statements is not correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The Constitutional Amendment Bill has to be passed by both houses of Parliament separately with special majority"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Constitutional cases in Supreme Court is heard by mini mum Ii vc j udges"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Freedom of press is included in the fundamental right - Freedom of speech and expression."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Zakir Hussain w as the first Vice President of lndia"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Dr. Zakir Hussain served as second Vice President of India. Dr. Sarvepalli Radhakrishnan was the first Vice President of India."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560a9751c3e76d30369ee",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "How many types of justice, liberty, equality and fraternity in that order has been mentioned in the preamble of constitution of lndia?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "3, 5, 2, 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 3, 5, 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 5, 3, 1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "5, 2, 1, 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The term ‘justice' in the Preamble embraces three distinct forms—social, economic and political, secured through various provisions of Fundamental Rights and Directive Principles. The Preamble secures to all citizens of lndia liberty of thought, expression, belief, faith and worship, through their Fundamental Rights, enforceable in court of law; in case of violation. The term ‘equality’ means the absence of special privileges to any section of the society, and the pro-vision of adequate opportunities for all individuals without any discrimination. Fraternity means a sense of brotherhood. The constitution promotes this felling of fraternity by the system of single citizenship."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560acd1f9a076a3827d2a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The lnter-State Council wras set up in 1990 on the recommendation of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Punchhi Commission"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Sarkaria Commission"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Rajamannar Commission"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Mungerilal Commission"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Inter-State Council is a non-permanent constitutional body set up by a presidential order on the basis of provisions in Article 263 of the Constitution of India. The body was formed by a Presidential Order dated 28 May 1990 on recommendation of Sarkaria Commission. Sarkaria Commission was set up in 1983 by the central government of India."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e0d1f9a076a3827d2d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following statements are correct? <br>1. There are seven Union Territories in lndia. <br>2. Two Union Territories have Legislative Assemblies <br>3. One Union Territory has a High Court. <br>4. One Union Territory is the capital of two States. <br>Select the correct answer from the codes given below : 1 and 3 only"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 4 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4 only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "All statements are correct."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca8ad78fd4832b54844",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Indian parliamentary system is different from the British Parliamentary system in that India has?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both a real and a nominal executive"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A system of collective responsibility"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Bicameral legislature"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The system of judicial review"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The law that the British Parliament enacts, cannot be brought to the Judiciary for its review unlike the Indian Parliament, wherein the legislation that it passes, undergoes a judicial review. Any such legislation, as passed in the Indian Parliament can also be struck down in case the courts declare it to be violating the basic structure of the Indian Constitution."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604dd1f9a076a3827d1d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not the technique of the balance of power?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Amassing of weapons"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Seizing of territory"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Methods of persuasion"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Creating of buffer states"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Methods of persuasion is not the technique of the balance of power."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356050feec59769d02a351",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which one of the following years was Sarkaria Commission, which was empowered to recommend changes in Centre-State relations, submitted its report?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1983"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1984"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1985"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1987"
+        },
+        "v": 3
+      },
+      {
+        "d": {
+          "text": "None of the above/More than one of the above"
+        },
+        "v": 4
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "In view of the growing pressure for the greater autonomy, in June 1983 the Union Government appointed a commission under the chairmanship of Justice R.S. Sarkaria to review the question of centre state relations. The commission submitted its report to the then Prime Minister Rajiv Gandhi on 27 October 1987,"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604e751c3e76d30369e7",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match the List-I with List-II and select the correct answer from the codes given below - List-I List-II (A) Uniting for Peace 1. 1990 Resolution (B) The Suez Crisis 2. 2002 (C) UN Security Council 3. 1956 Resolution on Iraq weapons (D) UN Mission in Kosovo 4. 1950"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "3 2 1 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 1 3 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "4 3 2 1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 2 4 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "List-I List-II (A) Uniting for Peace (4) 1950 Resolution (B) The Suez Crisis (3) 1956 (C) UN Security Council (2) 2002 Resolution on Iraq Weapons (D) UN Mission in Kosovo (1) 1990"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560ad751c3e76d30369f3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Education as a subject of legislation figures in the"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Union List"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "State List"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Concurrent List"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Residuary Powders"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Education is a subject which touches every person, every family and every institution in this country. Because it is such a sensitive subject, any reform of the education process must be handled with great sensitivity and care. Education came into the Concurrent List way back in 1976,"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca8b6f73c4838ca352e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one among the following statements is correct ? The press in democracy must"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "be free and impartial"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "be committed to the policies of the government"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "highlight the achievement of the government without criticizing its policies"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "criticize the policies of the government"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "A press in democracy must be free and impartial."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355caa0acffc48639cd806",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The ‘Due Process of Law’ is the characteristics of the judicial system of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "India"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "France"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "U.K."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "U.S.A"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The Fifth and Fourteenth Amendments to the United States Constitution each contains a Due Process Clause. Due process deals with the administration of justice and thus the Due Process Clause acts as a safeguard from arbitrary denial of life, liberty, or property by the Government outside the sanction of law."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cae0acffc48639cd80d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The following States were created after 1960. Arrange them in ascending chronological order of their formation and choose your answer from the given code.  <br>1. Haryana 2. Sikkim <br>3. Nagaland 4. Meghalaya"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2, 3, 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3, 4, 1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3, 1, 4, 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2, 4, 1, 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The ascending chronological order will be as following :<br> A. Nagaland - 1961 B. Haryana - 1966 C. Meghalaya - 1972 D. Sikkim - 1975"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e3d1f9a076a3827d32",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Principle of‘checks and balances’ is related to"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Rule of law"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Fundamental law"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Fundamental Duties"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Separation of Pow ers"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "“Checks and balances” is a concept set up in the United States Constitution whereby the various powers of any government are divided into 3 separate branches with no one branch having all powers. This is so that no one of the 3 branches of government (executive, legislative, judicial) becomes so powerful that it becomes a virtual monarehy. It also ensures that all three will work together in relative harmony since each needs the others to perform its obligations properly."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e4feec59769d02a360",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "We need rights in a Democracy because <br>I. Rights protect minorities from the apprcssion of majority.  <br>II. Right ensure individual liberty. <br>III. Right guarantee limitation on an individual’s right to equality. <br>IV. Rights are placed higher than the government to check the government’s misuse of power."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only III"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only IV"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "III, III and IV"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "I, II and IV"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Rights are needed in a democracy as they protect minorities from the apprcssion of majority. Right do not guarantee limit on an individual’s right to equality."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e1feec59769d02a35c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which option is not correct ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Most of the educational institutions of National repute in scientific and technical sphere fall under 64th entry of Union list."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Education, in general, is the subject of concurrent list since 42nd Constitutional Amendment Act 1976,"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Central Advisor- Board on Education (CABE) was first established in 1920,"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "India had implemented the right to Free and Compulsory Primary Education in 2002 through 86th Constitutional Amendment."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Through the 42nd Amendment Act of 1976 Five subjects were transferred from State to Concurrent List. They are Education; Forests; Weights & Measures; Protection of Wild Animals and Birds; Administration of Justice."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e2feec59769d02a35d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Foundation training to the newly recruited IAS (Probationers) is imparted by:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Indian Institute of Public Administration"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Administrative Staff College of India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "L.B.S. National Academy of Administration"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Centre for Advanced Studies"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "L.B.S. National Academy of Administration’s main purpose is to train civil service officers of Indian Administrative Service, lndian Police Service, Indian Forest Service; and also for Group-A Central Services such as lndian Foreign Service among others."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e5751c3e76d30369fe",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A ‘republic’ is a state in which the Head of the State is"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "nominated by the Prime Minister."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "elected, directly or indirectly, by the people."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "selected by the ruling party."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "self-appointed."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "A ‘republic’ is a state in which the head of the State is directly or indirectly or appointed by the people. Currently, 135 of the world's 206 sovereign states use the world republic as the part of their official names."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e1751c3e76d30369f7",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Right to Information Act, 2005 makes the provision of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Dissemination of all types of information by all Public authorities to any person."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Establishment of Central, State and District Level Information Commissions as an appellate body."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Transparency and accountability in Public authorities."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "All of the above"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Right to Information Act 2005 mandates timely response to citizen requests for government information. The act empowers every citizen to seek any information from the Government, inspect any Government documents and seek certified photocopies thereof."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e1feec59769d02a35b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not a Constitutional Body ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Election Commission"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Finance Commission"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Union Public Service Commission"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Planning Commission"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The Planning Commission is a non-constitutional and non-statutory body and is responsible to formulate five years plan for social and economic development in India."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8bca481156bffcbb89",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Which of the following are the principles of the Panchsheel? </td> </tr> <tr> <td> 1. Peaceful co-existence </td> </tr> <tr> <td> 2. Mutual protection of the environment </td> </tr> <tr> <td> 3. Mutual protection of indigenous population </td> </tr> <tr> <td> 4. Mutual non-aggression </td> </tr> </table> Select the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8c2c8f1436d3af2f16",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. India's \"Look East\" policy lays emphasis on improving cooperation with India's neighbouring south-east and east Asian countries. </td> </tr> <tr> <td> 2. The \"Look East\" policy of India was initiated by the Prime Minister Atal Bihari Vajpayee. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356050d1f9a076a3827d22",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements:<br>1. The Nuclear Security Summits are periodically held under the aegis of the United Nations. <br>2. The International Panel on Fissile Materials is an organ of International Atomic Energy Agency. <br>Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "President Obama had initiated NSS in 2010, so, first statement is w rong.  The International Panel on Fissile Materials (IPFM), an independent group of arms-control and non-proliferation experts from 17 countries, has been keeping track of HEU and plutonium around the world. So second statement also wrong."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3dd1f9a076a3827d0c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who of the following Presidents of India was associated with Trade Union Movement?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "V. V. Giri"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "N. Sanjiva Reddy"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "K. R. Narayanan"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Zakir Hussain"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "V.V. Giri served as President of India during 1969 to 1974, He was actively associated with trade union movement. He was President of All-India Trade Union Congress (AITUC) twice. He was also associated with All India Railway Workers Federation."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560ac751c3e76d30369f2",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not correct about Administrative Tribunals?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The Parliament may by law constitute Administrative Tribunals both at the Union and State levels."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Tribunals may look into disputes and complaints with respect to recruitment and conditions of service of persons appointed to public services."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Tribunals established by a law' of the Parliament can exclude the jurisdiction of all Courts to allow' for special leave to appeal."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The law establishing the Tribunals may provide for procedures including rules of evidence to be followed."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Tribunals established by a law' of the Parliament can exclude the jurisdiction of all Courts, except that of a Supreme Court to allow for special leave to appeal"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cac0acffc48639cd809",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "What is/are the major difference/differences between a written and an unwritten Constitution?  <br>1. A written Constitution is the formal source of all Constitutional Laws in the country and the unwritten Constitution is not the formal source. <br>2. A written Constitution is entirely codified whereas an unwritten Constitution is not. <br>Select the correct answer using the codes given below"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "A written constitution is one which is found in one or more than one legal documents duly enacted in the form of laws. It is precise, definite and systematic and codified. An unwritten constitution is one in which most of the principles of the government have never been enacted in the form of laws, it consists of customs, conventions, traditions and some written laws bearing different dates. It is not codified. It is unsystematic, indefinite and imprecise. So. Written constitution is the formal source of all constitutional laws and Unwritten Constitution is not the formal source."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560aad1f9a076a3827d27",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The recommendations of Sarkaria Commission relate to which of the following?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Distribution of revenue"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Power and functions of the President"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Membership of Parliament"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Centre-State relations"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Sarkaria Commission was set up in June 1983 by the central government of India. The Sarkaria Commission's charter was to examine the relationship and balance of power between state and central governments in the country and suggest changes within the framework of Constitution of lndia."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cacad78fd4832b5484a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements about democracy <br>1. It consists with the formation of government elected by the people. <br>2. In democracy, those currently in power have a fair chance of losing. <br>3. Each vote has one value. <br>Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Democracy is a form of government that allows people to choose their rulers. In a democracy only leaders elected by the people can rule the country. A democracy must be based on a free and fair election where those currently in power have a fair chance of losing. Each adult citizen must have one vote and each vote must have one value."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604dfeec59769d02a34b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "E - governance is -  <br>1. cost-efficient <br>2. transparent <br>3. time-saving <br>4. responsive <br>Select the correct answer from the codes given below -Codes: 1 and 3"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Electronic - governance is the application of information and communication technology for delivering government sen ices, exchange of information, communication transactions etc. It is cost efficient, transparent, time - saving and responsive."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3dfeec59769d02a342",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The largest Union Territory of India is"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Daman and Diu"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Puducherry"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Delhi"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Chandigarh"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The top three largest union territories are Andaman & Nicobar Islands. Delhi and Puducherry."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560a9d1f9a076a3827d26",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Government policy Make in India' aims at"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "removal of bureaucratic sloth"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "elimination of red tapism"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "reduction in cost of manufacturing"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "None of these"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Prime Minister Narendra Modi launched the Make in India initiative on September 25, 2014, with the primary goal of making lndia a global manufacturing hub, by encouraging both multinational as well as domestic companies to manufacture their products within the country."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e6feec59769d02a363",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "lndia is a federal state because its Constitution provides for"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "dual citizenship."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "division of powers betw een the Union and the States."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "a written constitution."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "election of members of Parliament by the people."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "India has borrowed the concept of fcdrcalism from Canada. In this system there is clear division of powers between the union and states."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604ed1f9a076a3827d1f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Under Bush Doctrine, the USA held states responsible for activities inside their territor and thus acquired the right to"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "act unilaterally against rogue and failed states"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "act against states which were opposed to it ideologically"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "move against states which refused to join in drive for NATO expansion"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "intervene instituations of ethnic cleansing"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The Bush Doctrine was laid down by the US President George W, Bush in 2001. It refers to foreign policy principles of the President of the united states. George W. Bush. Charles Krathammer first used the phrase in June 2001. Generally, the Bush Doctrine was used to indicate a willingness to unilaterally Pursue U. S. military interests. Some of these policies were incorporated in a National Security Council proposals the National Security1 strategy of the United states, published on September 20, 2002."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560abd1f9a076a3827d28",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Directive Principles of State Policy may be classified in to which of the council following parts for the sake of convenient study?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Socialist"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Liberal intellectualistic"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Gandhian"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "All of the above"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The directive principles ensure that the State shall strive to promote the welfare of the people by securing a social order in which social, economic and political justice is animated;informed in all institutions of life per Article 38 (1). Dr. Ambedkar clarified in the Constituent Assembly debates on Article 38 high lighting its inevitable implementation."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604ed1f9a076a3827d1e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following Republic/Republics was/were supported by Russia in Georgia war of 2008 ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "South Ossettia"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "South Ossettia and Abkhazia both"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Abkhazia"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Nogorno Karabakh"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "South Ossettia and Abkhazia republics were supported by Russia in Georgia war of 2008,"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cabad78fd4832b54848",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Formal or procedural democracy does not by any means guarantee '"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "political and civil rights"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "constitutionalism"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "the rule of law"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "absence of caste discrimination"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Procedural democracy is a democracy in which the people or citizens of the state have less influence than in traditional liberal democracies. This type of democracy is characterized by voters choosing to elect representatives in free elections. Procedural democracy is quite different from substantive democracy, which is manifested by equal participation of all groups in society in the political process.Namibia, Angola, and Mozambique are examples of examples of procedural democracies."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cadb6f73c4838ca3536",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following is/are true relating to Nelson Mandela?  <br>1. He w as the first President of South Africa. <br>2. Mandela spent IS years in prison on Robben Island. <br>3. Mandela became the President in 1990 after his release from the prison. <br>Select the correct answer using the code given below"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 3 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Nelson Mandela was the first black president of South Africa (1994-99). Mandela spent 18 years(From 1964 to 1982) in prison on Robben island."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356017d1f9a076a3827d1a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following are the tools of good governance? <br>1. Social Audit <br>2. Separation of Powers <br>3. Citizen's Charter <br>4. Right to Information <br>Select the correct answer from the codes given below: 1, 3 and 4"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1,3and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2, 3 and 4"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The tools of good governance are social Audit, Separation of Power, Citizen's Charter, Right to Information."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca9b6f73c4838ca352f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List I with List II and select the correct answer using the codes given below :<br> List-I List-11 (Types of Government) (Characteristics) A. Parliamentary 1. Centralisation of powers Government B. Presidential 2. Division of powers Government C. Federal System 3. Separation of pow ers D. Unitary System 4. Collective responsibility"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2 1 4 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "4 3 2 1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 3 4 1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "4 1 2 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560aa751c3e76d30369ef",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Parliamentary form ofGovernment w as first introduces in which country ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Great Britain (UK)"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Belgium"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Erance"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Switzerland"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "France was the first country to introduce the parliamentary form of government."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cab0acffc48639cd808",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Why is political power sharing through different levels of government desirable in a democracy?  <br>1. It helps to reduce the possibility of conflict between various social groups. <br>2. It decreases the possibility of arbitrary decisionmaking. <br>3. It prompts people’s participation at different levels of government. <br>Select the correct answer using the codes given below"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Power sharing helps in reducing the conflict between various social groups. Hence, power sharing is necessary for maintaining social harmony and peace.Power sharing helps in avoiding the tyranny of majority. The tyranny of majority not only destroys the minority social groups but also the majority social group. It decreases the possibility of arbitrary decision making. People's voice forms the basis of a democratic government (people's participation at different levels of government)."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560acfeec59769d02a357",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following criteria is not required to be qualified for appointment as Judge of the Supreme Court?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "At least five years as a Judge of a High Court"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "At least ten years as an Advocate of a High Court"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "In the opinion of the President, a distinguished Jurist"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "At least twenty years as a SubJudicial Magistrate"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Eligibility of a judge of the Supreme Court a judge of one high court or more (continuously), for at least five years, or. - an advocate there, for at least ten years, or. a distinguished jurist, in the opinion of the president, power conferred by clause (2) of article 124 of the Constitution of India."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560ab751c3e76d30369f0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Who was the Chief Justice of India when Public Interest litigation was introduced in the Indian Judicial system?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "M. Hidayatuiliah"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A.M. Ahmedi"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "P.N. Bhagwati"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A.S. Anand"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "P.N. Bhagwati was the Chief Justice of India when Public Interest Litigation ufas introduced in the Indian Judicial system."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e3751c3e76d30369f9",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following statements about the Indian judiciary is true?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "India has an integrated judiciary"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Judiciary in India is subordinate to the Executive"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Supreme Court is more powerful than Parliament"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Fhe Chief Justice of India appointed by the Prime Minister"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "India has an integrated judiciary is true. At the summit or top of country’s judicial system the supreme court look after the law’s of land, comprises Chief Justice and other 25 judges. <br>• There are high courts at the state level which have juridiction over a state. <br>• There are District courts which are established by state governments. <br>• There are subordinate Courts in districts which are civil and criminal in nature. <br>• Gram Nayayalyas have also been established at panchayat levels from 2008. In India, Supreme Court is the highest court of appeal which hear cases that comes as an appeal from high courts. Supreme Court decisions are binding on all other courts of the country."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e5feec59769d02a362",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which among the following cannot be challenged in a court of law?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Directive Principles of state policy"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Fundamental Rights"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Free to choose any profession or business"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Right to move freely to any part of the country"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The Directive principles of state policy are the directions given to the state these cannot be challenged in the court."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e4feec59769d02a361",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements-  <br>(a) Democracy promotes equality and freedom of expression. <br>(b) In non-democratic countries people cannot freely choose their leaders. <br>(c) The relationship between different countries has become more democratic than ever before <br>(d) Now' a days there is not any military government in the world. <br>Which of the above statements are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "(a), (b) and (c)"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "(a) and (b)"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "(c) and (d)"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "(b), (c) and (d)"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Democracy is a form of government in which the administration of the country is run by the representatives who are elected by the people."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e4d1f9a076a3827d33",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In what ways docs the Lok Sabha exercise Supreme Power over Rajya Sabha select the correct option.  <br>I. Lok Sabha controls the President of lndia. <br>II. During the joint session the final decision is taken by Lok Sabha because of its larger number of members. <br>III. Lok Sabha exercise more powers on money matters. <br>IV. It guides the functioning of Rajya Sabha."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "I and IV"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "I and III"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "II and III"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "I, II, III and IV"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8b2c8f1436d3af2f12",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following does not come under the concept of Non-alignment?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Foreign aid from all available sources"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Non-involvement in military alliances formulated in the context of Cold War"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Faith in isolationism"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A demand for a better deal from the North Countries or South Countries"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8cca481156bffcbb8e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following Commonwealth Summit was hosted by India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "15th Summit"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "18th Summit"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "24th Summit"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "27th Summit"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca80acffc48639cd803",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The cabinet in the Parliamentary system is accountable to"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The President"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Prime Minister"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The Council of Ministers"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The Legislature"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Cabinet in Parliamentary system is accountable to legislature' Presidential system is accountable to executive."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355caaad78fd4832b54847",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The ‘Panchsheel Agreement' for peaceful coexistence was signed between"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "India and Bhutan"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "India and Nepal"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "India and China"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "India and Pakistan"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Panchsheel Agreement was signed between India and China (29 April 1954) on the following principles - <br>I. Mutual respect for each other’s territorial integrity and sovereignty. <br>II. Mutual non-aggression <br>III. Mutual non-interference in each other's internal affairs. <br>IV. Equality and mutual benefit and <br>V. Peaceful cocxistancc."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604e751c3e76d30369e6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "As per United Nations Convention on the Law of sea (UNCLOS) states are entitled for Jurisdiction over sea water as under -"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "three miles from sea shore as territorial waters"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "twelve miles from the shore for shipping"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "two hundred miles as Exclusive Economic Zone (EEZ)"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "all the three jurisdictions"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "As per United Nations Convention on the Law' of Sea (UNCLOS) States are entitled for Jurisdiction over Sea w ater under - <br>(i) three miles from sea shore as territorial waters <br>(ii) twelve miles from the shore for shipping <br>(iii) two hundred miles as Exclusive Economic Zone (EEZ)"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb5d1f9a076a3827d0f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "‘Balance of Power’ is an important principle of: Liberal thought in international politics"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Liberal thoughts in international politics"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Marxist thought in international politics"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Traditional thought in international politics"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Realist thought in international politics"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "‘Balance of Power’ is an important principle of Realist thought in international politics which suggests that national security is enhanced when military capability is distributed so that no one state is strong enough to dominate all others."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604fd1f9a076a3827d20",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Referendum has an integral relationship with-"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Indirect Democracy"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Limited Monarehy"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Direct Democracy"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "People’s Courts"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Referendum is a general vote by the electorate on a single political question which has been referred to them for a direct decision. It has an integral relationship with Direct Democracy."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca7b6f73c4838ca352d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Government is classified as parliamentary and presidential on the basis of which of the following?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Relations between legislature and executive"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Relations between politician and civil servants"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Written or unwritten Constitutions"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Rigid or Flexible Constitutions"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Government is classified as parliamentary and presidential on the basis of relations between legislature and executive."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560acd1f9a076a3827d2b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following are the fundamental duties ?  <br>(A) To respect the National Flag. <br>(B) To protect and improve the natural environment. <br>(C) For a parent to provide opportunities for education to his/her child. <br>(D) To protect monuments and places of national importance. <br>Select the correct answer from the codes given :"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "(A), (B) and (C)"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "(A), (B) and (D)"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "(A), (C) and (D)"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "(A), (B), (C) and (D)"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The Fundamental Duties of citizens were added to the Constitution by the 42nd Amendment in 1976, upon the recommendations of the Swaran Singh Committee which was constituted by the government."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb6d1f9a076a3827d11",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "There are different arguments given in favour of power sharing in a democratic political system. Which one of the following is not one of them?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "It reduces conflict among different communities"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Major community docs not impose its will on others"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Since all are affected by the policies of the government, they should be consulted in the governance of the county"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "It speeds up the decision making process and improves the chances of unity of the country"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Power sharing in a Democratic political System does not speeds up the decision making process and improves the chances of unity of the country."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb6751c3e76d30369e1",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Vote on Account is meant for -"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Vote on the report of CAG"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "To meet unforeseen expenditure"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Appropriating funds pending due to passing of budget"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Budget"
+        },
+        "v": 3
+      },
+      {
+        "d": {
+          "text": "None of the above/ More than one of the above"
+        },
+        "v": 4
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The Vote on Account is the Special Provision given to the government to obtain the vote of Parliament to withdraw Money when the budget for the new financial year is not released or the elections are underway."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604f751c3e76d30369e8",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Public Interest Litigation has its origin in -"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "England"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "France"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "USSR"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "USA"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Public Interest Litigation (P1L) means litigation for the protection of the Public Interest. It is litigation introduced in a court of law, not by the aggrieved party but by the court itself or by any other private party. It has its origin in USA."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3dd1f9a076a3827d0d",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "‘Pivot to Asia' is the strategy of the foreign policy of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "India"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Japan"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "China"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "U. S. A"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Pivot to Asia was one of the United States of America’s central foreign policy initiatives during the tenure of President Barack Obama."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca70acffc48639cd802",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is the basis of federal government?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Supremacy of the parliament"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Supremacy of Judiciary"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Division of powers between federal and state government"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "single citizenship"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Federal Government-Division of powers between federal and state government."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cabb6f73c4838ca3532",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following does not form part of Immanuel Kant’s theory of‘perpetual peace’?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Republican Constitutionalism"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Federal contract among States to abolish war"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "World Government"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Transformation of individual consciousness"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Immanuel Kant (22 April, 1724 - 12 Feb 1804). a great German philosopher proposed the theory of perpetual peace containing following points:<br>- <br>(i) No standing army existence, <br>(ii) No any independent state will be interfered with any other dominion state. <br>(iii) No state will be interfered by another state constitutionally. <br>(iv) Existence of universal peace policy."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355caab6f73c4838ca3531",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Recently London High Court granted right to few elderly people to go ahead with their case against government in relation to Mau Mau Rebellion. In which country this rebellion took place?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Kenya"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Libya"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Ethiopia"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Republic of Congo"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "The Mau Mau Rebellion took place in Kenya. The Mau Mau Uprising (also known as the Mau Mau Revolt, Mau Mau Rebellion and Kenya Emergency) was a military conflict that took place in Kenya between 1952 and I960, lt involved Kikuyu-dominated anti-colonial groups summarily called Mau Mau and elements of the British Army, the local Kenya Regiment mostly consisting of the British, auxiliaries and anti-Mau Mau Kikuyu. The capture of rebel leader Dedan Kimathi on 21 October 1956 signalled the ultimate defeat of Mau Mau. and essentially ended the British military campaign"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356018d1f9a076a3827d1b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The growth of judicial power over the last one hundred years in liberal democracies have taken place because -"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The constitutions have given the judiciary more powers"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Acceptance of the theory of separation of powers"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The U. N. Directives"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Protect Human Rights"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The growth of Judicial Power over the last one hundred years in liberal democracies has taken place to protect Human rights."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604efeec59769d02a34e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The US stopped cultivating ties with Taliban regime in Afghanistan after-"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "9/11 attacks in the US"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "attacks on US embassies in Kenya and Tanzania"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "attack on US military mission headquarter in Riyadh"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "failures of talks on gas pipeline through Afghanistan"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "TIk US stopped cultivating ties with Taliban Regime in Afghanistan after attack on US embassies in Kenya and Tanzania in 1998,"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604f751c3e76d30369e9",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following in respect of Indian Ocean Naval Symposium (1ONS):<br>1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy. <br>2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region. <br>Which of the above statements is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "<br>• The 2015 event was hosted by S.Africa and co-chair Tanzania. So first statement is wrong. <br>• In 2008, IONS was setup taking all the littoral countries of the Indian Ocean (1O) onboard to promote friendly relationship and bear upon issues of regional maritime security and cooperation in the maritime domain. Second statement is right."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca7b6f73c4838ca352c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not an essential element of a federal form of government?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Written Constitution"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Independent judiciary"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Division of power"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Separation of powers"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "In a federal form of government separation of powers is not an essential element. A federal state is a political entity characterized by a union of partially self-governing states or regions under a central (federal) government in a single political system. So the federation is a form of government in which a division of powers between central govt, and regional govt. eg. lndia."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb6feec59769d02a345",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The head of state of the United Kingdom is -"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Queen Elizabeth I"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Queen Elizabeth II"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Queen Elizabeth III"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Queen Elizabeth IV"
+        },
+        "v": 3
+      },
+      {
+        "d": {
+          "text": "None of the above / More than one of the above"
+        },
+        "v": 4
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Queen Elizabeth 11 is the head of state of the United Kingdom."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca7ad78fd4832b54842",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "1",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Parliamentary Supremacy is the definite feature of the political system in"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "UK"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "India"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Canada"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Australia"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "‘Parliamentary Supremacy’ is the definite feature of the political system in U.K."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cadad78fd4832b5484b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "We have a system of Judicial Review in"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Indian only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "U. K. only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "U. S. A. only"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Both in India and U. S. A."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "We have the system of Judicial Review in both states of India and U. S. A."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca9ad78fd4832b54845",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following statements and select the correct answer from the codes given below :<br> <b>Assertion (A)</b>:<br> Parliamentary system of government is based on the principle of collective responsibility. <br><b>Reason (R)</b>:<br> A parliamentary' defeat is not necessarily a sufficient cause for resignation of the Ministry."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Both A and R are individually true and R is the correct explanation of A"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Both A and R are individually true but R is not the correct explanation of A"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A is true but R is false"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "A is false but R is true"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The ministers are collectively responsible to the parliament in general and to the Lok Sabha in particular (Article 75). The principle of collective responsibility implies that the Lok Sabha can remove the ministry (Council of Ministers headed by the prime minister) from office by passing a vote of no confidence."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb5751c3e76d30369e0",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The modem state system with its territorial sovereignty came into existence first in Europe in the wake of the : Treaty of Versailles"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Congress of Vienna"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Treaty of Westphalia"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Congress of Berlin"
+        },
+        "v": 2
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The peace treaties of Westphalia were signed in 1648, which led to the emergence of modem state system in international relations."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604fd1f9a076a3827d21",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "One of the implications of equality in society is the absence of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Privileges"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Restraints"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Competition"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Ideology"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "NEW NCERT Class 11, Political Science, page 45, <br>• First step towards bringing about equality is of course ending the formal system of inequality and privileges. The caste system in India prevented people from the ‘lower’ castes from doing anything except manual labour. In many countries only people from some families could occupy high positions. Attainment of equality requires that all such restrictions or privileges should be brought to an end."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e1d1f9a076a3827d2e",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following statements is not correct ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Indian Parliament is supreme."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Supreme Court of India has the power of judicial review."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "There is a division of powers between the Centre and the States."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "There is a Council of Ministers to aid and advise the President."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Though the Parliament of India is the supreme legislative body of the Republic of India, the legislation passed by parliament may be challenged in Supreme Court. The Parliament is composed of the President of India and the houses. It is a bicameral legislature with two houses:<br> the Rajya Sabha (Council of States) and the Lok Sabha (House of the People)."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cabad78fd4832b54849",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "There are different arguments given in favour of power sharing in a democratic political system."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "It reduces conflict among different communities"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Majority community does not impose its will on others"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Since, all are affected by the policies of the government, they should be consulted in the governance of the country"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "It speeds up the decision-making process and improves the chances of unity of the country"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e2751c3e76d30369f8",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Match List - 1 (Institutions) with List - Ii (Functions) and select the correct answer by using the code given below:<br> (Institutions) (Functions) A. Parliament <br>(i) Formulation of Budget B. C & A.G. <br>(ii) Enactment of Budget C. Ministry of <br>(iii) Implementation of Finance Budget D. Executing <br>(iv) Legality of expenditure Departments <br>(v) Justification of Income Code:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "(iii) (iv) (ii) (i)"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "(ii) (iv) (i) (iii)"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "(v) (iii) (iv) (ii)"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "(iv) (ii) (iii) (v)"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Parliament - Enactment of Budget C & A.G. - Legality of expenditure Ministry of Finance - Formulation of Budget Executing Departments - Implementation of Budget"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cac0acffc48639cd80a",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following about the principles of Panchsheel are correct ?  <br>1. These are a set of five principles governing relations between States <br>2. The assumption of Panchsheel was that newly independent States after decolonization would be able to develop a new and more principled approach to international relations <br>3. The first formal codification in treaty form was done in an agreement between China and India <br>Select the correct answer using the code given below : 1 and 2 only"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2 and 3 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1 and 3 only"
+        },
+        "v": 2
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e5d1f9a076a3827d34",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A judge of the Supreme Court can be removed by-"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "President of lndia"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "The Prime minister"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The President after an address by the Parliament"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "The speaker"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "By <br> President after a resolution of Parliament passed by a majority of its members and two third majority of the members present and voting in each house."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e2d1f9a076a3827d30",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following group of States/Union Territories have only one Lok Sabha constituency?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Arunachal Pradesh, Sikkim, Lakshadweep"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Goa, Meghalaya, Andaman and Nicobar Islands"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Chandigarh, Sikkim, Mizoram"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Manipur, Dadra and Nagar Havcli, Puducherry"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Chandigarh - 1 Lok Sabha Constituency Sikkim - I Lok Sabha Constituency Mizoram - I Lok Sabha Constituency"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e3d1f9a076a3827d31",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The following statements are about democracy in the contemporary world.  <br>A. Democracy expanded throughout the 20th century. <br>B. Democracy did not spread evenly throughout the world. <br>C. All the member states of the International Monetary Fund (1MF) are democracies. <br>D. All the pennanent members of the United Nations Security Council are democracies."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A and B"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A, B and C"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "A, B and D"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "B, C and D"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "All the member states of the IMF are not democracies, for instance, China. There are five permanent member of Security Council - US, Russia, UK, France and China in which China has not democracy. China is ruled by communism."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e5751c3e76d30369fd",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "What are national parties?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Parties which have units in various states"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Parties which have no units"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Parties which have units in two states"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Parties which have units in all states"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "There are some countrywide parties called national parties. These have units in various states, all these units follow the same policies, programmes and strategy that is decided at the national level."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e4751c3e76d30369fb",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not an elected member of the House?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Speaker of the Lok Sabha"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Deputy Speaker of the Lok Sabha"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Chairman of the Rajya Sabha"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Deputy Chairman of the Rajya Sabha"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Vice president is ex-officio chairman of Rajya Sabha. He is elected as Vice president not the member of Rajya Sabha."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8b2c8f1436d3af2f13",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Despite being a Republican State, India is a member of the Commonwealth of Nations whose head is the British Monarch. This is because:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "This membership does not affect me sovereign nature of the Indian Republic."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "This membership only shows that the British ruled over India."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Members of the association are sovereign and independent."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "It is a symbol of the unity among the members of the association."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8c2c8f1436d3af2f18",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "<table> <tr> <td> Consider the following statements: </td> </tr> <tr> <td> 1. The Gujral Doctrine of India is formulated on India's accommodating approach towards its smaller neighbours on the basis of the principle of non-reciprocity. </td> </tr> <tr> <td> 2. The Gujral Doctrine of India was initiated in 1994. </td> </tr> </table> Which of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 2"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Both 1 and 2"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Neither 1 nor 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3cd1f9a076a3827d0b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following writs is issued during the pendency of proceedings in a court?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Mandamus"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Certiorari"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Prohibition"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Quo warranto"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3c751c3e76d30369da",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which of the Indian Provinces the first Communist Government was established?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "TamilNadu"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Andhra Pradesh"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Kerala"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "West Bengal"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "In India it was the provinces of Kerala where first Communist government was formed in 1957 led by E. Nambudripad."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca80acffc48639cd804",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following events :<br>1. Fourth general elections in India <br>2. Formation of Haryana state <br>3. Mysore named as Karnataka state <br>4. Meghalaya and Tripura become full states <br>Which one of the following is the correct chronological order of the above?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2-1-4-3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "4-3-2-1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2-3-4-1"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "4-1-2-3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "Haryana state - Act 1966 Fourth Lok Sabha - 16th Mareh 1967 Manipur Tripura and Meghalaya- Act. 1971 Karnataka - Act. 1973"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cadad78fd4832b5484c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Arrange the following lndian States in a chronological order, according to their formation, and select the correct answ er by using the codes given at the end.  <br>1. Chhattisgarh 2. Arunachal Pradesh <br>3. Jharkhand 4. Sikkim"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "4, 1, 2, 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "4, 2, 1, 3"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "3, 2, 1, 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 4, 2, 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The above states were formed in the following order - <br>1. Sikkim - 1975 <br>2. Arunachal Pradesh - 1986 <br>3. Chhattisgarh - Nov. l-2(X)0 <br>4. Jharkhand - Nov. 15, 2000"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560abfeec59769d02a356",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Mention the correct date of the last meeting of the Constituent Assembly of India."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "26 Nov. 1949"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "5 Dec. 1949"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "24 Jan. 1950"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "25 Jan. 1950"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Constituent Assembly of India <br>❖ Setup under the Cabinet Mission Plan of 1946 <br>❖ 11 sessions w ere held in total <br>❖ First session was held from December 9-23 1946 <br>❖ Last session was held from November 14-26 1949 <br>❖ Special meeting was held on January 24, 1950 to append signatures"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cacb6f73c4838ca3534",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Political theory  <br>1. deals with the ideas and principles that shape Constitutions. <br>2. clarifies the meaning of freedom, equality and justice. <br>3. probes the significance of principles of rule of law, separation of power and judicial review. <br>Select the correct answer using the codes given below"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 2"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 1"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "All of these"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Political Theory deals with the study of political institutions as well as with theories of state, law, liberty, equality and representation."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356017751c3e76d30369e3",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Presidential system operates most successfully in the USA because of-"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "A strong two party system"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "A well demareated constitution"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Judicial review"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Minor contradictions in society"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The presidential system is a system of government where an executive branch is led by a President who serves as both head of state and head of government. It operates most successfully in the USA because of Minor Contradictions in society."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356050feec59769d02a350",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "What is the importance of developing Chabahar Port by India?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "India's trade with African countries will enormously increase."
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "India's relations with oil-producing Arab countries will be strengthened."
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "India will not depend on Pakistan for access to Afghanistan and Central Asia."
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Pakistan will facilitate and protect the installation of a gas pipeline between Iraq and lndia."
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "In May 2016, India and Inin signed the “historic” Chabahar port agreement, which has the potential of becoming India’s gateway to Afghanistan, Central Asia and Europe. So, C is the most fitting answer."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3d751c3e76d30369dc",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In a single transferable vote system, each voter is requirec to : Indicate one preference more than the seats to be filled up"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Indicate one preference less than the total seats to be filled up"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Indicate as many preferences as there are candidates to be elected"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Indicate only a single preference"
+        },
+        "v": 2
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "In a single transferable vote system, each voter is required to indicate as many preferences as there are candidates to be elected."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e35604dfeec59769d02a34c",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following was not the basis invoked by the US for attacking Iraq in Mareh 2003?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Iraq possessed weapons of mass destruction"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Saddam Hussain had links with Al Quacda"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Regime Change in lraq"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Iraq had not withdrawn from Kuwait complcty"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The question of withdrawal of lraq from kuwait was an issue in 1991 Iraq war. This was not an issue during 2003 Iraq war."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e356017feec59769d02a348",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The House of Lords in Great Britain is mainly retained because-"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "It is as important as the House of Commons"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "It plays an important role of checks and balances"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "It acts as a judicial court"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "It is maintained as an institution"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "It is observed That British people are very conservative and have great regard for their historical institutions. Therefore, they continue to support historical institutions like Crown and House of Lords."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca8ad78fd4832b54843",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The presidential system operates on the principle of"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Division of powers"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Separation of powers"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Fusion of powers"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Balance of powers"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The presidential system operates on the principle of separation of powers. India follows a parliamentary system of government, which offers a clear separation of powers."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8c2c8f1436d3af2f17",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which of the following years, India adopted its nuclear doctrine?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2000"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2002"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2003"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2004"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355cad0acffc48639cd80b",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following are the features of the ideology of utilitarianism?  <br>1. Utilitarians believed that all value derives from land <br>2. The most celebrated spokesmen of utilitarianism were jeremy Bentham and John Stuart Mill <br>3. Utilitarians were advocates of the idea that India could be ruled through indigenous laws and customs <br>4. Utilitarians were advocates of the idea of the ‘greatest good for the greatest number of people’ <br>Select the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 4 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2 and 4 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355fb5feec59769d02a344",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "According to lris L Calude Jr. which of the following is not a device for the management of power?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Arms control"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Collective security"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Balance of power"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "World Government"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "According to lris L Calude Jr. amis control is not a device for the management of pow er. He was a leading scholar in international relations and international organizations."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca9ad78fd4832b54846",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The concept of Public Interest Litigation originated in"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "The United Kingdom"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Australia"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "The United States"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Canada"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The concept of public lnterest litigation (P1L) originated in the USA."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355f3efeec59769d02a343",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following statement/s about the Right to negative vote is / are correct? Select the correct answer from the codes given below :<br>  <br>I. The Election Commission of lndia wanted that ‘None of the above’ button on Electronic voting machine should be offered to voters. <br>II. The public interest litigation, in the Supreme Court for NOTA option was filed by the Association for Democratic Reforms. <br>III. Elections in a constituency will be held again if NOTA gets the highest votes. <br>IV. The candidate with highest number of votes will be declared elected even if she/ he receives less than the NOTA votes."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Only I and II are correct"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only 1I and III are correct"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Only 1II and IV are correct"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Only I and IV are correct"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The public Interest Litigation (PIL) for granting NOTA was filed in supreme Court by the People’s Union for Civil Liberties, The supreme Court Judgement was delivered on 27 September, 2013, 'flic NOTA option is not at present effectively implemented in Indian elections as it does affect the outcome ofclections."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e355ca90acffc48639cd805",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Consider the following features :<br>1. Presence of a nominal or titular head of state <br>2. Collective responsibility of cabinet <br>3. Accountability of executive to the legislature <br>4. Separation of powers <br>Which of these are the features of a parliamentary form of Government ?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "The features of parliamentary government in India are:<br>1. Nominal and Real Executive <br>2. Majority Party Rule. <br>3. Collective Responsibility <br>4. Political homogeneity <br>5. Double Membership<br>6. Leadership of the Prime Ministers<br>7. Dissolution of the Lower House<br>8. Secrecy<br>9. Fusion of Powers"
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e1751c3e76d30369f6",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "The Fundamental Duties of a citizen include <br>1. Respect for the Constitution, the National Flag and the National Anthem <br>2. To develop the scientific temper. <br>3. Respect for the Government. <br>4. To protect Wildlife. <br>Choose the correct answer from the codes given below :"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1, 2 and 3"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1, 2 and 4"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1, 3, 4 and 2"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Fundamental Duties of a citizen include all the listed duties except for respect for the government."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560acfeec59769d02a358",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": null,
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which of the following statements are correct about gender budgeting ?  <br>1. It is a separate budget addressing the specific needs of women. <br>2. It assesses the impact of government budget on women. <br>3. It is an accounting exercise. <br>4. It is another budgeting innovation. <br>Select the correct answer from the code given below : 2 and 4 only"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1 and 4 only"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1, 3 and 4 only"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "2, 3 and 4 only"
+        },
+        "v": 2
+      }
+    ],
+    "answer": 0,
+    "solution": {
+      "text": "2 and 4 only The Ministry of Women and Child Development says. Gender Budgeting is a powerful tool for achieving gender mainstreaming so as to ensure that benefits of development reach women as much as men. It is not an accounting exercise but an ongoing process of keeping a gender perspective in policy/ programme formulation, its implementation and review. GB entails dissection of the Government budgets to establish its gender differential impacts and to ensure that gender commitments are translated in to budgetary commitments. The rationale for gender budgeting arises from recognition of the fact that national budgets impact men and women differently through the pattern of resource allocation. Women, constitute 48% of India’s population, but they lag behind men on many social indicators like health, education, economic opportunities, etc. Hence, they warrant special attention due to their vulnerability and lack of access to resources. The way Government budgets allocate resources, has the potential to transform these gender inequalities. In view of this, Gender Budgeting, as a tool for achieving gender mainstreaming, has been propagated."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e5d1f9a076a3827d35",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "3",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "A very good example of sharing power among different social group is"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Panchayati Raj system in India"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Demand for separate Eelam by Tamils"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Community government in Belgium"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Federal arrangement in India"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The community government in Belgium is elected by people belonging to one language community, no matter where they live. This government has the power regarding cultural, educational and language related issues."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e4751c3e76d30369fc",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Judiciary (courts) can take up any dispute  <br>I. Between citizens and the judiciary. <br>II. Between citizens and the government. <br>III. Between two or more state governments. <br>IV. Between government at the Union and government of the othc rcountries."
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Onlv I"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Only II"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "I, II and III"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Only 1V"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5e3560e2d1f9a076a3827d2f",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [
+      "English"
+    ],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Which one of the following is not the tool of good governance?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Right to information"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Citizens’Charter"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "Social Auditing"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Judicial Activism"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 3,
+    "solution": {
+      "text": "Judicial activism refers to judicial rulings that are suspected of being based on personal opinion, rather than on existing law. The question of judicial activism is closely related to constitutional interpretation, statutory construction, and separation of pow ers."
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8b2c8f1436d3af2f14",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "Where was the First Asian Relations Conference held?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "Manila"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "Tokyo"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "New Delhi"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "Colombo"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  },
+  {
+    "_id": "5f93da8b2c8f1436d3af2f15",
+    "matrixSize": {
+      "rows": 0,
+      "columns": 0
+    },
+    "tags": [],
+    "difficulty": "2",
+    "assets": [],
+    "type": "mcq",
+    "partialMarking": false,
+    "hasRelatedQuestions": false,
+    "childQuestions": [],
+    "question": {
+      "text": "In which of the following years, was the Indo-China Treaty on Tibet signed?"
+    },
+    "options": [
+      {
+        "d": {
+          "text": "1950"
+        },
+        "v": 0
+      },
+      {
+        "d": {
+          "text": "1954"
+        },
+        "v": 1
+      },
+      {
+        "d": {
+          "text": "1957"
+        },
+        "v": 2
+      },
+      {
+        "d": {
+          "text": "1962"
+        },
+        "v": 3
+      }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": ""
+    },
+    "comprehension": "",
+    "topicId": "5de8f310f2109b7c7646f6e5",
+    "__v": 0,
+    "disabled": false
+  }
+]
