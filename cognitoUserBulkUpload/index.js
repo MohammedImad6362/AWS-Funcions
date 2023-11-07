@@ -1,292 +1,213 @@
-const aws = require("aws-sdk");
-const XLSX = require("xlsx");
-const s3 = new aws.S3({ region: "ap-south-1" });
-const cognito = new aws.CognitoIdentityServiceProvider();
-const db = new aws.DynamoDB.DocumentClient({ resgion: "ap-south-1" });
+const AWS = require('aws-sdk');
+const XLSX = require('xlsx');
 
+const s3 = new AWS.S3({ region: 'ap-south-1' });
+const cognito = new AWS.CognitoIdentityServiceProvider();
+const db = new AWS.DynamoDB.DocumentClient({ region: 'ap-south-1' });
 
 exports.handler = async (event, context, callback) => {
-  await GetXl(event).then(async (x) => {
-    var workbook = XLSX.read(x.Body, { type: "buffer" });
-    var pages = workbook.SheetNames;
+    try {
+        // Retrieve Excel data from S3
+        const excelData = await GetXL(event.file_name);
+        const workbook = XLSX.read(excelData.Body, { type: 'buffer' });
+        const pages = workbook.SheetNames;
+        const data = XLSX.utils.sheet_to_json(workbook.Sheets[pages[0]]);
+        const finalArray = [];
 
-    var data = XLSX.utils.sheet_to_json(workbook.Sheets[pages[0]]);
-    var final_array = [];
-    console.log("initialData", data);
+        for (let i = 0; i < data.length; i++) {
+            const datetime = new Date();
+            const user = data[i];
 
-    for (let i = 0; i < data.length; i++) {
-      var datetime = new Date();
-      console.log(datetime.toISOString());
-      console.log(`${data[0].roll_no}${datetime.toISOString()}`);
-      if (data[i].user_role.toLowerCase() == "student")
-        data[i].user_id = data[i].roll_no.toString() + datetime.toISOString();
-      console.log("dob", data[i]);
-      try {
-        await cognito
-          .signUp({
-            ClientId: "7k6a8mfavvsj2srjkqm828j5di",
-            Password: data[i].password || data[i].admission_no +"",
-            Username: data[i].userName,
-            UserAttributes: [
-              {
-                Name: "name",
-                Value: data[i].firstname + data[i].lastname,
-              },
-              {
-                Name: "email",
-                Value: "mailtest@gmail.com",
-              },
-              {
-                Name: "birthdate",
-                Value: "10-08-1998",
-              },
-              {
-                Name: "phone_number",
-                Value: `+91${data[i].mobile}`,
-              },
-              {
-                Name: "custom:custom:role",
-                Value: data[i].user_role,
-              },
-            ],
-          })
-          .promise();
-      } catch (error) {
-        console.log("error", error);
-        return callback(null, {
-          status_code: 500,
-          response: { error, message: "Error on adding users to cognito" },
-        });
-      }
-      if (data[i].user_role.toLowerCase() == "student") {
-        // data.forEach((data[i]) => {
-        if (final_array.length != 0) {
-          var find_index = final_array.findIndex(
-            (rollno) => rollno.roll_no == data[i].roll_no
-          );
-          if (find_index != -1) {
-            var objc = {
-              course_id: data[i].course_id,
-            };
-            final_array[find_index].course.push(objc);
-          } else {
-            var obj = {
-              user_id: data[i].user_id,
-              roll_no: data[i].roll_no,
-              admission_no: data[i].admission_no,
-              userName: data[i].userName,
-              father_name: data[i].father_name,
-              mobile: `+91${data[i].mobile}`,
-              class: data[i].class,
-              firstname: data[i].firstname,
-              lastname: data[i].lastname,
-              dob: data[i].dob,
-              user_role: data[i].user_role,
-              institute_id: data[i].institute_id,
-              branch_id: data[i].branch_id,
-              batch_id: data[i].batch_id,
-              batch_name: data[i].batch_name,
-              status: data[i].status,
-              gender: data[i].gender,
-              course: data[i].course_id_1
-                ? [
-                    {
-                      course_id: data[i].course_id,
-                      course_name: data[i].course_name,
-                    },
-                    {
-                      course_id: data[i].course_id_1,
-                      course_name: data[i].course_name_1,
-                    },
-                  ]
-                : [
-                    {
-                      course_id: data[i].course_id,
-                      course_name: data[i].course_name,
-                    },
-                  ],
-            };
-            final_array.push(obj);
-          }
-        } else {
-          var obj = {
-            user_id: data[i].user_id,
-            roll_no: data[i].roll_no,
-            admission_no: data[i].admission_no,
-            userName: data[i].userName,
-            father_name: data[i].father_name,
-            mobile: `+91${data[i].mobile}`,
-            class: data[i].class,
-            firstname: data[i].firstname,
-            lastname: data[i].lastname,
-            dob: data[i].dob,
-            user_role: data[i].user_role,
-            institute_id: data[i].institute_id,
-            branch_id: data[i].branch_id,
-            batch_id: data[i].batch_id,
-            batch_name: data[i].batch_name,
-            status: data[i].status,
-            gender: data[i].gender,
-            course: data[i].course_id_1
-              ? [
-                  {
-                    course_id: data[i].course_id,
-                    course_name: data[i].course_name,
-                  },
-                  {
-                    course_id: data[i].course_id_1,
-                    course_name: data[i].course_name_1,
-                  },
-                ]
-              : [
-                  {
-                    course_id: data[i].course_id,
-                    course_name: data[i].course_name,
-                  },
-                ],
-          };
-          final_array.push(obj);
+            // Create user ID for students
+            if (user.user_role.toLowerCase() === 'student') {
+                user.user_id = user.roll_no.toString() + datetime.toISOString();
+            }
+
+            try {
+                // Create users in Cognito
+                await cognito.signUp({
+                    ClientId: '7k6a8mfavvsj2srjkqm828j5di',
+                    Password: user.password || user.admission_no.toString(),
+                    Username: user.userName,
+                    UserAttributes: [
+                        {
+                            Name: 'name',
+                            Value: user.firstname + ' ' + user.lastname,
+                        },
+                        {
+                            Name: 'email',
+                            Value: 'mailtest@gmail.com',
+                        },
+                        {
+                            Name: 'birthdate',
+                            Value: '10-08-1998',
+                        },
+                        {
+                            Name: 'phone_number',
+                            Value: `+91${user.mobile}`,
+                        },
+                        {
+                            Name: 'custom:custom:role',
+                            Value: user.user_role,
+                        },
+                    ],
+                }).promise();
+            } catch (error) {
+                console.log('Cognito error', error);
+                return {
+                    status_code: 500,
+                    response: { error, message: 'Error on adding users to Cognito' },
+                };
+            }
+
+            if (user.user_role.toLowerCase() === 'student') {
+                const userObj = {
+                    user_id: user.user_id,
+                    roll_no: user.roll_no,
+                    admission_no: user.admission_no,
+                    userName: user.userName,
+                    father_name: user.father_name,
+                    mobile: user.mobile,
+                    class: user.class,
+                    firstname: user.firstname,
+                    lastname: user.lastname,
+                    dob: user.dob,
+                    user_role: user.user_role,
+                    institute_id: user.institute_id,
+                    branch_id: user.branch_id,
+                    batch_id: user.batch_id,
+                    batch_name: user.batch_name,
+                    status: user.status,
+                    gender: user.gender,
+                    course: user.course_id_1
+                        ? [
+                              {
+                                  course_id: user.course_id,
+                                  course_name: user.course_name,
+                              },
+                              {
+                                  course_id: user.course_id_1,
+                                  course_name: user.course_name_1,
+                              },
+                          ]
+                        : [
+                              {
+                                  course_id: user.course_id,
+                                  course_name: user.course_name,
+                              },
+                          ],
+                };
+                finalArray.push(userObj);
+            } else if (user.user_role.toLowerCase() === 'staff' || user.user_role.toLowerCase() === 'teacher') {
+                const userObj = {
+                    user_id: user.user_id,
+                    firstname: user.firstname,
+                    lastname: user.lastname,
+                    dob: user.dob,
+                    mobile: user.mobile,
+                    department: user.department,
+                    designation: user.designation,
+                    gender: user.gender,
+                    blood_group: user.blood_group,
+                    spouse_name: user.spouse_name,
+                    fathername: user.fathername,
+                    date_of_joining: user.date_of_joining,
+                    profile_picture: user.profile_picture,
+                    email: user.email,
+                    pincode: user.pincode,
+                    address: user.address,
+                    state: user.state,
+                    city: user.city,
+                    area_name: user.area_name,
+                    emergency_connumber: user.emergency_connumber,
+                    emergency_contact_person: user.emergency_contact_person,
+                    educational_background: user.educational_background,
+                    completion_year: user.completion_year,
+                    experience: user.experience,
+                    college_cityname: user.college_cityname,
+                    college_name: user.college_name,
+                    previous_institute_name: user.previous_institute_name,
+                    bank_account_no: user.bank_account_no,
+                    bank_branch: user.bank_branch,
+                    bank_ifsc: user.bank_ifsc,
+                    bank_name: user.bank_name,
+                    PAN_number: user.PAN_number,
+                    PF_account_number: user.PF_account_number,
+                    EPS_account_number: user.EPS_account_number,
+                    passport_expiry: user.passport_expiry,
+                    passport_no: user.passport_no,
+                    contract_start_date: user.contract_start_date,
+                    country_of_issue: user.country_of_issue,
+                    contract_type: user.contract_type,
+                    user_role: user.user_role,
+                    institute_id: user.institute_id,
+                    branch_id: user.branch_id,
+                };
+                finalArray.push(userObj);
+            }
+
+            // Batch write users to DynamoDB when the finalArray reaches the desired batch size
+            if (finalArray.length >= 100) {
+                await BatchWrite(finalArray);
+                finalArray.length = 0;
+            }
         }
-        // });
-      } else if (
-        data[i].user_role.toLowerCase() == "staff" ||
-        data[i].user_role.toLowerCase() == "teacher"
-      ) {
-        // data.forEach((data[i]) => {
-        var obj = {
-          user_id: data[i].user_id,
-          firstname: data[i].firstname,
-          lastname: data[i].lastname,
-          dob: data[i].dob,
-          mobile: "+91" + data[i].mobile,
-          department: data[i].department,
-          designation: data[i].designation,
-          gender: data[i].gender,
-          blood_group: data[i].blood_group,
-          spouse_name: data[i].spouse_name,
-          fathername: data[i].fathername,
-          date_of_joining: data[i].date_of_joining,
-          profile_pictute: data[i].profile_pictute,
-          email: data[i].email,
-          pincode: data[i].pincode,
-          address: data[i].address,
-          state: data[i].state,
-          city: data[i].city,
-          area_name: data[i].area_name,
-          emergency_connumber: data[i].emergency_connumber,
-          emergnecy_contact_person: data[i].emergnecy_contact_person,
-          educational_background: data[i].educational_background,
-          completion_year: data[i].completion_year,
-          expericence: data[i].expericence,
-          collage_cityname: data[i].collage_cityname,
-          collage_name: data[i].collage_name,
-          previous_institutename: data[i].previous_institutename,
-          bank_account_no: data[i].bank_account_no,
-          bank_branch: data[i].bank_branch,
-          bank_ifsc: data[i].bank_ifsc,
-          bank_name: data[i].bank_name,
-          PAN_number: data[i].PAN_number,
-          PF_account_number: data[i].PF_account_number,
-          EPS_account_number: data[i].EPS_account_number,
-          passport_expiry: data[i].passport_expiry,
-          passport_no: data[i].passport_no,
-          contract_start_date: data[i].contract_start_date,
-          country_of_issue: data[i].country_of_issue,
-          contract_type: data[i].contract_type,
-          user_role: data[i].user_role,
-          institute_id: data[i].institute_id,
-          branch_id: data[i].branch_id,
+
+        // Write any remaining users in the finalArray
+        if (finalArray.length > 0) {
+            await BatchWrite(finalArray);
+        }
+
+        return {
+            status_code: 200,
+            response: { message: 'Added Users', fileName: event.file_name },
         };
-        final_array.push(obj);
-        // });
-      }
+    } catch (error) {
+        console.log('Error', error);
+        return {
+            status_code: 500,
+            response: { error, message: 'Error on processing the Excel file' },
+        };
     }
-    console.log("finalArray", final_array);
-    let dsdsd = [];
-    let ccc = [];
-
-    // for (let i = 0; i < DB.length; i++) {
-    //     data.forEach((dd) => {
-    //         if (dd.roll_no === DB[i].roll_no) {
-    //             console.log(DB[i].course_id, "jojisfh");
-    //             ccc.push({
-    //                 c: dd.course_id,
-    //             });
-    //         }
-    //     });
-    //     dsdsd.push({
-    //         userId: DB[i].roll_no,
-    //         course: ccc,
-    //     });
-    // }
-
-    if (final_array.length > 0) {
-      try {
-        await BatchWrite(final_array);
-        return callback(null, {
-          status_code: 200,
-          response: { message: "Added Users", fileName: event.file_name },
-        });
-      } catch (error) {
-        return callback(null, {
-          status_code: 500,
-          response: { error, message: "Error on adding to db" },
-        });
-      }
-    } else {
-      return callback(null, {
-        status_code: 200,
-        response: { message: "No data to add", fileName: event.file_name },
-      });
-    }
-  })
-  .catch((error) => {
-    console.log(error)
-    return callback(null, {
-      status_code: 500,
-      response: { error, message: "Error on processing the Excel file" },
-    });
-  });
 };
 
 async function BatchWrite(data) {
-console.log("data to db", data);
-var f_data = [];
-data.forEach((l, i) => {
-  f_data.push({
-    PutRequest: {
-      Item: l,
-    },
-  });
-});
-let params = {
-  RequestItems: {
-    ["Users"]: f_data,
-  },
-};
+    const batchedItems = [];
 
-return db.batchWrite(params).promise();
+    // Split the data into batches of 25 items for DynamoDB
+    for (let i = 0; i < data.length; i += 25) {
+        batchedItems.push(data.slice(i, i + 25));
+    }
+
+    // Perform batch writes for each batch of items
+    for (const batch of batchedItems) {
+        const params = {
+            RequestItems: {
+                'Users': batch.map((user) => ({
+                    PutRequest: {
+                        Item: user,
+                    },
+                })),
+            },
+        };
+
+        try {
+            await db.batchWrite(params).promise();
+        } catch (error) {
+            console.error('Error:', error);
+            // Handle any errors that occurred during the batch write
+        }
+    }
 }
 
-async function GetXl(event) {
-  const params = {
-    Bucket: "allassestsupmyranks",
-    Key: `xlxs/${event.file_name}`,
-  };
+async function GetXL(file_name) {
+    const params = {
+        Bucket: 'allassestsupmyranks',
+        Key: `xlxs/${file_name}`,
+    };
 
-  try {
     const response = await s3.getObject(params).promise();
-    console.log("Excel file retrieved successfully.");
-    console.log("Response.Body length:", response.Body.length);
-    // Add more logging to check response.Body or its properties if necessary
-
-    const workbook = XLSX.read(response.Body, { type: "buffer" });
-    console.log("Workbook loaded successfully.");
-    // Add more logging to check workbook and its properties
+    console.log('Excel file retrieved successfully.');
 
     return response;
-  } catch (error) {
-    console.error("Error retrieving or processing Excel file:", error);
-    throw error;
-  }
 }
