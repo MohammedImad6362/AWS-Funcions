@@ -13,7 +13,7 @@ exports.handler = async (event, context, callback) => {
 		end_date: Joi.date().iso().required(),
 		start_time: Joi.string().required(),
 		end_time: Joi.string().required(),
-		status: Joi.string().valid("ACTIVE", "INACTIVE").required(), 
+		status: Joi.string().valid("ACTIVE", "INACTIVE").required(),
 		student_limit: Joi.number().integer().required(),
 		course_ids: Joi.array().items(Joi.string()).allow(null),
 	});
@@ -27,6 +27,35 @@ exports.handler = async (event, context, callback) => {
 			error: error,
 		});
 	}
+
+	let instituteData = await getInstituteData(event.institute_id)
+	console.log("instData",instituteData)
+	instituteData = instituteData.Item
+	if (!instituteData) {
+		return {
+			statusCode: 404,
+			response: "Institute not found",
+		};
+	}
+
+	const exceededLimits = [];
+
+	const checkLimit = (limitType, bodyValue, instituteValue) => {
+		if (parseInt(bodyValue) > parseInt(instituteValue)) {
+			exceededLimits.push(limitType);
+		}
+	};
+
+	checkLimit("student_limit", event.student_limit, instituteData.branches[0].batch_student_limit);
+
+	const batch_student_limit = instituteData.branches[0].batch_student_limit
+	if (exceededLimits.length > 0) {
+		return {
+			statusCode: 400,
+			response: `${exceededLimits} exceeded ${batch_student_limit}`,
+		};
+	}
+
 	var data_modified = [];
 
 	await GetInstitute(event)
@@ -75,6 +104,18 @@ async function GetInstitute(event) {
 	var result = await db.scan(data).promise();
 	return result;
 }
+
+//for getting data with branches
+async function getInstituteData(instituteID){
+	const params = {
+	  TableName: "Institute",
+	  Key: {
+		institute_id: instituteID
+	  }
+	}
+	
+	return db.get(params).promise()
+  }
 
 function Put_Batch(event, data_modified) {
 	var i = 0;
