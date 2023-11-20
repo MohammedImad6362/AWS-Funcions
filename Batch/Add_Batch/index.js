@@ -1,13 +1,13 @@
 const AWS = require("aws-sdk");
 const s3 = new AWS.S3({ region: "ap-south-1" });
 const db = new AWS.DynamoDB.DocumentClient({ region: "ap-south-1" });
+const { v4: uuidv4 } = require("uuid");
 const Joi = require("joi");
 
 exports.handler = async (event, context, callback) => {
 	const validationSchema = Joi.object({
 		institute_id: Joi.string().required(),
 		branch_id: Joi.string().required(),
-		id: Joi.string().required(),
 		name: Joi.string().required(),
 		start_date: Joi.date().iso().required(),
 		end_date: Joi.date().iso().required(),
@@ -29,7 +29,7 @@ exports.handler = async (event, context, callback) => {
 	}
 
 	let instituteData = await getInstituteData(event.institute_id)
-	console.log("instData",instituteData)
+	// console.log("instData",instituteData)
 	instituteData = instituteData.Item
 	if (!instituteData) {
 		return {
@@ -62,14 +62,14 @@ exports.handler = async (event, context, callback) => {
 		.then(async (data) => {
 			data.Items[0].branches.forEach((loop_data) => {
 				if (event.branch_id === loop_data.branch_id) {
-					loop_data.batch.push(event);
+					loop_data.batch.push({...event, id: `BA-${createUniqueID()}`});
 					data_modified.push(loop_data);
 				} else {
 					data_modified.push(loop_data);
 				}
 			});
 
-			console.log(data_modified);
+			// console.log(data_modified);
 
 			await Put_Batch(event, data_modified)
 				.then(() => {
@@ -86,9 +86,11 @@ exports.handler = async (event, context, callback) => {
 				});
 		})
 		.catch((error) => {
+			console.log("err",error)
 			return callback(null, {
 				status_code: 400,
 				response: error,
+				msg: error.message
 			});
 		});
 };
@@ -138,3 +140,8 @@ function Put_Batch(event, data_modified) {
 	return db.update(params).promise();
 }
 
+function createUniqueID() {
+	const timestamp = new Date().getTime();
+	const randomUUID = uuidv4().replace(/-/g, "");
+	return `${timestamp}-${randomUUID}`;
+  }

@@ -3,6 +3,7 @@ const XLSX = require("xlsx");
 const s3 = new aws.S3({ region: "ap-south-1" });
 const cognito = new aws.CognitoIdentityServiceProvider();
 const db = new aws.DynamoDB.DocumentClient({ resgion: "ap-south-1" });
+
 exports.handler = async (event, context, callback) => {
   await GetXl(event).then(async (x) => {
     var workbook = XLSX.read(x.Body, { type: "buffer" });
@@ -200,23 +201,6 @@ exports.handler = async (event, context, callback) => {
       }
     }
     console.log("finalArray", final_array);
-    let dsdsd = [];
-    let ccc = [];
-
-    // for (let i = 0; i < DB.length; i++) {
-    //     data.forEach((dd) => {
-    //         if (dd.roll_no === DB[i].roll_no) {
-    //             console.log(DB[i].course_id, "jojisfh");
-    //             ccc.push({
-    //                 c: dd.course_id,
-    //             });
-    //         }
-    //     });
-    //     dsdsd.push({
-    //         userId: DB[i].roll_no,
-    //         course: ccc,
-    //     });
-    // }
 
     if (final_array.length <= 25) {
       try {
@@ -288,3 +272,4 @@ function GetXl(event) {
 
   return s3.getObject(params).promise();
 }
+

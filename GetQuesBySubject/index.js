@@ -73,6 +73,7 @@ exports.handler = async (event, context, callback) => {
         sslCA: path.join(__dirname, 'rds-combined-ca-bundle.pem')
     });
 
+
     const courses = await mongoose.connection.collection('courses');
     const courseData = await courses.find({ _id: new ObjectId(courseId) }).toArray();
     console.log("Cdata", courseData);
@@ -85,8 +86,8 @@ exports.handler = async (event, context, callback) => {
         return callback("Invalid course or subject id", null);
     }
 
-    const course = courseData[0].name;
-    const subject = subjectData[0].name;
+    // const course = courseData[0].name;
+    // const subject = subjectData[0].name;
     const topics = await mongoose.connection.collection('topics').find({ subjectId: new ObjectId(subjectId) }).toArray();
     const topicIds = topics.map(topic => topic._id);
 
@@ -130,7 +131,7 @@ exports.handler = async (event, context, callback) => {
     const prefix = `${course}/${subject}`;
 
     // Assuming you have an AWS S3 bucket name
-    const bucketName = 'demotestproducts';
+    // const bucketName = 'demotestproducts';
 
     for (let i = 0; i < chunkedQuestions.length; i++) {
         const jsonFileName = `${i+1}.json`;
