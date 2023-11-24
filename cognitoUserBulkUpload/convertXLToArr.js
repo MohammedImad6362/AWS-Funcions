@@ -31,7 +31,7 @@ async function saveArrayToFile(array, filename) {
 }
 
 // Usage example
-const filePath = 'student.xlsx'; // Replace with your Excel file path
+const filePath = 'teacher.xlsx'; // Replace with your Excel file path
 const columnNumber = 1; // Replace with the column number you want to extract
 
 getColumnData(filePath, columnNumber)
