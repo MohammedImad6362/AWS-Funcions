@@ -14,6 +14,9 @@ const apiGateway = new AWS.ApiGatewayManagementApi({
 
 exports.handler = async (event, context, callback) => {
     let connectionId, notUploadedCount, totalUsers, uploadedCount;
+    const instituteId = event.instituteId;
+    const branchId = event.branchId;
+    console.log("ids",instituteId,branchId)
     try {
         // Retrieve Excel data from S3
         const excelData = await GetXL(event.filename);
@@ -23,7 +26,7 @@ exports.handler = async (event, context, callback) => {
         const finalArray = [];
         notUploadedCount = 0;
         totalUsers = data.length;
-        uploadedCount = totalUsers - notUploadedCount;
+
 
         for (let i = 0; i < data.length; i++) {
             const datetime = new Date();
@@ -101,8 +104,8 @@ exports.handler = async (event, context, callback) => {
                     lastname: user.lastname,
                     dob: user.dob,
                     user_role: user.user_role,
-                    institute_id: user.institute_id,
-                    branch_id: user.branch_id,
+                    institute_id: instituteId,
+                    branch_id: branchId,
                     batch_id: user.batch_id,
                     batch_name: user.batch_name,
                     status: user.status,
@@ -169,8 +172,8 @@ exports.handler = async (event, context, callback) => {
                     country_of_issue: user.country_of_issue,
                     contract_type: user.contract_type,
                     user_role: user.user_role,
-                    institute_id: user.institute_id,
-                    branch_id: user.branch_id,
+                    institute_id: instituteId,
+                    branch_id: branchId,
                 };
                 finalArray.push(userObj);
             }
@@ -209,7 +212,9 @@ exports.handler = async (event, context, callback) => {
                 JSON.stringify(errResponse)
             );
     } finally {
+        uploadedCount = totalUsers - notUploadedCount;
         let finalMessage = `Processing done - TotalUsers:${totalUsers} UploadedUsers: ${uploadedCount} notUploadedUsers:${notUploadedCount}`
+        console.log("finalMsg",finalMessage)
         if (!connectionId)
             connectionId = await sendSocketMessage(event.processing_id, { message: finalMessage, finished: true, notUploadedCount, uploadedCount })
         else
