@@ -1,6 +1,7 @@
 const AWS = require('aws-sdk');
 const XLSX = require('xlsx');
 const { v4: uuidv4 } = require('uuid')
+const { studentSchema, teacherSchema } = require('./validations.js');
 
 const s3 = new AWS.S3({ region: 'ap-south-1' });
 const cognito = new AWS.CognitoIdentityServiceProvider();
@@ -16,7 +17,7 @@ exports.handler = async (event, context, callback) => {
     let connectionId, notUploadedCount, totalUsers, uploadedCount;
     const instituteId = event.instituteId;
     const branchId = event.branchId;
-    console.log("ids",instituteId,branchId)
+    console.log("ids", instituteId, branchId)
     try {
         // Retrieve Excel data from S3
         const excelData = await GetXL(event.filename);
@@ -27,7 +28,6 @@ exports.handler = async (event, context, callback) => {
         notUploadedCount = 0;
         totalUsers = data.length;
 
-
         for (let i = 0; i < data.length; i++) {
             const datetime = new Date();
             const user = data[i];
@@ -37,22 +37,77 @@ exports.handler = async (event, context, callback) => {
                     user[key] = user[key].trim();
                 }
             }
+            const schema = user['user_role*'].toLowerCase() === 'student' ? studentSchema : teacherSchema;
+            user['mobile*'] = user['mobile*'] + ''
+            const validationResult = schema.validate(user);
+            let rowNumber = i + 2;
 
-            // // Create user ID for students
-            // if (user.user_role.toLowerCase() === 'student') {
-            //     user.user_id = user.roll_no.toString() + datetime.toISOString();
-            // }
+            const userNameRegex = /^[\p{L}\p{M}\p{S}\p{N}\p{P}]+$/u;
+            if (!userNameRegex.test(user['userName*'])) {
+                if (!connectionId) {
+                    connectionId = await sendSocketMessage(event.processing_id, {
+                        message: `Invalid username. Please use only letters, numbers, and common symbols for ${user['userName*'] || `row ${rowNumber}`} user`,
+                    });
+                } else {
+                    await sendMessageToConnection(
+                        connectionId,
+                        JSON.stringify({
+                            message: `Invalid username. Please use only letters, numbers, and common symbols for ${user['userName*'] || `row ${rowNumber}`} user`,
+                        })
+                    );
+                }
+                notUploadedCount++;
+                continue;
+            }
+
+            const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$/;
+            if (!passwordRegex.test(user['password*'])) {
+                if (!connectionId) {
+                    connectionId = await sendSocketMessage(event.processing_id, {
+                        message: `Invalid password. Password must contain at least one lowercase letter, one uppercase letter, and one digit. Minimum length is 8 characters for ${user['userName*'] || `row ${rowNumber}`} user`,
+                    });
+                } else {
+                    await sendMessageToConnection(
+                        connectionId,
+                        JSON.stringify({
+                            message: `Invalid password. Password must contain at least one lowercase letter, one uppercase letter, and one digit. Minimum length is 8 characters for ${user['userName*'] || `row ${rowNumber}`} user`,
+                        })
+                    );
+                }
+                notUploadedCount++;
+                continue;
+            }
+
+            if (validationResult.error) {
+                // Handle validation errors
+                console.log("ValerrorsMessg: ", validationResult.error.details[0].message)
+                if (!connectionId) {
+                    connectionId = await sendSocketMessage(event.processing_id, {
+                        message: `${validationResult.error.details[0].message} for ${user['userName*'] || `row ${rowNumber}`} user`
+                    });
+                } else {
+                    await sendMessageToConnection(
+                        connectionId,
+                        JSON.stringify({
+                            message: `${validationResult.error.details[0].message} for ${user['userName*'] || `row ${rowNumber}`} user`
+                        })
+                    );
+                }
+                notUploadedCount++;
+                continue;
+            }
+
 
             try {
                 // Create users in Cognito
                 await cognito.signUp({
                     ClientId: '7k6a8mfavvsj2srjkqm828j5di',
-                    Password: user.password || user.admission_no.toString(),
-                    Username: user.userName,
+                    Password: user['password*'],
+                    Username: user['userName*'],
                     UserAttributes: [
                         {
                             Name: 'name',
-                            Value: user.firstname + ' ' + user.lastname,
+                            Value: user['firstname*'] + ' ' + user['lastname*'],
                         },
                         {
                             Name: 'email',
@@ -64,22 +119,18 @@ exports.handler = async (event, context, callback) => {
                         },
                         {
                             Name: 'phone_number',
-                            Value: `+91${user.mobile}`,
+                            Value: `+91${user['mobile*']}`,
                         },
                         {
                             Name: 'custom:custom:role',
-                            Value: user.user_role,
+                            Value: user['user_role*'],
                         },
                     ],
                 }).promise();
             } catch (error) {
                 console.log('Cognito error', error);
-                /* return {
-                    statusCode: 500,
-                    response: { error, message: 'Error on adding users to Cognito' },
-                }; */
                 console.log("connID", connectionId)
-                const errResponse = { message: error.code === 'UsernameExistsException' ? `User with ${user.userName} already exists` : 'Error on adding users to Cognito', isError: true }
+                const errResponse = { message: error.code === 'UsernameExistsException' ? `User with ${user['userName*']} already exists` : 'Error on adding users to Cognito', isError: true }
                 if (!connectionId)
                     connectionId = await sendSocketMessage(event.processing_id, errResponse)
                 else
@@ -91,30 +142,44 @@ exports.handler = async (event, context, callback) => {
                 continue;
             }
 
-            if (user.user_role.toLowerCase() === 'student') {
+            if (user['user_role*'].toLowerCase() === 'student') {
                 const userObj = {
-                    user_id: `USER-${uuidv4()}`,
-                    roll_no: user.roll_no,
-                    admission_no: user.admission_no,
-                    userName: user.userName,
+                    user_id: `USER - ${uuidv4()} `,
+                    admission_no: user['admission_no*'],
+                    userName: user['userName*'],
                     father_name: user.father_name,
-                    mobile: `+91${user.mobile}`,
-                    class: user.class,
-                    firstname: user.firstname,
+                    mother_name: user.mother_name,
+                    mobile: `+91${user['mobile*']}`,
+                    firstname: user['firstname*'],
                     lastname: user.lastname,
                     dob: user.dob,
-                    user_role: user.user_role,
-                    institute_id: instituteId,
-                    branch_id: branchId,
-                    batch_id: user.batch_id,
-                    batch_name: user.batch_name,
-                    status: user.status,
+                    password: user['password*'],
+                    user_role: user['user_role*'],
+                    batch_id: user['batch_id*'],
+                    batch_name: user['batch_name*'],
+                    year: user.year,
+                    academic_year: user.academic_year,
+                    address: user.address,
+                    pincode: user.pincode,
+                    state: user.state,
+                    city: user.city,
+                    nationality: user.nationality,
+                    area_name: user.area_name,
+                    aadhar_no: user.aadhar_no,
+                    religion: user.religion,
+                    community: user.community,
+                    caste: user.caste,
+                    parent_mobile: user.parent_mobile,
+                    registration_type: user.registration_type,
+                    sats_no: user.sats_no,
+                    status: user['status*'],
                     gender: user.gender,
+                    remarks: user.remarks,
                     course: user.course_id_1
                         ? [
                             {
-                                course_id: user.course_id,
-                                course_name: user.course_name,
+                                course_id: user['course_id*'],
+                                course_name: user['course_name*'],
                             },
                             {
                                 course_id: user.course_id_1,
@@ -123,26 +188,28 @@ exports.handler = async (event, context, callback) => {
                         ]
                         : [
                             {
-                                course_id: user.course_id,
-                                course_name: user.course_name,
+                                course_id: user['course_id*'],
+                                course_name: user['course_name*'],
                             },
                         ],
+
                 };
                 finalArray.push(userObj);
-            } else if (user.user_role.toLowerCase() === 'staff' || user.user_role.toLowerCase() === 'teacher') {
+            } else if (user['user_role*'].toLowerCase() === 'staff' || user['user_role*'].toLowerCase() === 'teacher') {
                 const userObj = {
-                    user_id: `USER-${uuidv4()}`,
-                    userName: user.userName,
-                    firstname: user.firstname,
+                    user_id: `USER - ${uuidv4()} `,
+                    userName: user['userName*'],
+                    password: user['password*'],
+                    firstname: user['firstname*'],
                     lastname: user.lastname,
                     dob: user.dob,
-                    mobile: `+91${user.mobile}`,
-                    department: user.department,
-                    designation: user.designation,
+                    mobile: `+91${user['mobile*']}`,
+                    department: user['department*'],
+                    designation: user['designation*'],
                     gender: user.gender,
                     blood_group: user.blood_group,
                     spouse_name: user.spouse_name,
-                    fathername: user.fathername,
+                    father_name: user.father_name,
                     date_of_joining: user.date_of_joining,
                     profile_picture: user.profile_picture,
                     email: user.email,
@@ -171,12 +238,16 @@ exports.handler = async (event, context, callback) => {
                     contract_start_date: user.contract_start_date,
                     country_of_issue: user.country_of_issue,
                     contract_type: user.contract_type,
-                    user_role: user.user_role,
+                    user_role: user['user_role*'],
                     institute_id: instituteId,
                     branch_id: branchId,
+                    status: user['status*'],
                 };
                 finalArray.push(userObj);
             }
+
+            let courseIds = await getCourseIdsByBatchId(instituteId, branchId, batch_id)
+            console.log("courseIds",courseIds)
 
             // Batch write users to DynamoDB when the finalArray reaches the desired batch size
             if (finalArray.length >= 100) {
@@ -213,8 +284,8 @@ exports.handler = async (event, context, callback) => {
             );
     } finally {
         uploadedCount = totalUsers - notUploadedCount;
-        let finalMessage = `Processing done - TotalUsers:${totalUsers} UploadedUsers: ${uploadedCount} notUploadedUsers:${notUploadedCount}`
-        console.log("finalMsg",finalMessage)
+        let finalMessage = `Processing done - TotalUsers:${totalUsers} UploadedUsers: ${uploadedCount} notUploadedUsers:${notUploadedCount} `
+        console.log("finalMsg", finalMessage)
         if (!connectionId)
             connectionId = await sendSocketMessage(event.processing_id, { message: finalMessage, finished: true, notUploadedCount, uploadedCount })
         else
@@ -225,6 +296,44 @@ exports.handler = async (event, context, callback) => {
 
     }
 };
+
+async function getCourseIdsByBatchId(instituteId, branchId, batch_id) {
+    try {
+        const params = {
+            TableName: 'Institute',
+            Key: {
+                institute_id: instituteId,
+            },
+            ProjectionExpression: 'branches',
+        };
+
+        const result = await db.get(params).promise();
+
+        if (result.Item) {
+            const branch = result.Item.branches.find(b => b.branch_id === branchId);
+
+            if (branch) {
+                const batch = branch.batch.find(b => b.id === batch_id);
+
+                if (batch) {
+                    return batch.course_ids || [];
+                } else {
+                    console.log(`Batch with ID ${batch_id} not found in the branch with ID ${branchId}`);
+                    return [];
+                }
+            } else {
+                console.log(`Branch with ID ${branchId} not found in the institute with ID ${instituteId}`);
+                return [];
+            }
+        } else {
+            console.log(`Institute with ID ${instituteId} not found`);
+            return [];
+        }
+    } catch (error) {
+        console.error('Error getting course_ids from DynamoDB:', error);
+        throw error;
+    }
+}
 
 async function BatchWrite(data) {
     const batchedItems = [];
