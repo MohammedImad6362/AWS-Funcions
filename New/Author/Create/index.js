@@ -19,7 +19,7 @@ exports.handler = async (event) => {
     const { error, value } = authorValidationSchema.validate({ name: event.name });
     
     if (error) {
-      console.log("error",error)
+      console.log("Valerror",error)
       return {
         statusCode: 400,
         body: JSON.stringify({ message: error.details[0].message }),

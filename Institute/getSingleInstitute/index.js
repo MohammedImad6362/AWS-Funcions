@@ -24,11 +24,7 @@ exports.handler = async (event) => {
             useUnifiedTopology: true,
         });
 
-        const result = await Institute.findByIdAndUpdate(
-            instituteId,
-            { $set: { deleted: true } },
-            { new: true }
-        );
+        const result = await Institute.findOne({ _id: instituteId, deleted: false });
 
         await mongoose.disconnect();
 
