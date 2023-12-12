@@ -31,7 +31,7 @@ exports.handler = async (event) => {
         if (!result) {
             return response({
                 statusCode: 404,
-                body: JSON.stringify({ message: 'Institute not found' }),
+                body: JSON.stringify({ message: 'Institute not found with this _id' }),
             });
         }
 

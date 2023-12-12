@@ -5,10 +5,14 @@ const Joi = require('joi');
 exports.handler = async (event, context) => {
   try {
     const instituteId = event.pathParameters.institute_id;
-    const branchId = event.pathParameters.branch_id;
-    const batchId = event.pathParameters.batch_id;
+    console.log("id", instituteId)
 
-    const requestBody = event.body;
+    const requestBody = JSON.parse(event.body);
+    console.log("body", requestBody)
+
+    const branchId = requestBody.branch_id;
+    const batchId = requestBody.id;
+
 
     // Add validation schema for batch attributes
     const batchSchema = Joi.object({
@@ -20,22 +24,25 @@ exports.handler = async (event, context) => {
       status: Joi.string().valid("ACTIVE", "INACTIVE").allow(''),
       student_limit: Joi.number().integer().allow(null),
       course_ids: Joi.array().items(Joi.string()).allow(null),
+      branch_id: Joi.string().required(),
+      id: Joi.string().required()
     });
 
     const { error } = batchSchema.validate(requestBody);
 
     if (error) {
-      return {
+      return response({
         statusCode: 400,
-        body: {
+        body: JSON.stringify({
           error: 'Bad Request',
           msg: error.details[0].message,
-        },
-      };
+        }),
+      });
     }
 
     const existingInstitute = await getInstituteData(instituteId);
-
+    
+     
     if (!existingInstitute) {
       return response({
         statusCode: 400,
@@ -55,7 +62,7 @@ exports.handler = async (event, context) => {
     }
 
     const batchIndex = existingInstitute.branches[branchIndex].batch.findIndex(
-      (batch) => batch.batch_id === batchId
+      (batch) => batch.id === batchId
     );
 
     if (batchIndex === -1) {
@@ -64,6 +71,28 @@ exports.handler = async (event, context) => {
         body: JSON.stringify({ msg: "Batch not found" })
       })
     }
+    
+    const exceededLimits = [];
+
+    const checkLimit = (limitType, bodyValue, instituteValue) => {
+      if (parseInt(bodyValue) > parseInt(instituteValue)) {
+        exceededLimits.push(limitType);
+      }
+    };
+
+    await checkLimit("student_limit", requestBody.student_limit, existingInstitute.branches[0].batch_student_limit);
+    console.log("req",requestBody.student_limit)
+
+    const batch_student_limit = existingInstitute.branches[0].batch_student_limit
+    if (exceededLimits.length > 0) {
+      return response({
+        statusCode: 400,
+        body: JSON.stringify({
+          msg: `${exceededLimits} exceeded ${batch_student_limit}`
+        }),
+      });
+    }
+
 
     // Merge the updated batch data with the existing batch
     const updatedBatch = { ...existingInstitute.branches[branchIndex].batch[batchIndex], ...requestBody };
@@ -98,6 +127,7 @@ exports.handler = async (event, context) => {
     });
   }
   catch (err) {
+    console.log(err)
     return response({
       statusCode: 500,
       body: JSON.stringify({ error: err.message })

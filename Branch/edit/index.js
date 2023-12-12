@@ -1,162 +1,91 @@
-const AWS = require("aws-sdk");
-const Joi = require("joi");
+const AWS = require('aws-sdk');
+const mongoose = require('mongoose');
+const { Institute, Branch } = require('./schema')
+const Joi = require('joi');
+const branchSchema = require('./validations');
+Joi.objectId = require('joi-objectid')(Joi);
 
-const db = new AWS.DynamoDB.DocumentClient({ region: "ap-south-1" });
-
-exports.editBranch = async (event) => {
+exports.handler = async (event) => {
   try {
-    const { error } = editBranchSchema.validate(event);
-    if (error) {
-      console.error("Validation error:", error.details[0].message);
+    let instituteId = event.pathParameters.instituteId;
+    let branchId = event.pathParameters.id;
+
+    const { error: idError } = Joi.object({
+      instituteId: Joi.objectId().required(),
+      branchId: Joi.objectId().required(),
+    }).validate({ instituteId, branchId });
+
+    if (idError) {
+      console.log('err', idError);
       return response({
         statusCode: 400,
-        body: error.details[0].message,
+        body: JSON.stringify({ message: idError.details[0].message }),
       });
     }
-    const instituteId = event.pathParameters.institute_id;
-    const branchId = event.pathParameters.branch_id;
 
-    // Retrieve the existing institute data
-    const existingInstitute = await getInstituteData(instituteId);
-    console.log("InstData", existingInstitute);
+    const reqBody = JSON.parse(event.body);
 
-    if (!existingInstitute) {
+    const { error } = branchSchema.validate(reqBody);
+    if (error) {
       return response({
-        statusCode: 404,
-        body: "Institute not found",
+        statusCode: 400,
+        body: JSON.stringify({ message: error.details[0].message }),
       });
     }
 
-    // Find the branch within the institute by branch_id
-    const branchIndex = existingInstitute.branches.findIndex(
-      (branch) => branch.branch_id === branchId
+    await mongoose.connect("mongodb://upmyranks:upmyranks@docdb-2023-04-09-13-10-41.cgaao9qpsg6i.ap-south-1.docdb.amazonaws.com:27017/upmyranks?ssl=true&retryWrites=false",
+      {
+        useNewUrlParser: true,
+        useUnifiedTopology: true
+      }
     );
-    console.log("branch", branchIndex);
 
-    if (branchIndex === -1) {
+    const instituteExist = await Institute.findOne({ _id: instituteId, deleted: false })
+
+    if (!instituteExist) {
+      console.log("bad request-inst")
       return response({
         statusCode: 404,
-        body: "Branch not found",
-      });
+        body: JSON.stringify({ message: "Institute not found with this id" })
+      })
     }
 
-    const updatedData = {
-      name: event.body.name,
-      logo: event.body.logo,
-      contact_no: event.body.contact_no,
-      address: event.body.address,
-      email: event.body.email,
-      pincode: event.body.pincode,
-      area: event.body.area,
-      city: event.body.city,
-      state: event.body.state,
-      course_ids: event.body.course_ids,
-      expiry_date: event.body.expiry_date,
-      student_limit: event.body.student_limit,
-      teacher_limit: event.body.teacher_limit,
-      nonteacher_limit: event.body.nonteacher_limit,
-      question_limit: event.body.question_limit,
-      password: event.body.password,
-      status: event.body.status,
-    };
+    const updateBranch = await Branch.findByIdAndUpdate({ _id: branchId, deleted: false },
+      { $set: { ...reqBody } },
+      { new: true }
+    )
+    if (!updateBranch) {
+      console.log("bad request-branch")
+      return response({
+        statusCode: 404,
+        body: JSON.stringify({ message: "Branch not found with this id" })
+      })
+    }
+    await mongoose.disconnect();
 
-    // Merge the updated data with the existing branch data
-    const updatedBranch = { ...existingInstitute.branches[branchIndex], ...updatedData };
-
-    // Update the branch within the institute
-    existingInstitute.branches[branchIndex] = updatedBranch;
-
-    // Update the institute in DynamoDB
-    await updateInstituteData(instituteId, existingInstitute);
-
-    return JSON.stringify(response({
-      statusCode: 200,
-      body: "Branch updated",
-    }));
-  }
-  catch (error) {
-    console.log("Error", error);
     return response({
-      statusCode: 400,
-      body: error.message,
-    });
-  }
-};
+      statusCode: 200,
+      body: JSON.stringify({ message: "Branch updated successfully" })
+    })
 
-async function getInstituteData(instituteId) {
-  const params = {
-    TableName: "Institute",
-    Key: {
-      institute_id: instituteId,
-    },
-  };
-
-  try {
-    const data = await db.get(params).promise();
-    return data.Item; 
-  }
-  catch (error) {
-    console.error("Error:", error);
-    throw error;
+  } catch (err) {
+    console.log("server error", err)
+    return response({
+      statusCode: 500,
+      body: JSON.stringify({ message: 'Server Error' })
+    })
   }
 }
-
-async function updateInstituteData(instituteId, updatedData) {
-  const params = {
-    TableName: "Institute", 
-    Key: {
-      institute_id: instituteId,
-    },
-    UpdateExpression: "SET #branches = :branches",
-    ExpressionAttributeNames: {
-      "#branches": "branches",
-    },
-    ExpressionAttributeValues: {
-      ":branches": updatedData.branches,
-    },
-    ReturnValues: "ALL_NEW",
-  };
-
-  try {
-    await db.update(params).promise();
-  }
-  catch (error) {
-    console.error("Error:", error);
-    throw error;
-  }
-}
-
-const editBranchSchema = Joi.object({
-  name: Joi.string(),
-  logo: Joi.string(),
-  contact_no: Joi.string()
-    .pattern(/^\d{10}$/), 
-  email: Joi.string().email(),
-  address: Joi.string(),
-  pincode: Joi.string()
-    .pattern(/^\d{6}$/), 
-  area: Joi.string(),
-  city: Joi.string(),
-  state: Joi.string(),
-  course_ids: Joi.array().items(Joi.string()),
-  expiry_date: Joi.date().iso(),
-  student_limit: Joi.number().integer(),
-  teacher_limit: Joi.number().integer(),
-  nonteacher_limit: Joi.number().integer(),
-  question_limit: Joi.number().integer(),
-  password: Joi.string(),
-  status: Joi.string()
-});
 
 const response = (res) => {
-    return {
-        headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-            'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
-            'Access-Control-Allow-Headers': 'Content-Type, Authorization',
-        },
-        statusCode: res.statusCode,
-        body: res.body,
-    };
+  return {
+    headers: {
+      'Content-Type': 'application/json',
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
+      'Access-Control-Allow-Headers': 'Content-Type, instituteization',
+    },
+    statusCode: res.statusCode,
+    body: res.body,
+  };
 };
