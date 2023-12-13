@@ -75,13 +75,16 @@ exports.handler = async (event) => {
 
 const response = (res) => {
   return {
-    headers: {
-      'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
-      'Access-Control-Allow-Headers': 'Content-Type, instituteization',
-    },
-    statusCode: res.statusCode,
-    body: res.body,
+      headers: {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
+          'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+      },
+      statusCode: res.statusCode,
+      body: JSON.stringify({
+          ...JSON.parse(res.body),
+          statusCode: res.statusCode,
+      }),
   };
 };

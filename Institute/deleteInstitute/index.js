@@ -1,9 +1,12 @@
 const mongoose = require('mongoose');
+const { startSession } = require('mongoose');
 const Joi = require('joi');
-const Institute = require('./schema');
+const { Institute, Branch, Batch } = require('./schema');
 Joi.objectId = require('joi-objectid')(Joi);
 
 exports.handler = async (event) => {
+    let session;
+
     try {
         const instituteId = event.pathParameters.id;
 
@@ -24,24 +27,25 @@ exports.handler = async (event) => {
             useUnifiedTopology: true,
         });
 
-        const result = await Institute.findByIdAndUpdate(
-            instituteId,
-            { $set: { deleted: true } },
-            { new: true }
-        );
+        session = await startSession();
+        await session.startTransaction();
 
-        await mongoose.disconnect();
+        try {
+            await deleteInstituteAndItsData(instituteId, session);
 
-        if (!result) {
-            return response({
-                statusCode: 404,
-                body: JSON.stringify({ message: 'Institute not found' }),
-            });
+            await session.commitTransaction();
+        } catch (err) {
+            console.error('Transaction Error:', err);
+            await session.abortTransaction();
+            throw err;
+        } finally {
+            session.endSession();
+            await mongoose.disconnect();
         }
 
         return response({
             statusCode: 200,
-            body: JSON.stringify({ data: result }),
+            body: JSON.stringify({ message: 'Institute deleted successfully' }),
         });
     } catch (error) {
         console.error('Error getting institute:', error);
@@ -52,6 +56,44 @@ exports.handler = async (event) => {
     }
 };
 
+
+const deleteInstituteAndItsData = async (instituteId, session) => {
+    // Find all branchIds associated with the given instituteId
+    const branchData = await Branch.find({ instituteId, deleted: false });
+    console.log(branchData);
+
+    for (let i = 0; i < branchData.length; i++) {
+        const branchId = branchData[i]._id;
+        console.log("branchId", branchId);
+
+        // Iterate through each branchId and update batches
+        const deletedBatch = await Batch.updateOne(
+            { branchId, deleted: false },
+            { $set: { deleted: true } },
+            { session }
+        );
+
+        console.log("bat", deletedBatch);
+    }
+
+    // Delete all branches with the given instituteId
+    await Branch.updateMany({ instituteId, deleted: false }, { $set: { deleted: true } }, { session });
+
+    // Finally delete the institute
+    const result = await Institute.findByIdAndUpdate(
+        instituteId,
+        { $set: { deleted: true } },
+        { new: true, session }
+    );
+
+    if (!result) {
+        throw new Error('Institute not found with this id');
+    }
+
+    return result;
+};
+
+
 const response = (res) => {
     return {
         headers: {
@@ -61,6 +103,6 @@ const response = (res) => {
             'Access-Control-Allow-Headers': 'Content-Type, Authorization',
         },
         statusCode: res.statusCode,
-        body: res.body,
-    };
-};
+        body: res.body
+    }
+}
