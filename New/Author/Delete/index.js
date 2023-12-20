@@ -11,10 +11,8 @@ const Author = mongoose.model('Author', authorSchema);
 
 exports.handler = async (event) => {
     try {
-        await mongoose.connect('mongodb://upmyranks:upmyranks@docdb-2023-04-09-13-10-41.cgaao9qpsg6i.ap-south-1.docdb.amazonaws.com:27017/upmyranks?ssl=true&retryWrites=false', {
-            useNewUrlParser: true,
-            useUnifiedTopology: true,
-        });
+        await mongoose.connect('mongodb://upmyranks:upmyranks@docdb-2023-04-09-13-10-41.cgaao9qpsg6i.ap-south-1.docdb.amazonaws.com:27017/upmyranks?ssl=true&retryWrites=false');
+        console.log("Connection Successfull")
 
         const authorId = event.pathParameters.id;
         const { error: idError } = Joi.object({

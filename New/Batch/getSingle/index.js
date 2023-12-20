@@ -33,7 +33,7 @@ exports.handler = async (event) => {
       }
     }
 
-    const batchData = await Batch.findOne({ _id: batchId, deleted: false })
+    const batchData = await Batch.findOne({ _id: batchId, deleted: false }).select('-createdAt -updatedAt -deleted');
     if (!batchData) {
       console.log("bad request-branch")
       return {

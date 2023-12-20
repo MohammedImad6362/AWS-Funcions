@@ -22,7 +22,7 @@ exports.handler = async (event) => {
       console.log("Valerror",error)
       return {
         statusCode: 400,
-        body: JSON.stringify({ message: error.details[0].message }),
+        message: error.details[0].message
       };
     }
 
@@ -44,13 +44,13 @@ exports.handler = async (event) => {
 
     return {
       statusCode: 200,
-      body: JSON.stringify({ message: 'Author created successfully' }),
+      message: 'Author created successfully'
     };
   } catch (error) {
     console.error('Error creating author:', error);
     return {
       statusCode: 500,
-      body: JSON.stringify({ message: 'Error creating author' }),
-    };
+      message: 'Error creating author'
+    }
   }
 };

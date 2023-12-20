@@ -4,7 +4,7 @@ const instituteSchema = require("./validations");
 const Institute = require('./schema');
 
 mongoose.connect("mongodb://upmyranks:upmyranks@docdb-2023-04-09-13-10-41.cgaao9qpsg6i.ap-south-1.docdb.amazonaws.com:27017/upmyranks?ssl=true&retryWrites=false",
-  { useNewUrlParser: true, useUnifiedTopology: true, connectTimeoutMS: 30000, });
+  { useNewUrlParser: true, useUnifiedTopology: true });
 
 exports.handler = async (event, context, callback) => {
   const { error } = instituteSchema.validate(event);
@@ -13,9 +13,7 @@ exports.handler = async (event, context, callback) => {
     console.log("valErr", error)
     return {
       statusCode: 400,
-      body: JSON.stringify({
-        message: error.details[0].message,
-      }),
+      message: error.details[0].message,
     };
   }
 
@@ -41,7 +39,7 @@ exports.handler = async (event, context, callback) => {
 
       return {
         statusCode: 400,
-        body: JSON.stringify({ message: `with this ${nonUniqueFields[0]} institute already exists...` })
+        message: `with this ${nonUniqueFields[0]} institute already exists...`
       };
     }
 
@@ -63,13 +61,13 @@ exports.handler = async (event, context, callback) => {
 
     return {
       statusCode: 200,
-      body: JSON.stringify({ message: "Institute Added Successfully" })
+      message: "Institute Added Successfully"
     };
   } catch (err) {
     console.log("err", err)
     return {
       statusCode: 500,
-      body: JSON.stringify({ message: err.message })
+      message: err.message
     };
   }
 };

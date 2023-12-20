@@ -1,7 +1,7 @@
 const AWS = require("aws-sdk");
 const mongoose = require("mongoose");
 const branchSchema = require("./validations");
-const {Institute, Branch} = require('./schema');
+const { Institute, Branch } = require('./schema');
 
 mongoose.connect("mongodb://upmyranks:upmyranks@docdb-2023-04-09-13-10-41.cgaao9qpsg6i.ap-south-1.docdb.amazonaws.com:27017/upmyranks?ssl=true&retryWrites=false",
     { useNewUrlParser: true, useUnifiedTopology: true });
@@ -13,9 +13,7 @@ exports.handler = async (event, context, callback) => {
         console.log("valErr", error)
         return {
             statusCode: 400,
-            body: JSON.stringify({
-                message: error.details[0].message,
-            }),
+            message: error.details[0].message,
         };
     }
 
@@ -35,7 +33,7 @@ exports.handler = async (event, context, callback) => {
         if (!existInstitute) {
             return {
                 statusCode: 404,
-                body: JSON.stringify({ message: 'Institute not found with this id' }),
+                message: 'Institute not found with this id'
             };
         }
         if (buf) {
@@ -65,13 +63,13 @@ exports.handler = async (event, context, callback) => {
 
         return {
             statusCode: 200,
-            body: JSON.stringify({ message: "Branch added Successfully" })
+            message: "Branch added Successfully"
         };
     } catch (err) {
         console.log("err", err)
         return {
             statusCode: 500,
-            body: JSON.stringify({ message: err.message })
+            message: err.message
         };
     }
 };

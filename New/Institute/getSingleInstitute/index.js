@@ -24,14 +24,14 @@ exports.handler = async (event) => {
             useUnifiedTopology: true,
         });
 
-        const result = await Institute.findOne({ _id: instituteId, deleted: false });
+        const result = await Institute.findOne({ _id: instituteId, deleted: false }).select('-createdAt -updatedAt -deleted');
 
         await mongoose.disconnect();
 
         if (!result) {
             return response({
                 statusCode: 404,
-                body: JSON.stringify({ message: 'Institute not found' }),
+                body: JSON.stringify({ message: 'Institute not found with this _id' }),
             });
         }
 

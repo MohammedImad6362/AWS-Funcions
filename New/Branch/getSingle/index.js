@@ -39,7 +39,7 @@ exports.handler = async (event) => {
             }
         }
 
-        const branchdata = await Branch.findOne({ _id: branchId, deleted: false })
+        const branchdata = await Branch.findOne({ _id: branchId, deleted: false }).select('-logo -createdAt -updatedAt -deleted')
         if (!branchdata) {
             console.log("bad request-branch")
             return {

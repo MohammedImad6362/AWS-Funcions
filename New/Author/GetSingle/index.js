@@ -29,7 +29,7 @@ exports.handler = async (event) => {
       useUnifiedTopology: true,
     });
 
-    const result = await Author.findOne({ _id: authorId, deleted: false });
+    const result = await Author.findOne({ _id: authorId, deleted: false }).select('_id name');
 
     await mongoose.disconnect();
 

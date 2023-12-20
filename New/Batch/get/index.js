@@ -14,7 +14,7 @@ exports.handler = async (event) => {
       console.log('ValErr', idError);
       return {
         statusCode: 400,
-        body: JSON.stringify({ message: idError.details[0].message }),
+        message: idError.details[0].message,
       };
     }
 
@@ -26,24 +26,34 @@ exports.handler = async (event) => {
       console.log("bad request-branch")
       return {
         statusCode: 404,
-        body: JSON.stringify({ message: 'Branch not found with this id' })
+        message: 'Branch not found with this id'
       }
     }
 
-    const batchData = await Batch.find({ deleted: false })
+    const startPage = 1;
+    const minLimit = 10;
+
+    const page = event.page || startPage;
+    const limit = event.limit || minLimit;
+
+    const skip = (page - 1) * limit;
+
+    const batchData = await Batch.find({ deleted: false }).select('-createdAt -updatedAt -deleted').skip(skip).limit(limit);
 
     await mongoose.disconnect();
 
     return {
       statusCode: 200,
-      body: JSON.stringify({ data: batchData })
+      data: batchData,
+      page: page,
+      limit: limit
     }
 
   } catch (err) {
     console.log("server error", err)
     return {
       statusCode: 500,
-      body: JSON.stringify({ message: 'Server error' })
+      message: 'Server error'
     }
   }
 }

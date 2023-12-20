@@ -45,7 +45,7 @@ exports.handler = async (event) => {
     if (!instituteExist) {
       console.log("bad request-inst")
       return response({
-        statusCode: 400,
+        statusCode: 404,
         body: JSON.stringify({ message: "Institute not found with this id" })
       })
     }
@@ -57,7 +57,7 @@ exports.handler = async (event) => {
     if (!updateBranch) {
       console.log("bad request-branch")
       return response({
-        statusCode: 400,
+        statusCode: 404,
         body: JSON.stringify({ message: "Branch not found with this id" })
       })
     }
@@ -83,7 +83,7 @@ const response = (res) => {
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
-      'Access-Control-Allow-Headers': 'Content-Type, instituteization',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
     },
     statusCode: res.statusCode,
     body: res.body,
