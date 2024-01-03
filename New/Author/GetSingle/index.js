@@ -4,6 +4,7 @@ Joi.objectId = require('joi-objectid')(Joi);
 
 const authorSchema = new mongoose.Schema({
   name: String,
+  profileImage: String
 });
 
 const Author = mongoose.model('Author', authorSchema);
@@ -29,7 +30,7 @@ exports.handler = async (event) => {
       useUnifiedTopology: true,
     });
 
-    const result = await Author.findOne({ _id: authorId, deleted: false }).select('_id name');
+    const result = await Author.findOne({ _id: authorId, deleted: false }).select('_id name profileImage createdAt');
 
     await mongoose.disconnect();
 
