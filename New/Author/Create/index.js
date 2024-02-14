@@ -29,10 +29,10 @@ exports.handler = async (event) => {
 
     if (error) {
       console.log("Valerror", error)
-      return {
+      return response({
         statusCode: 400,
         body: JSON.stringify({ message: error.details[0].message })
-      };
+      });
     }
 
     await mongoose.connect('mongodb://upmyranks:upmyranks@docdb-2023-04-09-13-10-41.cgaao9qpsg6i.ap-south-1.docdb.amazonaws.com:27017/upmyranks?ssl=true&retryWrites=false');
@@ -61,9 +61,9 @@ exports.handler = async (event) => {
         authorData.profileImage = profileImage;
       } catch (s3Error) {
         if (s3Error.code === "NotFound") {
-          return {
+          return response({
             body: JSON.stringify({ message: "No image found in S3 with this filePath" }),
-          };
+          });
         } else {
           throw s3Error;
         }
@@ -74,9 +74,9 @@ exports.handler = async (event) => {
       const contentType = files[0].contentType;
 
       if (!contentType.startsWith("image/")) {
-        return {
+        return response({
           body: JSON.stringify({ message: "File must be an image file" }),
-        };
+        });
       }
 
       const key = `authorProfileImages/${new Date().toISOString()}_${formData.name}`;
@@ -99,17 +99,29 @@ exports.handler = async (event) => {
 
     await mongoose.disconnect();
 
-    return {
+    return response({
       statusCode: 200,
       body: JSON.stringify({ message: "Author added successfully" })
-    };
+    });
   } catch (error) {
     console.error('Error creating author:', error);
-    return {
+    return response({
       statusCode: 500,
       body: JSON.stringify({ message: 'Error creating author' })
-    }
+    })
   }
 };
 
 
+const response = (res) => {
+  return {
+    headers: {
+      'Content-Type': 'application/json',
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+    },
+    statusCode: res.statusCode,
+    body: res.body,
+  };
+};
